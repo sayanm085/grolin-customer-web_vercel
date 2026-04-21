@@ -13,13 +13,21 @@ const LOCAL_PUBLIC_ASSET_PREFIXES = [
 export const PRODUCT_IMAGE_PLACEHOLDER = '/images/product-placeholder.svg'
 
 function getImageBaseUrl() {
-  const apiBase = process.env.NEXT_PUBLIC_API_URL
-
-  if (apiBase?.startsWith('http://') || apiBase?.startsWith('https://')) {
-    return apiBase.replace(/\/api\/v1\/?$/, '')
+  const apiOrigin = getAbsoluteOrigin(process.env.NEXT_PUBLIC_API_URL)
+  if (apiOrigin) {
+    return apiOrigin
   }
 
-  return process.env.NEXT_PUBLIC_SOCKET_URL || FALLBACK_MEDIA_ORIGIN
+  const socketOrigin = getAbsoluteOrigin(process.env.NEXT_PUBLIC_SOCKET_URL)
+  if (socketOrigin && shouldUseLocalOrigin(socketOrigin)) {
+    return socketOrigin
+  }
+
+  if (socketOrigin && !isLocalOrigin(socketOrigin)) {
+    return socketOrigin
+  }
+
+  return FALLBACK_MEDIA_ORIGIN
 }
 
 export const getImageUrl = (url: string | null | undefined): string => {
@@ -165,13 +173,42 @@ function getAbsoluteOrigin(candidate?: string | null) {
   return null
 }
 
+function isLocalOrigin(candidate: string) {
+  try {
+    const { hostname } = new URL(candidate)
+    return hostname === 'localhost' || hostname === '127.0.0.1'
+  } catch {
+    return false
+  }
+}
+
+function shouldUseLocalOrigin(candidate: string) {
+  if (!isLocalOrigin(candidate)) return true
+
+  if (typeof window !== 'undefined') {
+    return window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+  }
+
+  return process.env.NODE_ENV !== 'production'
+}
+
 function getMediaOrigin() {
-  return (
-    getAbsoluteOrigin(process.env.NEXT_PUBLIC_CDN_URL) ??
-    getAbsoluteOrigin(process.env.NEXT_PUBLIC_SOCKET_URL) ??
-    getAbsoluteOrigin(process.env.NEXT_PUBLIC_API_URL) ??
-    FALLBACK_MEDIA_ORIGIN
-  )
+  const cdnOrigin = getAbsoluteOrigin(process.env.NEXT_PUBLIC_CDN_URL)
+  if (cdnOrigin) return cdnOrigin
+
+  const apiOrigin = getAbsoluteOrigin(process.env.NEXT_PUBLIC_API_URL)
+  if (apiOrigin) return apiOrigin
+
+  const socketOrigin = getAbsoluteOrigin(process.env.NEXT_PUBLIC_SOCKET_URL)
+  if (socketOrigin && shouldUseLocalOrigin(socketOrigin)) {
+    return socketOrigin
+  }
+
+  if (socketOrigin && !isLocalOrigin(socketOrigin)) {
+    return socketOrigin
+  }
+
+  return FALLBACK_MEDIA_ORIGIN
 }
 
 function inferCategoryFallback(values: Array<string | null | undefined>) {
