@@ -6,11 +6,10 @@ import { HomeSectionHeader } from '@/components/home/HomeSectionHeader'
 import { ProductCard } from '@/components/product/ProductCard'
 import { ProductCardSkeleton } from '@/components/product/ProductCardSkeleton'
 import { QUERY_KEYS, STALE_TIMES } from '@/lib/constants'
-import api from '@/lib/api'
 import { ordersService } from '@/services/orders.service'
 import { categoriesService } from '@/services/categories.service'
 import { cartService } from '@/services/cart.service'
-import { normalizeProducts, productsService } from '@/services/products.service'
+import { productsService } from '@/services/products.service'
 import { useAuthStore } from '@/store/auth.store'
 import type { Cart } from '@/types/cart.types'
 import type { Order } from '@/types/order.types'
@@ -41,25 +40,6 @@ async function getRecommendedProducts(lastOrder: Order, cart: Cart | undefined) 
   const lastOrderProductIds = new Set(lastOrder.items.map((item) => item.productId).filter(Boolean))
   const cartProductIds = new Set((cart?.items ?? []).map((item) => item.productId).filter(Boolean))
   const excludeIds = new Set([...lastOrderProductIds, ...cartProductIds])
-
-  try {
-    const { data } = await api.get('/users/me/recommendations')
-    const rawProducts = Array.isArray(data?.data?.products)
-      ? data.data.products
-      : Array.isArray(data?.data)
-        ? data.data
-        : Array.isArray(data?.products)
-          ? data.products
-          : []
-
-    const normalized = normalizeProducts(rawProducts as Record<string, unknown>[])
-    const filtered = filterRecommendationProducts(normalized, excludeIds)
-    if (filtered.length >= 4) {
-      return filtered.slice(0, 8)
-    }
-  } catch {
-    // Fall back to derived recommendations from the user's last order.
-  }
 
   const categoryProducts = await Promise.all(
     Array.from(
@@ -107,20 +87,26 @@ function RecommendedSectionSkeleton() {
 export function RecommendedSection() {
   const isLoggedIn = useAuthStore((state) => state.isLoggedIn)
   const scrollRef = useRef<HTMLDivElement | null>(null)
+  const [hydrated, setHydrated] = useState(false)
   const [canScrollLeft, setCanScrollLeft] = useState(false)
   const [canScrollRight, setCanScrollRight] = useState(false)
+  const authReady = hydrated && isLoggedIn
+
+  useEffect(() => {
+    setHydrated(true)
+  }, [])
 
   const { data: ordersData, isLoading: loadingOrders } = useQuery({
     queryKey: QUERY_KEYS.orders({ limit: 12, scope: 'recommended-last-order' }),
     queryFn: () => ordersService.getAll({ limit: 12 }),
-    enabled: isLoggedIn,
+    enabled: authReady,
     staleTime: STALE_TIMES.orders,
   })
 
   const { data: cart } = useQuery({
     queryKey: QUERY_KEYS.cart,
     queryFn: cartService.get,
-    enabled: isLoggedIn,
+    enabled: authReady,
     staleTime: STALE_TIMES.cart,
   })
 
@@ -128,7 +114,7 @@ export function RecommendedSection() {
 
   const { data: products = [], isLoading: loadingRecommendations } = useQuery({
     queryKey: ['home', 'recommended', lastOrder?.id ?? 'none', (cart?.items ?? []).map((item) => item.productId).join(',')],
-    enabled: isLoggedIn && Boolean(lastOrder),
+    enabled: authReady && Boolean(lastOrder),
     staleTime: STALE_TIMES.products,
     queryFn: () => getRecommendedProducts(lastOrder!, cart),
   })
@@ -162,7 +148,7 @@ export function RecommendedSection() {
     })
   }
 
-  if (!isLoggedIn) return null
+  if (!authReady) return null
   if (loadingOrders || (lastOrder && loadingRecommendations)) return <RecommendedSectionSkeleton />
   if (!lastOrder || products.length < 4) return null
 
@@ -189,4 +175,3 @@ export function RecommendedSection() {
     </section>
   )
 }
-

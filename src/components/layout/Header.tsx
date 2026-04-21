@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import Image from 'next/image'
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { useQuery } from '@tanstack/react-query'
 import {
@@ -141,7 +141,9 @@ export function Header() {
 
   const addressTitle = activeAddress ? `${activeAddress.city}, ${activeAddress.state}` : 'Set delivery address'
   const addressLine = activeAddress ? activeAddress.address_line1 : 'Choose your default location'
-  const greetingLabel = useMemo(() => `${getGreeting()}, ${getFirstName(resolvedUser?.name)} 👋`, [resolvedUser?.name])
+  const greetingLabel = hydrated
+    ? `${getGreeting()}, ${getFirstName(resolvedUser?.name)} 👋`
+    : 'Hello, there 👋'
 
   useEffect(() => {
     setHydrated(true)

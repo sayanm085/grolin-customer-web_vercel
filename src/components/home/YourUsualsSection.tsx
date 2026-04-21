@@ -240,13 +240,19 @@ export function YourUsualsSection() {
   const user = useAuthStore((state) => state.user)
   const isLoggedIn = useAuthStore((state) => state.isLoggedIn)
   const [emblaRef, emblaApi] = useEmblaCarousel({ dragFree: true, containScroll: 'trimSnaps' })
+  const [hydrated, setHydrated] = useState(false)
   const [canScrollLeft, setCanScrollLeft] = useState(false)
   const [canScrollRight, setCanScrollRight] = useState(false)
+  const authReady = hydrated && isLoggedIn
+
+  useEffect(() => {
+    setHydrated(true)
+  }, [])
 
   const { data: ordersData, isLoading: loadingOrders } = useQuery({
     queryKey: QUERY_KEYS.orders({ limit: 20, scope: 'usuals' }),
     queryFn: () => ordersService.getAll({ limit: 20 }),
-    enabled: isLoggedIn,
+    enabled: authReady,
     staleTime: STALE_TIMES.orders,
   })
 
@@ -254,7 +260,7 @@ export function YourUsualsSection() {
 
   const { data: usualItems = [], isLoading: loadingProducts } = useQuery({
     queryKey: ['home', 'usuals', usualMeta.map((meta) => meta.productId).join(',')],
-    enabled: isLoggedIn && usualMeta.length > 0,
+    enabled: authReady && usualMeta.length > 0,
     staleTime: STALE_TIMES.products,
     queryFn: async () => {
       const resolved = await Promise.all(
@@ -323,7 +329,7 @@ export function YourUsualsSection() {
     else emblaApi.scrollNext()
   }
 
-  if (!isLoggedIn) return null
+  if (!authReady) return null
   if (loadingOrders || (usualMeta.length > 0 && loadingProducts)) return <UsualsSkeleton />
   if (usualItems.length < 4) return null
 

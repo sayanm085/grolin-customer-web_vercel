@@ -41,6 +41,17 @@ const SLIDE_THEMES = [
   { gradient: 'linear-gradient(135deg, rgba(25,12,5,0.50) 0%, rgba(18,8,3,0.35) 50%, rgba(25,12,5,0.22) 100%)', accent: '#FBBF24' },
 ]
 
+const FLOATING_PARTICLE_LAYOUTS = Array.from({ length: 6 }, (_, i) => ({
+  width: `${3 + (i % 4)}px`,
+  height: `${3 + ((i + 2) % 4)}px`,
+  left: `${14 + i * 13}%`,
+  top: `${18 + (i * 11) % 54}%`,
+  opacity: 0.15 + i * 0.025,
+  blur: `${1 + (i % 3)}px`,
+  duration: `${6 + i * 1.4}s`,
+  delay: `${i * 0.45}s`,
+}))
+
 function getEyebrow(banner: Banner, index: number) {
   return banner.subtitle?.trim() || EYEBROWS[index % EYEBROWS.length]
 }
@@ -55,20 +66,20 @@ function getHeroImageSrc(_banner: Banner, index: number): string {
 function FloatingParticles({ accent }: { accent: string }) {
   return (
     <div className="pointer-events-none absolute inset-0 z-[2] overflow-hidden" aria-hidden="true">
-      {Array.from({ length: 6 }).map((_, i) => (
+      {FLOATING_PARTICLE_LAYOUTS.map((particle, i) => (
         <div
           key={i}
           className="absolute rounded-full"
           style={{
-            width: `${3 + Math.random() * 4}px`,
-            height: `${3 + Math.random() * 4}px`,
-            left: `${10 + Math.random() * 80}%`,
-            top: `${15 + Math.random() * 70}%`,
+            width: particle.width,
+            height: particle.height,
+            left: particle.left,
+            top: particle.top,
             background: accent,
-            opacity: 0.15 + Math.random() * 0.2,
-            filter: `blur(${1 + Math.random() * 2}px)`,
-            animation: `hero-float-${i % 3} ${6 + Math.random() * 8}s ease-in-out infinite`,
-            animationDelay: `${Math.random() * 4}s`,
+            opacity: particle.opacity,
+            filter: `blur(${particle.blur})`,
+            animation: `hero-float-${i % 3} ${particle.duration} ease-in-out infinite`,
+            animationDelay: particle.delay,
           }}
         />
       ))}
