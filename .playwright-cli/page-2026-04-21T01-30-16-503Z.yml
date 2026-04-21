@@ -1,0 +1,570 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e5]:
+      - banner [ref=e7]:
+        - generic [ref=e8]:
+          - link "Go to homepage" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - img [ref=e11]
+            - generic [ref=e14]: Grolin
+          - link "Manage delivery address" [ref=e15] [cursor=pointer]:
+            - /url: /profile/addresses
+            - img [ref=e17]
+            - generic [ref=e23]:
+              - generic [ref=e24]: Set delivery address
+              - generic [ref=e25]: Choose your default location
+            - img [ref=e26]
+          - generic [ref=e30]:
+            - generic [ref=e31]:
+              - img [ref=e32]
+              - textbox "Search products" [ref=e35]:
+                - /placeholder: Search premium organic produce...
+            - button "Search" [ref=e36] [cursor=pointer]:
+              - text: Search
+              - img [ref=e37]
+          - generic [ref=e40]:
+            - link "Login" [ref=e42] [cursor=pointer]:
+              - /url: /login
+              - img [ref=e43]
+            - link "Wishlist (0 items)" [ref=e47] [cursor=pointer]:
+              - /url: /wishlist
+              - img [ref=e48]
+              - generic [ref=e50]: "0"
+            - link "Open cart with 0 items" [ref=e51] [cursor=pointer]:
+              - /url: /cart
+              - img [ref=e52]
+              - generic [ref=e58]: "0"
+            - button "Open menu" [ref=e60] [cursor=pointer]
+        - generic [ref=e66]:
+          - generic [ref=e67]: FREE delivery & 40% discount for your next 3 orders. Place your 1st order today.
+          - generic [ref=e68]:
+            - generic [ref=e69]: INR · English
+            - link "Help Center" [ref=e70] [cursor=pointer]:
+              - /url: /profile
+      - main [ref=e71]:
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e76]:
+              - img "Amul Toned Milk — 500ml" [ref=e77]
+              - button "Zoom image of Amul Toned Milk — 500ml" [ref=e78] [cursor=pointer]
+              - generic [ref=e79]:
+                - button "Add to wishlist" [ref=e80] [cursor=pointer]:
+                  - img [ref=e81]
+                - button "Share this product" [ref=e83] [cursor=pointer]:
+                  - img [ref=e84]
+              - generic [ref=e90]:
+                - img [ref=e91]
+                - text: Click to zoom
+            - generic [ref=e94]:
+              - generic [ref=e95]:
+                - button "Go back" [ref=e96] [cursor=pointer]:
+                  - img [ref=e97]
+                - navigation [ref=e99]:
+                  - link "Home" [ref=e100] [cursor=pointer]:
+                    - /url: /
+                  - generic [ref=e101]: /
+                  - link "Dairy & Eggs" [ref=e102] [cursor=pointer]:
+                    - /url: /categories
+                  - generic [ref=e103]: /
+                  - generic [ref=e104]: Amul Toned Milk — 500ml
+              - generic [ref=e105]:
+                - paragraph [ref=e106]: pack
+                - heading "Amul Toned Milk — 500ml" [level=1] [ref=e107]
+              - generic [ref=e108]:
+                - generic [ref=e109]:
+                  - generic "Rating 4.333333333333333 out of 5" [ref=e110]:
+                    - button [disabled] [ref=e111]:
+                      - img [ref=e112]
+                      - generic:
+                        - img
+                    - button [disabled] [ref=e114]:
+                      - img [ref=e115]
+                      - generic:
+                        - img
+                    - button [disabled] [ref=e117]:
+                      - img [ref=e118]
+                      - generic:
+                        - img
+                    - button [disabled] [ref=e120]:
+                      - img [ref=e121]
+                      - generic:
+                        - img
+                    - button [disabled] [ref=e123]:
+                      - img [ref=e124]
+                      - generic:
+                        - img
+                  - generic [ref=e126]: "4.3"
+                  - link "(3 reviews)" [ref=e127] [cursor=pointer]:
+                    - /url: "#reviews"
+                - generic [ref=e129]:
+                  - generic [ref=e130]:
+                    - generic [ref=e131]: A
+                    - generic [ref=e132]: B
+                    - generic [ref=e133]: C
+                    - generic [ref=e134]: D
+                  - generic [ref=e135]: Trusted by 1.1K buyers
+              - generic [ref=e136]:
+                - generic [ref=e137]:
+                  - generic [ref=e138]: ₹28
+                  - generic [ref=e139]: Per pack
+                - paragraph [ref=e140]: ₹28 per 100g
+              - generic [ref=e143]: In Stock
+              - generic [ref=e144]:
+                - generic [ref=e145]:
+                  - paragraph [ref=e147]: Quantity
+                  - generic [ref=e148]:
+                    - generic [ref=e149]:
+                      - button "Decrease selected quantity of Amul Toned Milk — 500ml" [ref=e150] [cursor=pointer]:
+                        - img [ref=e151]
+                      - generic [ref=e152]: "1"
+                      - button "Increase selected quantity of Amul Toned Milk — 500ml" [ref=e153] [cursor=pointer]:
+                        - img [ref=e154]
+                    - paragraph [ref=e155]: "Selected total: ₹28"
+                  - button "Add 1 to cart - ₹28" [ref=e156] [cursor=pointer]:
+                    - img
+                    - text: Add 1 to cart - ₹28
+                - button "Shop Now - ₹28" [ref=e157] [cursor=pointer]
+              - generic [ref=e158]:
+                - generic [ref=e159]:
+                  - img [ref=e160]
+                  - generic [ref=e165]: 1.1K+ bought this season
+                - generic [ref=e166]:
+                  - img [ref=e167]
+                  - generic [ref=e170]: Fresh pick from curated inventory
+                - generic [ref=e171]:
+                  - img [ref=e172]
+                  - generic [ref=e175]: Quality issue? We make it right fast.
+              - generic [ref=e176]:
+                - generic [ref=e177]:
+                  - img [ref=e178]
+                  - text: Free delivery above ₹299
+                - generic [ref=e183]:
+                  - img [ref=e184]
+                  - text: Easy 7-day returns
+                - generic [ref=e187]:
+                  - img [ref=e188]
+                  - text: Freshness guaranteed
+              - generic [ref=e190]:
+                - heading "About this product" [level=3] [ref=e191]
+                - generic [ref=e192]:
+                  - paragraph [ref=e193]: "This pack of Amul toned milk contains 500 ml and is suited for tea, coffee, breakfast, and daily cooking. Milk Type: Pasteurised toned milk. Keep refrigerated and boil before use."
+                  - button "Show more" [ref=e194] [cursor=pointer]:
+                    - text: Show more
+                    - img [ref=e195]
+              - generic [ref=e197]:
+                - generic [ref=e198]: daily-fresh
+                - generic [ref=e199]: breakfast
+                - generic [ref=e200]: top-rated
+                - generic [ref=e201]: bestseller
+              - generic [ref=e202]:
+                - generic [ref=e203]:
+                  - generic [ref=e205]:
+                    - img [ref=e207]
+                    - generic [ref=e212]:
+                      - paragraph [ref=e213]: Delivery
+                      - paragraph [ref=e214]: Today, as soon as 30 min
+                      - paragraph [ref=e215]: Recommended for fastest arrival
+                  - generic [ref=e217]:
+                    - img [ref=e219]
+                    - generic [ref=e223]:
+                      - paragraph [ref=e224]: Store pickup
+                      - paragraph [ref=e225]: Collect tomorrow morning with zero delivery fee
+                      - paragraph [ref=e226]: Good for planned shopping runs
+                - generic [ref=e227]:
+                  - generic [ref=e228]:
+                    - img [ref=e229]
+                    - text: Check delivery to your pincode
+                  - generic [ref=e232]:
+                    - textbox "6-digit pincode" [ref=e233]
+                    - button "Check" [ref=e234] [cursor=pointer]
+                  - generic [ref=e235]:
+                    - img [ref=e236]
+                    - generic [ref=e241]: We will confirm delivery availability, fee, and expected arrival before checkout.
+          - generic [ref=e243]:
+            - generic [ref=e244]:
+              - button "About this product Ingredients, shelf life, storage, and care" [ref=e245] [cursor=pointer]:
+                - generic [ref=e246]:
+                  - paragraph [ref=e247]: About this product
+                  - paragraph [ref=e248]: Ingredients, shelf life, storage, and care
+                - img [ref=e249]
+              - generic [ref=e251]:
+                - generic [ref=e252]:
+                  - img [ref=e254]
+                  - generic [ref=e257]:
+                    - paragraph [ref=e258]: Ingredients
+                    - paragraph [ref=e259]: Standardised toned milk.
+                - generic [ref=e260]:
+                  - img [ref=e262]
+                  - generic [ref=e264]:
+                    - paragraph [ref=e265]: Allergen Info
+                    - paragraph [ref=e266]: Contains milk.
+                - generic [ref=e267]:
+                  - img [ref=e269]
+                  - generic [ref=e273]:
+                    - paragraph [ref=e274]: Shelf Life
+                    - paragraph [ref=e275]: Best before use by date on pack
+                - generic [ref=e276]:
+                  - img [ref=e278]
+                  - generic [ref=e291]:
+                    - paragraph [ref=e292]: Storage
+                    - paragraph [ref=e293]: Keep refrigerated and boil before use.
+            - generic [ref=e294]:
+              - button "Certifications Quality and sourcing marks for this item" [ref=e295] [cursor=pointer]:
+                - generic [ref=e296]:
+                  - paragraph [ref=e297]: Certifications
+                  - paragraph [ref=e298]: Quality and sourcing marks for this item
+                - img [ref=e299]
+              - generic [ref=e303]:
+                - img [ref=e304]
+                - text: FSSAI
+            - button "Nutrition facts Expanded values for quick label-style scanning" [ref=e308] [cursor=pointer]:
+              - generic [ref=e309]:
+                - paragraph [ref=e310]: Nutrition facts
+                - paragraph [ref=e311]: Expanded values for quick label-style scanning
+              - img [ref=e312]
+          - generic [ref=e314]:
+            - generic [ref=e316]:
+              - heading "Ratings & Reviews" [level=2] [ref=e317]
+              - paragraph [ref=e318]: Read verified feedback and see how this product performs over time.
+            - generic [ref=e320]:
+              - heading "Customer Reviews" [level=3] [ref=e321]
+              - generic [ref=e322]:
+                - generic [ref=e323]:
+                  - paragraph [ref=e324]: "4.3"
+                  - generic "Rating 4.333333333333333 out of 5" [ref=e325]:
+                    - button [disabled] [ref=e326]:
+                      - img [ref=e327]
+                      - generic:
+                        - img
+                    - button [disabled] [ref=e329]:
+                      - img [ref=e330]
+                      - generic:
+                        - img
+                    - button [disabled] [ref=e332]:
+                      - img [ref=e333]
+                      - generic:
+                        - img
+                    - button [disabled] [ref=e335]:
+                      - img [ref=e336]
+                      - generic:
+                        - img
+                    - button [disabled] [ref=e338]:
+                      - img [ref=e339]
+                      - generic:
+                        - img
+                  - paragraph [ref=e341]: 3 reviews
+                - generic [ref=e342]:
+                  - generic [ref=e343]:
+                    - generic [ref=e344]: 5★
+                    - generic [ref=e347]: 33%
+                  - generic [ref=e348]:
+                    - generic [ref=e349]: 4★
+                    - generic [ref=e352]: 67%
+                  - generic [ref=e353]:
+                    - generic [ref=e354]: 3★
+                    - generic [ref=e356]: 0%
+                  - generic [ref=e357]:
+                    - generic [ref=e358]: 2★
+                    - generic [ref=e360]: 0%
+                  - generic [ref=e361]:
+                    - generic [ref=e362]: 1★
+                    - generic [ref=e364]: 0%
+              - generic [ref=e365]:
+                - article [ref=e366]:
+                  - generic [ref=e367]:
+                    - generic [ref=e368]: A
+                    - generic [ref=e369]:
+                      - generic [ref=e370]:
+                        - paragraph [ref=e371]: Aarav Mehta
+                        - generic [ref=e372]: 16 Mar 2026
+                      - generic "Rating 5 out of 5" [ref=e373]:
+                        - button [disabled] [ref=e374]:
+                          - img [ref=e375]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e377]:
+                          - img [ref=e378]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e380]:
+                          - img [ref=e381]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e383]:
+                          - img [ref=e384]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e386]:
+                          - img [ref=e387]
+                          - generic:
+                            - img
+                  - paragraph [ref=e389]: Fresh milk pack and works well for tea and coffee. Packaging was neat and delivery was on time.
+                - article [ref=e390]:
+                  - generic [ref=e391]:
+                    - generic [ref=e392]: "N"
+                    - generic [ref=e393]:
+                      - generic [ref=e394]:
+                        - paragraph [ref=e395]: Neha Sharma
+                        - generic [ref=e396]: 07 Mar 2026
+                      - generic "Rating 4 out of 5" [ref=e397]:
+                        - button [disabled] [ref=e398]:
+                          - img [ref=e399]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e401]:
+                          - img [ref=e402]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e404]:
+                          - img [ref=e405]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e407]:
+                          - img [ref=e408]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e410]:
+                          - img [ref=e411]
+                  - paragraph [ref=e413]: Fresh milk pack and works well for tea and coffee. Good value for money and exactly as described.
+                - article [ref=e414]:
+                  - generic [ref=e415]:
+                    - generic [ref=e416]: R
+                    - generic [ref=e417]:
+                      - generic [ref=e418]:
+                        - paragraph [ref=e419]: Rohan Das
+                        - generic [ref=e420]: 26 Feb 2026
+                      - generic "Rating 4 out of 5" [ref=e421]:
+                        - button [disabled] [ref=e422]:
+                          - img [ref=e423]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e425]:
+                          - img [ref=e426]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e428]:
+                          - img [ref=e429]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e431]:
+                          - img [ref=e432]
+                          - generic:
+                            - img
+                        - button [disabled] [ref=e434]:
+                          - img [ref=e435]
+                  - paragraph [ref=e437]: Fresh milk pack and works well for tea and coffee. Feels authentic and I would reorder this again.
+          - generic [ref=e438]:
+            - generic [ref=e440]:
+              - heading "Related Products" [level=2] [ref=e441]
+              - paragraph [ref=e442]: More curated picks from the same shopping mission.
+            - generic [ref=e445]:
+              - generic [ref=e446]:
+                - generic [ref=e449]:
+                  - heading "You Might Also Like" [level=2] [ref=e450]
+                  - paragraph [ref=e451]: Related products
+                - generic [ref=e453]:
+                  - button "Previous You Might Also Like" [ref=e454] [cursor=pointer]:
+                    - img [ref=e455]
+                  - button "Next You Might Also Like" [ref=e457] [cursor=pointer]:
+                    - img [ref=e458]
+              - generic [ref=e460]:
+                - article [ref=e462]:
+                  - link "7% OFF Add to wishlist Amul Butter — 100g" [ref=e463] [cursor=pointer]:
+                    - /url: /products/amul-butter-100g
+                    - generic [ref=e464]:
+                      - generic [ref=e466]: 7% OFF
+                      - button "Add to wishlist" [ref=e467]:
+                        - img [ref=e468]
+                      - img "Amul Butter — 100g" [ref=e470]
+                  - generic [ref=e471]:
+                    - generic [ref=e473]: 1pc
+                    - link "Amul Butter — 100g" [ref=e474] [cursor=pointer]:
+                      - /url: /products/amul-butter-100g
+                      - paragraph [ref=e475]: Amul Butter — 100g
+                    - paragraph [ref=e476]: ₹52/piece
+                    - generic [ref=e477]:
+                      - generic [ref=e478]:
+                        - paragraph [ref=e479]: ₹52
+                        - paragraph [ref=e480]: ₹56
+                      - generic [ref=e482]: Save ₹4
+                      - button "Add Amul Butter — 100g to cart" [ref=e483] [cursor=pointer]:
+                        - img [ref=e484]
+                        - text: Add
+                - article [ref=e489]:
+                  - link "5% OFF Add to wishlist Farm Eggs — 6 Pack" [ref=e490] [cursor=pointer]:
+                    - /url: /products/farm-eggs-6pack
+                    - generic [ref=e491]:
+                      - generic [ref=e493]: 5% OFF
+                      - button "Add to wishlist" [ref=e494]:
+                        - img [ref=e495]
+                      - img "Farm Eggs — 6 Pack" [ref=e497]
+                  - generic [ref=e498]:
+                    - generic [ref=e500]: 1pack
+                    - link "Farm Eggs — 6 Pack" [ref=e501] [cursor=pointer]:
+                      - /url: /products/farm-eggs-6pack
+                      - paragraph [ref=e502]: Farm Eggs — 6 Pack
+                    - paragraph [ref=e503]: ₹57/pack
+                    - generic [ref=e504]:
+                      - generic [ref=e505]:
+                        - paragraph [ref=e506]: ₹57
+                        - paragraph [ref=e507]: ₹60
+                      - generic [ref=e509]: Save ₹3
+                      - button "Add Farm Eggs — 6 Pack to cart" [ref=e510] [cursor=pointer]:
+                        - img [ref=e511]
+                        - text: Add
+                - article [ref=e516]:
+                  - link "7% OFF Add to wishlist Paneer — 200g" [ref=e517] [cursor=pointer]:
+                    - /url: /products/paneer-200g
+                    - generic [ref=e518]:
+                      - generic [ref=e520]: 7% OFF
+                      - button "Add to wishlist" [ref=e521]:
+                        - img [ref=e522]
+                      - img "Paneer — 200g" [ref=e524]
+                  - generic [ref=e525]:
+                    - generic [ref=e527]: 1pc
+                    - link "Paneer — 200g" [ref=e528] [cursor=pointer]:
+                      - /url: /products/paneer-200g
+                      - paragraph [ref=e529]: Paneer — 200g
+                    - paragraph [ref=e530]: ₹79/piece
+                    - generic [ref=e531]:
+                      - generic [ref=e532]:
+                        - paragraph [ref=e533]: ₹79
+                        - paragraph [ref=e534]: ₹85
+                      - generic [ref=e536]: Save ₹6
+                      - button "Add Paneer — 200g to cart" [ref=e537] [cursor=pointer]:
+                        - img [ref=e538]
+                        - text: Add
+      - contentinfo [ref=e543]:
+        - generic [ref=e544]:
+          - img "Fresh premium groceries — tomatoes, herbs, bread, avocados, olive oil on dark slate" [ref=e546]
+          - generic [ref=e549]:
+            - generic [ref=e550]:
+              - img [ref=e551]
+              - generic [ref=e554]: Premium grocery commerce
+            - heading "Fresh to your door, every day." [level=2] [ref=e555]
+            - paragraph [ref=e556]: Curated produce, pantry essentials, and artisan goods delivered with care to Kolkata households.
+            - generic [ref=e557]:
+              - link "Shop Now" [ref=e558] [cursor=pointer]:
+                - /url: /products
+                - text: Shop Now
+                - img [ref=e559]
+              - link "Browse categories" [ref=e561] [cursor=pointer]:
+                - /url: /categories
+            - generic [ref=e562]:
+              - paragraph [ref=e563]: Stay in the loop
+              - generic [ref=e564]:
+                - generic [ref=e565]: Email address
+                - generic [ref=e566]:
+                  - img
+                  - textbox "Email address" [ref=e567]:
+                    - /placeholder: Enter your email address
+                - button "Join the Waitlist" [ref=e568] [cursor=pointer]:
+                  - text: Join the Waitlist
+                  - img [ref=e569]
+        - generic [ref=e573]:
+          - generic [ref=e574]:
+            - generic [ref=e575]:
+              - heading "Grolin." [level=3] [ref=e576]
+              - paragraph [ref=e577]: Premium grocery commerce for households that care about quality, speed, and trust.
+            - generic [ref=e578]:
+              - paragraph [ref=e579]:
+                - img [ref=e580]
+                - text: support@grolin.com
+              - paragraph [ref=e583]:
+                - img [ref=e584]
+                - text: +91 98765 43210
+              - paragraph [ref=e586]:
+                - img [ref=e587]
+                - text: Kolkata, India
+            - generic [ref=e590]:
+              - link "Instagram" [ref=e591] [cursor=pointer]:
+                - /url: https://instagram.com/grolin
+                - img [ref=e592]
+              - link "Facebook" [ref=e595] [cursor=pointer]:
+                - /url: https://facebook.com/grolin
+                - img [ref=e596]
+              - link "Twitter" [ref=e598] [cursor=pointer]:
+                - /url: https://twitter.com/grolin
+                - img [ref=e599]
+              - link "YouTube" [ref=e601] [cursor=pointer]:
+                - /url: https://youtube.com/@grolin
+                - img [ref=e602]
+          - generic [ref=e605]:
+            - generic [ref=e606]:
+              - heading "About Us" [level=4] [ref=e607]
+              - generic [ref=e608]:
+                - link "Our Story" [ref=e610] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=e611]: Our Story
+                - link "New Arrivals" [ref=e613] [cursor=pointer]:
+                  - /url: /products
+                  - generic [ref=e614]: New Arrivals
+                - link "Organic Picks" [ref=e616] [cursor=pointer]:
+                  - /url: /search?q=organic
+                  - generic [ref=e617]: Organic Picks
+                - link "Accessibility" [ref=e619] [cursor=pointer]:
+                  - /url: /profile
+                  - generic [ref=e620]: Accessibility
+            - generic [ref=e621]:
+              - heading "Customer Service" [level=4] [ref=e622]
+              - generic [ref=e623]:
+                - link "Contact Support" [ref=e625] [cursor=pointer]:
+                  - /url: /profile
+                  - generic [ref=e626]: Contact Support
+                - link "Shipping Information" [ref=e628] [cursor=pointer]:
+                  - /url: /orders
+                  - generic [ref=e629]: Shipping Information
+                - link "Return & Refund Policy" [ref=e631] [cursor=pointer]:
+                  - /url: /orders
+                  - generic [ref=e632]: Return & Refund Policy
+                - link "Payment Methods" [ref=e634] [cursor=pointer]:
+                  - /url: /checkout
+                  - generic [ref=e635]: Payment Methods
+            - generic [ref=e636]:
+              - heading "Shop by Category" [level=4] [ref=e637]
+              - generic [ref=e638]:
+                - link "Organic Produce" [ref=e640] [cursor=pointer]:
+                  - /url: /search?q=organic
+                  - generic [ref=e641]: Organic Produce
+                - link "Baby Care" [ref=e643] [cursor=pointer]:
+                  - /url: /search?q=baby
+                  - generic [ref=e644]: Baby Care
+                - link "Gourmet Goods" [ref=e646] [cursor=pointer]:
+                  - /url: /search?q=gourmet
+                  - generic [ref=e647]: Gourmet Goods
+                - link "Bulk Orders" [ref=e649] [cursor=pointer]:
+                  - /url: /categories
+                  - generic [ref=e650]: Bulk Orders
+            - generic [ref=e651]:
+              - heading "Support & Legal" [level=4] [ref=e652]
+              - generic [ref=e653]:
+                - link "FAQs" [ref=e655] [cursor=pointer]:
+                  - /url: /profile
+                  - generic [ref=e656]: FAQs
+                - link "Privacy Policy" [ref=e658] [cursor=pointer]:
+                  - /url: /profile
+                  - generic [ref=e659]: Privacy Policy
+                - link "Terms of Service" [ref=e661] [cursor=pointer]:
+                  - /url: /profile
+                  - generic [ref=e662]: Terms of Service
+                - link "Cookie Policy" [ref=e664] [cursor=pointer]:
+                  - /url: /profile
+                  - generic [ref=e665]: Cookie Policy
+        - generic [ref=e667]:
+          - paragraph [ref=e668]: © 2026 Grolin Grocery. All rights reserved.
+          - generic [ref=e669]:
+            - generic [ref=e670]: Visa·
+            - generic [ref=e671]: Mastercard·
+            - generic [ref=e672]: UPI·
+            - generic [ref=e673]: Google Pay·
+            - generic [ref=e674]: Apple Pay·
+            - generic [ref=e675]: Razorpay
+          - paragraph [ref=e676]:
+            - text: Made with
+            - img [ref=e678]
+            - text: in Kolkata
+      - button "Back to top":
+        - img
+        - text: Back to top
+    - region "Notifications alt+T"
+  - alert [ref=e680]

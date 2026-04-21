@@ -1,0 +1,207 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - banner [ref=e7]:
+      - generic [ref=e8]:
+        - link "Go to homepage" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - img [ref=e11]
+          - generic [ref=e14]: Grolin
+        - link "Manage delivery address" [ref=e15] [cursor=pointer]:
+          - /url: /profile/addresses
+          - img [ref=e17]
+          - generic [ref=e23]:
+            - generic [ref=e24]: Set delivery address
+            - generic [ref=e25]: Choose your default location
+          - img [ref=e26]
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - img [ref=e32]
+            - textbox "Search products" [ref=e35]:
+              - /placeholder: Search premium organic produce...
+          - button "Search" [ref=e36] [cursor=pointer]:
+            - text: Search
+            - img [ref=e37]
+        - generic [ref=e40]:
+          - link "Wishlist (0 items)" [ref=e46] [cursor=pointer]:
+            - /url: /wishlist
+            - img [ref=e47]
+            - generic [ref=e49]: "0"
+          - link "Open cart with 0 items" [ref=e50] [cursor=pointer]:
+            - /url: /cart
+            - img [ref=e51]
+            - generic [ref=e57]: "0"
+          - button "Open menu" [ref=e59] [cursor=pointer]
+      - generic [ref=e65]:
+        - generic [ref=e66]: FREE delivery & 40% discount for your next 3 orders. Place your 1st order today.
+        - generic [ref=e67]:
+          - generic [ref=e68]: INR · English
+          - link "Help Center" [ref=e69] [cursor=pointer]:
+            - /url: /profile
+    - main [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - generic [ref=e77]: Category Directory
+            - heading "Shop by aisle, not by guesswork." [level=1] [ref=e78]
+            - paragraph [ref=e79]: Fresh produce, pantry staples, home care, and every fast-moving aisle organised into a cleaner category directory with stronger visuals and easier scanning.
+            - generic [ref=e80]:
+              - generic [ref=e81]:
+                - paragraph [ref=e82]: Active aisles
+                - paragraph [ref=e83]: "0"
+              - generic [ref=e84]:
+                - paragraph [ref=e85]: Live products
+                - paragraph [ref=e86]: "0"
+              - generic [ref=e87]:
+                - paragraph [ref=e88]: Grocery-first aisles
+                - paragraph [ref=e89]: "0"
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - img [ref=e93]
+              - paragraph [ref=e99]: Faster discovery
+              - paragraph [ref=e100]: Bigger category visuals and stronger labels cut down decision time.
+            - generic [ref=e101]:
+              - img [ref=e103]
+              - paragraph [ref=e106]: Daily use first
+              - paragraph [ref=e107]: Fresh and pantry-led aisles stay ahead of lower-priority inventory.
+            - generic [ref=e108]:
+              - img [ref=e110]
+              - paragraph [ref=e113]: Premium clarity
+              - paragraph [ref=e114]: Cleaner surfaces, tighter spacing, and product-led imagery throughout.
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - paragraph [ref=e118]: Featured Aisles
+            - heading "High-traffic categories customers open first." [level=2] [ref=e119]
+          - generic [ref=e120]: 0 highlighted aisles
+    - contentinfo [ref=e125]:
+      - generic [ref=e126]:
+        - img "Fresh premium groceries — tomatoes, herbs, bread, avocados, olive oil on dark slate" [ref=e128]
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - img [ref=e133]
+            - generic [ref=e136]: Premium grocery commerce
+          - heading "Fresh to your door, every day." [level=2] [ref=e137]
+          - paragraph [ref=e138]: Curated produce, pantry essentials, and artisan goods delivered with care to Kolkata households.
+          - generic [ref=e139]:
+            - link "Shop Now" [ref=e140] [cursor=pointer]:
+              - /url: /products
+              - text: Shop Now
+              - img [ref=e141]
+            - link "Browse categories" [ref=e143] [cursor=pointer]:
+              - /url: /categories
+          - generic [ref=e144]:
+            - paragraph [ref=e145]: Stay in the loop
+            - generic [ref=e146]:
+              - generic [ref=e147]: Email address
+              - generic [ref=e148]:
+                - img
+                - textbox "Email address" [ref=e149]:
+                  - /placeholder: Enter your email address
+              - button "Join the Waitlist" [ref=e150] [cursor=pointer]:
+                - text: Join the Waitlist
+                - img [ref=e151]
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - generic [ref=e157]:
+            - heading "Grolin." [level=3] [ref=e158]
+            - paragraph [ref=e159]: Premium grocery commerce for households that care about quality, speed, and trust.
+          - generic [ref=e160]:
+            - paragraph [ref=e161]:
+              - img [ref=e162]
+              - text: support@grolin.com
+            - paragraph [ref=e165]:
+              - img [ref=e166]
+              - text: +91 98765 43210
+            - paragraph [ref=e168]:
+              - img [ref=e169]
+              - text: Kolkata, India
+          - generic [ref=e172]:
+            - link "Instagram" [ref=e173] [cursor=pointer]:
+              - /url: https://instagram.com/grolin
+              - img [ref=e174]
+            - link "Facebook" [ref=e177] [cursor=pointer]:
+              - /url: https://facebook.com/grolin
+              - img [ref=e178]
+            - link "Twitter" [ref=e180] [cursor=pointer]:
+              - /url: https://twitter.com/grolin
+              - img [ref=e181]
+            - link "YouTube" [ref=e183] [cursor=pointer]:
+              - /url: https://youtube.com/@grolin
+              - img [ref=e184]
+        - generic [ref=e187]:
+          - generic [ref=e188]:
+            - heading "About Us" [level=4] [ref=e189]
+            - generic [ref=e190]:
+              - link "Our Story" [ref=e192] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e193]: Our Story
+              - link "New Arrivals" [ref=e195] [cursor=pointer]:
+                - /url: /products
+                - generic [ref=e196]: New Arrivals
+              - link "Organic Picks" [ref=e198] [cursor=pointer]:
+                - /url: /search?q=organic
+                - generic [ref=e199]: Organic Picks
+              - link "Accessibility" [ref=e201] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e202]: Accessibility
+          - generic [ref=e203]:
+            - heading "Customer Service" [level=4] [ref=e204]
+            - generic [ref=e205]:
+              - link "Contact Support" [ref=e207] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e208]: Contact Support
+              - link "Shipping Information" [ref=e210] [cursor=pointer]:
+                - /url: /orders
+                - generic [ref=e211]: Shipping Information
+              - link "Return & Refund Policy" [ref=e213] [cursor=pointer]:
+                - /url: /orders
+                - generic [ref=e214]: Return & Refund Policy
+              - link "Payment Methods" [ref=e216] [cursor=pointer]:
+                - /url: /checkout
+                - generic [ref=e217]: Payment Methods
+          - generic [ref=e218]:
+            - heading "Shop by Category" [level=4] [ref=e219]
+            - generic [ref=e220]:
+              - link "Organic Produce" [ref=e222] [cursor=pointer]:
+                - /url: /search?q=organic
+                - generic [ref=e223]: Organic Produce
+              - link "Baby Care" [ref=e225] [cursor=pointer]:
+                - /url: /search?q=baby
+                - generic [ref=e226]: Baby Care
+              - link "Gourmet Goods" [ref=e228] [cursor=pointer]:
+                - /url: /search?q=gourmet
+                - generic [ref=e229]: Gourmet Goods
+              - link "Bulk Orders" [ref=e231] [cursor=pointer]:
+                - /url: /categories
+                - generic [ref=e232]: Bulk Orders
+          - generic [ref=e233]:
+            - heading "Support & Legal" [level=4] [ref=e234]
+            - generic [ref=e235]:
+              - link "FAQs" [ref=e237] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e238]: FAQs
+              - link "Privacy Policy" [ref=e240] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e241]: Privacy Policy
+              - link "Terms of Service" [ref=e243] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e244]: Terms of Service
+              - link "Cookie Policy" [ref=e246] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e247]: Cookie Policy
+      - generic [ref=e249]:
+        - paragraph [ref=e250]: © 2026 Grolin Grocery. All rights reserved.
+        - generic [ref=e251]:
+          - generic [ref=e252]: Visa·
+          - generic [ref=e253]: Mastercard·
+          - generic [ref=e254]: UPI·
+          - generic [ref=e255]: Google Pay·
+          - generic [ref=e256]: Apple Pay·
+          - generic [ref=e257]: Razorpay
+        - paragraph [ref=e258]:
+          - text: Made with
+          - img [ref=e260]
+          - text: in Kolkata
+    - button "Back to top":
+      - img
+      - text: Back to top
+  - region "Notifications alt+T"

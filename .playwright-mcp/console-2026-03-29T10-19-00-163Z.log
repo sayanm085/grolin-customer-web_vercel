@@ -1,0 +1,31 @@
+[ 5779095ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785318662' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5779320ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785318662' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5779349ms] [WARNING] Image with src "/images/hero/produce-scatter.webp" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[ 5779355ms] Event
+[ 5779486ms] [WARNING] Image with src "http://localhost:3001/images/product-placeholder.svg" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[ 5782574ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785322601' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5782620ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785322601' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5782633ms] Event
+[ 5787072ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785327126' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5787116ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785327126' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5787130ms] Event
+[ 5791807ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785331894' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5791867ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785331894' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5791879ms] Event
+[ 5860603ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785400685' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5860664ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785400685' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5860678ms] Event
+[ 5872472ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/?_rsc=wnv52:0
+[ 5873145ms] [ERROR] Refused to apply style from 'http://localhost:3001/_next/static/css/app/layout.css?v=1774785412851' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3001/:0
+[ 5874115ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/_next/static/chunks/app-pages-internals.js:0
+[ 5874115ms] [ERROR] Refused to execute script from 'http://localhost:3001/_next/static/chunks/app-pages-internals.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3001/:0
+[ 5874115ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/_next/static/chunks/app/(shop)/page.js:0
+[ 5874115ms] [ERROR] Refused to execute script from 'http://localhost:3001/_next/static/chunks/app/(shop)/page.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3001/:0
+[ 5874115ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/_next/static/chunks/main-app.js?v=1774785412851:0
+[ 5874115ms] [ERROR] Refused to execute script from 'http://localhost:3001/_next/static/chunks/main-app.js?v=1774785412851' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3001/:0
+[ 5874115ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/_next/static/chunks/app/(shop)/layout.js:0
+[ 5874116ms] [ERROR] Refused to execute script from 'http://localhost:3001/_next/static/chunks/app/(shop)/layout.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3001/:0
+[ 5874116ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/_next/static/chunks/app/(shop)/error.js:0
+[ 5874116ms] [ERROR] Refused to execute script from 'http://localhost:3001/_next/static/chunks/app/(shop)/error.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3001/:0
+[ 5874129ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/_next/static/chunks/app/(auth)/layout.js:0
+[ 5874129ms] [ERROR] Refused to execute script from 'http://localhost:3001/_next/static/chunks/app/(auth)/layout.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3001/:0

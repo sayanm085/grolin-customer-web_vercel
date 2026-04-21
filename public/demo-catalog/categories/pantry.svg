@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='720' height='720' viewBox='0 0 720 720'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#eadfcd' />
+      <stop offset='100%' stop-color='#f8f3ea' />
+    </linearGradient>
+  </defs>
+  <rect width='720' height='720' rx='48' fill='url(#bg)' />
+  <circle cx='152' cy='152' r='112' fill='#ffffff' opacity='0.22' />
+  <circle cx='586' cy='176' r='92' fill='#e9d9c2' opacity='0.66' />
+  <rect x='40' y='40' width='640' height='640' rx='40' fill='#ffffff' opacity='0.12' stroke='#ffffff' stroke-opacity='0.22' stroke-width='2' />
+  <g transform='translate(362 286) scale(1.14)'>
+    <g><rect x='-96' y='-132' width='192' height='72' rx='24' fill='#9f7a4e'/><rect x='-120' y='-48' width='240' height='244' rx='58' fill='#fffaf2'/><rect x='-86' y='8' width='172' height='120' rx='36' fill='#e9d9c2' opacity='0.76'/><rect x='-110' y='-144' width='220' height='18' rx='9' fill='#3d2e21' opacity='0.14'/></g>
+  </g>
+  <rect x='84' y='534' width='552' height='126' rx='28' fill='#ffffff' opacity='0.92' />
+  <text x='124' y='590' fill='#3d2e21' font-family='Plus Jakarta Sans, Arial, sans-serif' font-size='36' font-weight='700'>Pantry Staples</text>
+  <text x='124' y='636' fill='#3d2e21' fill-opacity='0.68' font-family='Plus Jakarta Sans, Arial, sans-serif' font-size='20' font-weight='500'>Rice, oil and weekly stock-ups</text>
+</svg>

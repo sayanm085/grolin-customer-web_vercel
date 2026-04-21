@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="44" y1="28" x2="344" y2="368" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F6FF" />
+      <stop offset="1" stop-color="#F0FDF4" />
+    </linearGradient>
+    <linearGradient id="card" x1="104" y1="92" x2="286" y2="308" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.92" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.78" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="44" fill="url(#bg)" />
+  <rect x="52" y="52" width="296" height="296" rx="36" fill="white" fill-opacity="0.48" />
+  <rect x="84" y="84" width="232" height="232" rx="32" fill="url(#card)" stroke="#E5DEF8" stroke-width="2" />
+  <path d="M152 164C152 136.386 174.386 114 202 114C229.614 114 252 136.386 252 164V174H272C280.837 174 288 181.163 288 190V272C288 280.837 280.837 288 272 288H132C123.163 288 116 280.837 116 272V190C116 181.163 123.163 174 132 174H152V164ZM176 164V174H228V164C228 149.641 216.359 138 202 138C187.641 138 176 149.641 176 164Z" fill="#6E49D8"/>
+  <circle cx="202" cy="220" r="18" fill="#8B6BE7" />
+  <path d="M202 202V238" stroke="white" stroke-width="10" stroke-linecap="round" />
+  <path d="M184 220H220" stroke="white" stroke-width="10" stroke-linecap="round" />
+  <text x="200" y="336" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="22" font-weight="700" fill="#6E49D8">Grolin Grocery</text>
+</svg>

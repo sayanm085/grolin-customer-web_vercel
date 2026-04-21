@@ -1,0 +1,22 @@
+Installed plugins:
+
+  Γ¥» figma@claude-plugins-official
+    Version: 2.0.2
+    Scope: user
+    Status: Γ£ö enabled
+
+  Γ¥» frontend-design@claude-plugins-official
+    Version: unknown
+    Scope: user
+    Status: Γ£ö enabled
+
+  Γ¥» playwright@claude-plugins-official
+    Version: unknown
+    Scope: user
+    Status: Γ£ö enabled
+
+  Γ¥» ralph-loop@claude-plugins-official
+    Version: unknown
+    Scope: user
+    Status: Γ£ö enabled
+

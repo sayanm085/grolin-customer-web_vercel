@@ -1,0 +1,58 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='900' viewBox='0 0 1600 900'>
+  <defs>
+    <radialGradient id='g1' cx='72%' cy='38%' r='55%'>
+      <stop offset='0%' stop-color='#16945E' stop-opacity='0.72'/>
+      <stop offset='100%' stop-color='#16945E' stop-opacity='0'/>
+    </radialGradient>
+    <radialGradient id='g2' cx='18%' cy='62%' r='48%'>
+      <stop offset='0%' stop-color='#0B6B43' stop-opacity='0.60'/>
+      <stop offset='100%' stop-color='#0B6B43' stop-opacity='0'/>
+    </radialGradient>
+    <radialGradient id='g3' cx='88%' cy='14%' r='38%'>
+      <stop offset='0%' stop-color='#6E49D8' stop-opacity='0.38'/>
+      <stop offset='100%' stop-color='#6E49D8' stop-opacity='0'/>
+    </radialGradient>
+    <radialGradient id='g4' cx='55%' cy='90%' r='32%'>
+      <stop offset='0%' stop-color='#E3B93C' stop-opacity='0.28'/>
+      <stop offset='100%' stop-color='#E3B93C' stop-opacity='0'/>
+    </radialGradient>
+    <filter id='soft'>
+      <feGaussianBlur stdDeviation='72'/>
+    </filter>
+  </defs>
+
+  <!-- Near-black forest base -->
+  <rect width='1600' height='900' fill='#07120D'/>
+
+  <!-- Colour glow layers -->
+  <ellipse cx='1152' cy='342' rx='620' ry='500' fill='#16945E' opacity='0.58' filter='url(#soft)'/>
+  <ellipse cx='288' cy='558' rx='480' ry='400' fill='#0B6B43' opacity='0.52' filter='url(#soft)'/>
+  <ellipse cx='1408' cy='126' rx='360' ry='300' fill='#6E49D8' opacity='0.32' filter='url(#soft)'/>
+  <ellipse cx='880' cy='810' rx='320' ry='240' fill='#E3B93C' opacity='0.22' filter='url(#soft)'/>
+
+  <!-- Rect fills using gradients for edge-softness -->
+  <rect width='1600' height='900' fill='url(#g1)'/>
+  <rect width='1600' height='900' fill='url(#g2)'/>
+  <rect width='1600' height='900' fill='url(#g3)'/>
+  <rect width='1600' height='900' fill='url(#g4)'/>
+
+  <!-- Decorative rings -->
+  <circle cx='1380' cy='160' r='220' fill='none' stroke='#16945E' stroke-width='1.2' opacity='0.22'/>
+  <circle cx='1380' cy='160' r='140' fill='none' stroke='#16945E' stroke-width='0.8' opacity='0.16'/>
+  <circle cx='140' cy='780' r='280' fill='none' stroke='#E3B93C' stroke-width='1' opacity='0.14'/>
+  <circle cx='140' cy='780' r='180' fill='none' stroke='#E3B93C' stroke-width='0.6' opacity='0.10'/>
+
+  <!-- Cross-hair accent -->
+  <line x1='1380' y1='120' x2='1380' y2='200' stroke='#16945E' stroke-width='1' opacity='0.30'/>
+  <line x1='1340' y1='160' x2='1420' y2='160' stroke='#16945E' stroke-width='1' opacity='0.30'/>
+
+  <!-- Floating accent dots -->
+  <circle cx='820' cy='180' r='5' fill='#16945E' opacity='0.70'/>
+  <circle cx='1120' cy='680' r='4' fill='#E3B93C' opacity='0.55'/>
+  <circle cx='380' cy='240' r='3.5' fill='#9B6DFF' opacity='0.55'/>
+  <circle cx='1480' cy='620' r='3' fill='#ffffff' opacity='0.25'/>
+  <circle cx='640' cy='820' r='3' fill='#16945E' opacity='0.40'/>
+
+  <!-- Subtle diagonal light streak -->
+  <line x1='900' y1='0' x2='1600' y2='500' stroke='#ffffff' stroke-width='140' opacity='0.025'/>
+</svg>

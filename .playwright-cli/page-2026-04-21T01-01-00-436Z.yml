@@ -1,0 +1,3393 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e9]:
+        - generic [ref=e11]: 30 min delivery
+        - generic [ref=e12]:
+          - generic [ref=e13]: ·
+          - generic [ref=e14]: Fresh guarantee
+        - generic [ref=e15]:
+          - generic [ref=e16]: ·
+          - generic [ref=e17]: Easy returns
+      - banner [ref=e18]:
+        - generic [ref=e19]:
+          - link "Go to homepage" [ref=e20] [cursor=pointer]:
+            - /url: /
+            - img [ref=e22]
+            - generic [ref=e25]: Grolin
+          - link "Manage delivery address" [ref=e26] [cursor=pointer]:
+            - /url: /profile/addresses
+            - img [ref=e28]
+            - generic [ref=e34]:
+              - generic [ref=e35]: Set delivery address
+              - generic [ref=e36]: Choose your default location
+            - img [ref=e37]
+          - generic [ref=e41]:
+            - generic [ref=e42]:
+              - img [ref=e43]
+              - textbox "Search products" [ref=e46]:
+                - /placeholder: Search premium organic produce...
+            - button "Search" [ref=e47] [cursor=pointer]:
+              - text: Search
+              - img [ref=e48]
+          - generic [ref=e51]:
+            - link "Wishlist (0 items)" [ref=e57] [cursor=pointer]:
+              - /url: /wishlist
+              - img [ref=e58]
+              - generic [ref=e60]: "0"
+            - link "Open cart with 0 items" [ref=e61] [cursor=pointer]:
+              - /url: /cart
+              - img [ref=e62]
+              - generic [ref=e68]: "0"
+            - button "Open menu" [ref=e70] [cursor=pointer]
+        - generic [ref=e76]:
+          - generic [ref=e77]: FREE delivery & 40% discount for your next 3 orders. Place your 1st order today.
+          - generic [ref=e78]:
+            - generic [ref=e79]: INR · English
+            - link "Help Center" [ref=e80] [cursor=pointer]:
+              - /url: /profile
+    - main [ref=e81]:
+      - generic [ref=e82]:
+        - generic "Grolin delivery and trust information" [ref=e83]:
+          - generic [ref=e85]:
+            - generic [ref=e87]:
+              - generic [ref=e88]: ⚡
+              - text: 30-minute delivery across South Kolkata
+            - generic [ref=e91]:
+              - generic [ref=e92]: 🌿
+              - text: Fresh quality guaranteed on every order
+            - generic [ref=e95]:
+              - generic [ref=e96]: 🛒
+              - text: Free delivery on orders above ₹299
+            - generic [ref=e99]:
+              - generic [ref=e100]: ⭐
+              - text: 4.8 rating · trusted by 4,200+ families
+            - generic [ref=e103]:
+              - generic [ref=e104]: 💳
+              - text: Earn Grolin credits on every basket
+            - generic [ref=e107]:
+              - generic [ref=e108]: ✦
+              - text: New arrivals added daily from local farms
+            - generic [ref=e111]:
+              - generic [ref=e112]: ⚡
+              - text: 30-minute delivery across South Kolkata
+            - generic [ref=e115]:
+              - generic [ref=e116]: 🌿
+              - text: Fresh quality guaranteed on every order
+            - generic [ref=e119]:
+              - generic [ref=e120]: 🛒
+              - text: Free delivery on orders above ₹299
+            - generic [ref=e123]:
+              - generic [ref=e124]: ⭐
+              - text: 4.8 rating · trusted by 4,200+ families
+            - generic [ref=e127]:
+              - generic [ref=e128]: 💳
+              - text: Earn Grolin credits on every basket
+            - generic [ref=e131]:
+              - generic [ref=e132]: ✦
+              - text: New arrivals added daily from local farms
+        - region "Featured promotions" [ref=e134]:
+          - generic [ref=e136]:
+            - article [ref=e137]:
+              - img "Fresh picks for tonight's dinner" [ref=e139]
+              - button "Fresh picks for tonight's dinner" [ref=e142] [cursor=pointer]:
+                - generic [ref=e143]: Vegetables, herbs, and premium produce that make quick weeknight cooking easier.
+                - generic [ref=e145]: GROLIN
+                - generic [ref=e146]:
+                  - generic [ref=e147]:
+                    - img [ref=e148]
+                    - text: Premium Grocery Delivery in South Kolkata
+                  - heading "Fresh picks for tonight's dinner" [level=1] [ref=e151]
+                  - generic [ref=e152]:
+                    - generic [ref=e153]:
+                      - text: Shop Now
+                      - img [ref=e154]
+                    - generic [ref=e156]:
+                      - img [ref=e157]
+                      - text: Delivery in ~30 min
+                  - generic [ref=e161]:
+                    - generic [ref=e162]:
+                      - img [ref=e164]
+                      - generic [ref=e167]:
+                        - generic [ref=e168]: 30 min
+                        - generic [ref=e169]: Delivery
+                    - generic [ref=e170]:
+                      - img [ref=e172]
+                      - generic [ref=e175]:
+                        - generic [ref=e176]: 100%
+                        - generic [ref=e177]: Fresh Guarantee
+                    - generic [ref=e178]:
+                      - img [ref=e180]
+                      - generic [ref=e182]:
+                        - generic [ref=e183]: "4.8"
+                        - generic [ref=e184]: Rating
+                    - generic [ref=e185]:
+                      - img [ref=e187]
+                      - generic [ref=e192]:
+                        - generic [ref=e193]: FREE
+                        - generic [ref=e194]: Above ₹299
+            - article [ref=e195]:
+              - img "Breakfast essentials in one basket" [ref=e197]
+              - button "Breakfast essentials in one basket" [ref=e200] [cursor=pointer]:
+                - generic [ref=e201]: Milk, eggs, yogurt, and bakery staples arranged for a better morning restock.
+                - generic [ref=e203]: GROLIN
+                - generic [ref=e204]:
+                  - generic [ref=e205]:
+                    - img [ref=e206]
+                    - text: Premium Grocery Delivery in South Kolkata
+                  - heading "Breakfast essentials in one basket" [level=1] [ref=e209]
+                  - generic [ref=e210]:
+                    - generic [ref=e211]:
+                      - text: Shop Now
+                      - img [ref=e212]
+                    - generic [ref=e214]:
+                      - img [ref=e215]
+                      - text: Delivery in ~30 min
+                  - generic [ref=e219]:
+                    - generic [ref=e220]:
+                      - img [ref=e222]
+                      - generic [ref=e225]:
+                        - generic [ref=e226]: 30 min
+                        - generic [ref=e227]: Delivery
+                    - generic [ref=e228]:
+                      - img [ref=e230]
+                      - generic [ref=e233]:
+                        - generic [ref=e234]: 100%
+                        - generic [ref=e235]: Fresh Guarantee
+                    - generic [ref=e236]:
+                      - img [ref=e238]
+                      - generic [ref=e240]:
+                        - generic [ref=e241]: "4.8"
+                        - generic [ref=e242]: Rating
+                    - generic [ref=e243]:
+                      - img [ref=e245]
+                      - generic [ref=e250]:
+                        - generic [ref=e251]: FREE
+                        - generic [ref=e252]: Above ₹299
+            - article [ref=e253]:
+              - img "Healthy snacking without guesswork" [ref=e255]
+              - button "Healthy snacking without guesswork" [ref=e258] [cursor=pointer]:
+                - generic [ref=e259]: Curated nuts, lighter bites, and clean pantry favourites ready for checkout.
+                - generic [ref=e261]: GROLIN
+                - generic [ref=e262]:
+                  - generic [ref=e263]:
+                    - img [ref=e264]
+                    - text: Premium Grocery Delivery in South Kolkata
+                  - heading "Healthy snacking without guesswork" [level=1] [ref=e267]
+                  - generic [ref=e268]:
+                    - generic [ref=e269]:
+                      - text: Shop Now
+                      - img [ref=e270]
+                    - generic [ref=e272]:
+                      - img [ref=e273]
+                      - text: Delivery in ~30 min
+                  - generic [ref=e277]:
+                    - generic [ref=e278]:
+                      - img [ref=e280]
+                      - generic [ref=e283]:
+                        - generic [ref=e284]: 30 min
+                        - generic [ref=e285]: Delivery
+                    - generic [ref=e286]:
+                      - img [ref=e288]
+                      - generic [ref=e291]:
+                        - generic [ref=e292]: 100%
+                        - generic [ref=e293]: Fresh Guarantee
+                    - generic [ref=e294]:
+                      - img [ref=e296]
+                      - generic [ref=e298]:
+                        - generic [ref=e299]: "4.8"
+                        - generic [ref=e300]: Rating
+                    - generic [ref=e301]:
+                      - img [ref=e303]
+                      - generic [ref=e308]:
+                        - generic [ref=e309]: FREE
+                        - generic [ref=e310]: Above ₹299
+          - generic "Slide navigation" [ref=e311]:
+            - button "Go to slide 1" [ref=e312] [cursor=pointer]
+            - button "Go to slide 2" [ref=e313] [cursor=pointer]
+            - button "Go to slide 3" [ref=e314] [cursor=pointer]
+          - generic [ref=e316]: 01 / 03
+        - generic [ref=e323]:
+          - generic "Homepage category tabs" [ref=e325]:
+            - generic [ref=e326]:
+              - button "All" [pressed] [ref=e327] [cursor=pointer]:
+                - img [ref=e328]
+                - generic [ref=e330]: All
+              - button "Vegetables" [ref=e331] [cursor=pointer]:
+                - img [ref=e332]
+                - generic [ref=e335]: Vegetables
+              - button "Fruits" [ref=e336] [cursor=pointer]:
+                - img [ref=e337]
+                - generic [ref=e340]: Fruits
+              - button "Dairy" [ref=e341] [cursor=pointer]:
+                - img [ref=e342]
+                - generic [ref=e345]: Dairy
+              - button "Bakery" [ref=e346] [cursor=pointer]:
+                - img [ref=e347]
+                - generic [ref=e349]: Bakery
+              - button "Drinks" [ref=e350] [cursor=pointer]:
+                - img [ref=e351]
+                - generic [ref=e353]: Drinks
+              - button "Snacks" [ref=e354] [cursor=pointer]:
+                - img [ref=e355]
+                - generic [ref=e357]: Snacks
+              - button "Pantry" [ref=e358] [cursor=pointer]:
+                - img [ref=e359]
+                - generic [ref=e363]: Pantry
+              - button "Home" [ref=e364] [cursor=pointer]:
+                - img [ref=e365]
+                - generic [ref=e368]: Home
+          - generic "Category quick navigation" [ref=e370]:
+            - button "Scroll categories left":
+              - img
+            - button "Scroll categories right":
+              - img
+            - generic [ref=e372]:
+              - link "Browse Fresh Vegetables" [ref=e373] [cursor=pointer]:
+                - /url: /categories/cat-vegetables
+                - generic [ref=e376]:
+                  - img "Fresh Vegetables" [ref=e379]
+                  - paragraph [ref=e381]: Fresh Vegetables
+                  - generic [ref=e382]:
+                    - generic [ref=e383]: Browse
+                    - img [ref=e384]
+              - link "Browse Seasonal Fruits" [ref=e386] [cursor=pointer]:
+                - /url: /categories/cat-fruits
+                - generic [ref=e389]:
+                  - img "Seasonal Fruits" [ref=e392]
+                  - paragraph [ref=e394]: Seasonal Fruits
+                  - generic [ref=e395]:
+                    - generic [ref=e396]: Browse
+                    - img [ref=e397]
+              - link "Browse Dairy & Eggs" [ref=e399] [cursor=pointer]:
+                - /url: /categories/cat-dairy
+                - generic [ref=e402]:
+                  - img "Dairy & Eggs" [ref=e405]
+                  - paragraph [ref=e407]: Dairy & Eggs
+                  - generic [ref=e408]:
+                    - generic [ref=e409]: Browse
+                    - img [ref=e410]
+              - link "Browse Bakery & Breakfast" [ref=e412] [cursor=pointer]:
+                - /url: /categories/cat-bakery
+                - generic [ref=e415]:
+                  - img "Bakery & Breakfast" [ref=e418]
+                  - paragraph [ref=e420]: Bakery & Breakfast
+                  - generic [ref=e421]:
+                    - generic [ref=e422]: Browse
+                    - img [ref=e423]
+              - link "Browse Beverages" [ref=e425] [cursor=pointer]:
+                - /url: /categories/cat-beverages
+                - generic [ref=e428]:
+                  - img "Beverages" [ref=e431]
+                  - paragraph [ref=e433]: Beverages
+                  - generic [ref=e434]:
+                    - generic [ref=e435]: Browse
+                    - img [ref=e436]
+              - link "Browse Snacks & Munchies" [ref=e438] [cursor=pointer]:
+                - /url: /categories/cat-snacks
+                - generic [ref=e441]:
+                  - img "Snacks & Munchies" [ref=e444]
+                  - paragraph [ref=e446]: Snacks & Munchies
+                  - generic [ref=e447]:
+                    - generic [ref=e448]: Browse
+                    - img [ref=e449]
+              - link "Browse Pantry Staples" [ref=e451] [cursor=pointer]:
+                - /url: /categories/cat-pantry
+                - generic [ref=e454]:
+                  - img "Pantry Staples" [ref=e457]
+                  - paragraph [ref=e459]: Pantry Staples
+                  - generic [ref=e460]:
+                    - generic [ref=e461]: Browse
+                    - img [ref=e462]
+              - link "Browse Personal Care" [ref=e464] [cursor=pointer]:
+                - /url: /categories/cat-care
+                - generic [ref=e467]:
+                  - img "Personal Care" [ref=e470]
+                  - paragraph [ref=e472]: Personal Care
+                  - generic [ref=e473]:
+                    - generic [ref=e474]: Browse
+                    - img [ref=e475]
+              - link "Browse all categories" [ref=e477] [cursor=pointer]:
+                - /url: /categories
+                - generic [ref=e479]:
+                  - img [ref=e484]
+                  - paragraph [ref=e487]: All Categories
+                  - generic [ref=e488]:
+                    - generic [ref=e489]: View All
+                    - img [ref=e490]
+        - generic [ref=e494]:
+          - generic [ref=e495]:
+            - generic [ref=e496]:
+              - generic [ref=e497]:
+                - generic [ref=e499]:
+                  - img [ref=e500]
+                  - text: Live Deals
+                - heading "Featured Deals" [level=2] [ref=e505]:
+                  - generic [ref=e506]: Featured
+                  - generic [ref=e507]: Deals
+                - paragraph [ref=e508]: High-conviction value picks designed to open the homepage with energy and intent.
+              - link "See All Deals" [ref=e509] [cursor=pointer]:
+                - /url: /products
+                - text: See All Deals
+                - img [ref=e510]
+            - generic [ref=e512]:
+              - article [ref=e514]:
+                - link "8% OFF Add to wishlist Farm Fresh Cow Milk" [ref=e515] [cursor=pointer]:
+                  - /url: /products/farm-fresh-cow-milk
+                  - generic [ref=e516]:
+                    - generic [ref=e518]: 8% OFF
+                    - button "Add to wishlist" [ref=e519]:
+                      - img [ref=e520]
+                    - img "Farm Fresh Cow Milk" [ref=e522]
+                - generic [ref=e523]:
+                  - generic [ref=e525]: 1L
+                  - link "Farm Fresh Cow Milk" [ref=e526] [cursor=pointer]:
+                    - /url: /products/farm-fresh-cow-milk
+                    - paragraph [ref=e527]: Farm Fresh Cow Milk
+                  - paragraph [ref=e528]: ₹68/L
+                  - generic [ref=e529]:
+                    - generic [ref=e530]:
+                      - paragraph [ref=e531]: ₹68
+                      - paragraph [ref=e532]: ₹74
+                    - generic [ref=e534]: Save ₹6
+                    - button "Add Farm Fresh Cow Milk to cart" [ref=e535] [cursor=pointer]:
+                      - img [ref=e536]
+                      - text: Add
+              - article [ref=e541]:
+                - link "16% OFF Add to wishlist Vine Tomatoes" [ref=e542] [cursor=pointer]:
+                  - /url: /products/vine-tomatoes
+                  - generic [ref=e543]:
+                    - generic [ref=e545]: 16% OFF
+                    - button "Add to wishlist" [ref=e546]:
+                      - img [ref=e547]
+                    - img "Vine Tomatoes" [ref=e549]
+                - generic [ref=e550]:
+                  - generic [ref=e552]: 500g
+                  - link "Vine Tomatoes" [ref=e553] [cursor=pointer]:
+                    - /url: /products/vine-tomatoes
+                    - paragraph [ref=e554]: Vine Tomatoes
+                  - paragraph [ref=e555]: ₹10/100g
+                  - generic [ref=e556]:
+                    - generic [ref=e557]:
+                      - paragraph [ref=e558]: ₹49
+                      - paragraph [ref=e559]: ₹58
+                    - generic [ref=e561]: Save ₹9
+                    - button "Add Vine Tomatoes to cart" [ref=e562] [cursor=pointer]:
+                      - img [ref=e563]
+                      - text: Add
+              - article [ref=e568]:
+                - link "22% OFF Add to wishlist Organic Baby Spinach" [ref=e569] [cursor=pointer]:
+                  - /url: /products/organic-baby-spinach
+                  - generic [ref=e570]:
+                    - generic [ref=e572]: 22% OFF
+                    - button "Add to wishlist" [ref=e573]:
+                      - img [ref=e574]
+                    - img "Organic Baby Spinach" [ref=e576]
+                - generic [ref=e577]:
+                  - generic [ref=e579]: 1pack
+                  - link "Organic Baby Spinach" [ref=e580] [cursor=pointer]:
+                    - /url: /products/organic-baby-spinach
+                    - paragraph [ref=e581]: Organic Baby Spinach
+                  - paragraph [ref=e582]: ₹69/pack
+                  - generic [ref=e583]:
+                    - generic [ref=e584]:
+                      - paragraph [ref=e585]: ₹69
+                      - paragraph [ref=e586]: ₹89
+                    - generic [ref=e588]: Save ₹20
+                    - button "Add Organic Baby Spinach to cart" [ref=e589] [cursor=pointer]:
+                      - img [ref=e590]
+                      - text: Add
+              - article [ref=e595]:
+                - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e596] [cursor=pointer]:
+                  - /url: /products/alphonso-mangoes
+                  - generic [ref=e597]:
+                    - generic [ref=e599]: 14% OFF
+                    - button "Add to wishlist" [ref=e600]:
+                      - img [ref=e601]
+                    - img "Alphonso Mangoes" [ref=e603]
+                - generic [ref=e604]:
+                  - generic [ref=e606]: 1kg
+                  - link "Alphonso Mangoes" [ref=e607] [cursor=pointer]:
+                    - /url: /products/alphonso-mangoes
+                    - paragraph [ref=e608]: Alphonso Mangoes
+                  - paragraph [ref=e609]: ₹299/kg
+                  - generic [ref=e610]:
+                    - generic [ref=e611]:
+                      - paragraph [ref=e612]: ₹299
+                      - paragraph [ref=e613]: ₹349
+                    - generic [ref=e615]: Save ₹50
+                    - button "Add Alphonso Mangoes to cart" [ref=e616] [cursor=pointer]:
+                      - img [ref=e617]
+                      - text: Add
+              - article [ref=e622]:
+                - link "13% OFF Add to wishlist Cold Brew Coffee" [ref=e623] [cursor=pointer]:
+                  - /url: /products/cold-brew-coffee
+                  - generic [ref=e624]:
+                    - generic [ref=e626]: 13% OFF
+                    - button "Add to wishlist" [ref=e627]:
+                      - img [ref=e628]
+                    - img "Cold Brew Coffee" [ref=e630]
+                - generic [ref=e631]:
+                  - generic [ref=e633]: 500ml
+                  - link "Cold Brew Coffee" [ref=e634] [cursor=pointer]:
+                    - /url: /products/cold-brew-coffee
+                    - paragraph [ref=e635]: Cold Brew Coffee
+                  - paragraph [ref=e636]: ₹26/100ml
+                  - generic [ref=e637]:
+                    - generic [ref=e638]:
+                      - paragraph [ref=e639]: ₹129
+                      - paragraph [ref=e640]: ₹149
+                    - generic [ref=e642]: Save ₹20
+                    - button "Add Cold Brew Coffee to cart" [ref=e643] [cursor=pointer]:
+                      - img [ref=e644]
+                      - text: Add
+              - article [ref=e649]:
+                - link "10% OFF Add to wishlist Aged Basmati Rice" [ref=e650] [cursor=pointer]:
+                  - /url: /products/aged-basmati-rice
+                  - generic [ref=e651]:
+                    - generic [ref=e653]: 10% OFF
+                    - button "Add to wishlist" [ref=e654]:
+                      - img [ref=e655]
+                    - img "Aged Basmati Rice" [ref=e657]
+                - generic [ref=e658]:
+                  - generic [ref=e660]: 1kg
+                  - link "Aged Basmati Rice" [ref=e661] [cursor=pointer]:
+                    - /url: /products/aged-basmati-rice
+                    - paragraph [ref=e662]: Aged Basmati Rice
+                  - paragraph [ref=e663]: ₹429/kg
+                  - generic [ref=e664]:
+                    - generic [ref=e665]:
+                      - paragraph [ref=e666]: ₹429
+                      - paragraph [ref=e667]: ₹479
+                    - generic [ref=e669]: Save ₹50
+                    - button "Add Aged Basmati Rice to cart" [ref=e670] [cursor=pointer]:
+                      - img [ref=e671]
+                      - text: Add
+              - article [ref=e676]:
+                - link "🔥 Popular Add to wishlist Multigrain Sourdough Bread" [ref=e677] [cursor=pointer]:
+                  - /url: /products/multigrain-sourdough-bread
+                  - generic [ref=e678]:
+                    - generic [ref=e680]: 🔥 Popular
+                    - button "Add to wishlist" [ref=e681]:
+                      - img [ref=e682]
+                    - img "Multigrain Sourdough Bread" [ref=e684]
+                - generic [ref=e685]:
+                  - generic [ref=e687]: 1pack
+                  - link "Multigrain Sourdough Bread" [ref=e688] [cursor=pointer]:
+                    - /url: /products/multigrain-sourdough-bread
+                    - paragraph [ref=e689]: Multigrain Sourdough Bread
+                  - paragraph [ref=e690]: ₹169/pack
+                  - generic [ref=e691]:
+                    - paragraph [ref=e693]: ₹169
+                    - button "Add Multigrain Sourdough Bread to cart" [ref=e694] [cursor=pointer]:
+                      - img [ref=e695]
+                      - text: Add
+              - article [ref=e700]:
+                - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e701] [cursor=pointer]:
+                  - /url: /products/premium-avocado-duo
+                  - generic [ref=e702]:
+                    - generic [ref=e704]: 15% OFF
+                    - button "Add to wishlist" [ref=e705]:
+                      - img [ref=e706]
+                    - img "Premium Avocado Duo" [ref=e708]
+                - generic [ref=e709]:
+                  - generic [ref=e711]: 1pack
+                  - link "Premium Avocado Duo" [ref=e712] [cursor=pointer]:
+                    - /url: /products/premium-avocado-duo
+                    - paragraph [ref=e713]: Premium Avocado Duo
+                  - paragraph [ref=e714]: ₹169/pack
+                  - generic [ref=e715]:
+                    - generic [ref=e716]:
+                      - paragraph [ref=e717]: ₹169
+                      - paragraph [ref=e718]: ₹199
+                    - generic [ref=e720]: Save ₹30
+                    - button "Add Premium Avocado Duo to cart" [ref=e721] [cursor=pointer]:
+                      - img [ref=e722]
+                      - text: Add
+              - article [ref=e727]:
+                - link "14% OFF Add to wishlist Roasted Almonds" [ref=e728] [cursor=pointer]:
+                  - /url: /products/roasted-almonds
+                  - generic [ref=e729]:
+                    - generic [ref=e731]: 14% OFF
+                    - button "Add to wishlist" [ref=e732]:
+                      - img [ref=e733]
+                    - img "Roasted Almonds" [ref=e735]
+                - generic [ref=e736]:
+                  - generic [ref=e738]: 500g
+                  - link "Roasted Almonds" [ref=e739] [cursor=pointer]:
+                    - /url: /products/roasted-almonds
+                    - paragraph [ref=e740]: Roasted Almonds
+                  - paragraph [ref=e741]: ₹46/100g
+                  - generic [ref=e742]:
+                    - generic [ref=e743]:
+                      - paragraph [ref=e744]: ₹229
+                      - paragraph [ref=e745]: ₹265
+                    - generic [ref=e747]: Save ₹36
+                    - button "Add Roasted Almonds to cart" [ref=e748] [cursor=pointer]:
+                      - img [ref=e749]
+                      - text: Add
+          - generic [ref=e753]:
+            - generic [ref=e754]:
+              - generic [ref=e757]:
+                - generic [ref=e758]: BREAKFAST
+                - heading "Quick Breakfast" [level=2] [ref=e759]
+                - paragraph [ref=e760]: Fast-start pantry and dairy staples for rushed mornings and easy first orders.
+              - link "See all" [ref=e761] [cursor=pointer]:
+                - /url: /search?q=breakfast
+                - generic [ref=e762]: See all
+                - img [ref=e763]
+            - generic [ref=e766]:
+              - link "Explore Quick Breakfast" [ref=e767] [cursor=pointer]:
+                - /url: /search?q=breakfast
+                - generic [ref=e768]:
+                  - generic [ref=e769]:
+                    - paragraph [ref=e770]: BREAKFAST
+                    - heading "Quick Breakfast" [level=3] [ref=e771]
+                  - generic [ref=e772]:
+                    - generic [ref=e773]: Explore
+                    - img [ref=e774]
+              - article [ref=e777]:
+                - link "🔥 Popular Add to wishlist Multigrain Sourdough Bread" [ref=e778] [cursor=pointer]:
+                  - /url: /products/multigrain-sourdough-bread
+                  - generic [ref=e779]:
+                    - generic [ref=e781]: 🔥 Popular
+                    - button "Add to wishlist" [ref=e782]:
+                      - img [ref=e783]
+                    - img "Multigrain Sourdough Bread" [ref=e785]
+                - generic [ref=e786]:
+                  - generic [ref=e788]: 1pack
+                  - link "Multigrain Sourdough Bread" [ref=e789] [cursor=pointer]:
+                    - /url: /products/multigrain-sourdough-bread
+                    - paragraph [ref=e790]: Multigrain Sourdough Bread
+                  - paragraph [ref=e791]: ₹169/pack
+                  - generic [ref=e792]:
+                    - paragraph [ref=e794]: ₹169
+                    - button "Add Multigrain Sourdough Bread to cart" [ref=e795] [cursor=pointer]:
+                      - img [ref=e796]
+                      - text: Add
+              - article [ref=e801]:
+                - link "Fruit Add to wishlist Sweet Banana Bunch" [ref=e802] [cursor=pointer]:
+                  - /url: /products/sweet-banana-bunch
+                  - generic [ref=e803]:
+                    - generic [ref=e805]: Fruit
+                    - button "Add to wishlist" [ref=e806]:
+                      - img [ref=e807]
+                    - img "Sweet Banana Bunch" [ref=e809]
+                - generic [ref=e810]:
+                  - generic [ref=e812]: 1pack
+                  - link "Sweet Banana Bunch" [ref=e813] [cursor=pointer]:
+                    - /url: /products/sweet-banana-bunch
+                    - paragraph [ref=e814]: Sweet Banana Bunch
+                  - paragraph [ref=e815]: ₹72/pack
+                  - generic [ref=e816]:
+                    - paragraph [ref=e818]: ₹72
+                    - button "Add Sweet Banana Bunch to cart" [ref=e819] [cursor=pointer]:
+                      - img [ref=e820]
+                      - text: Add
+              - article [ref=e825]:
+                - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e826] [cursor=pointer]:
+                  - /url: /products/greek-yogurt-cup
+                  - generic [ref=e827]:
+                    - generic [ref=e829]: 13% OFF
+                    - button "Add to wishlist" [ref=e830]:
+                      - img [ref=e831]
+                    - img "Greek Yogurt Cup" [ref=e833]
+                - generic [ref=e834]:
+                  - generic [ref=e836]: 500g
+                  - link "Greek Yogurt Cup" [ref=e837] [cursor=pointer]:
+                    - /url: /products/greek-yogurt-cup
+                    - paragraph [ref=e838]: Greek Yogurt Cup
+                  - paragraph [ref=e839]: ₹22/100g
+                  - generic [ref=e840]:
+                    - generic [ref=e841]:
+                      - paragraph [ref=e842]: ₹109
+                      - paragraph [ref=e843]: ₹125
+                    - generic [ref=e845]: Save ₹16
+                    - button "Add Greek Yogurt Cup to cart" [ref=e846] [cursor=pointer]:
+                      - img [ref=e847]
+                      - text: Add
+              - article [ref=e852]:
+                - link "13% OFF Add to wishlist Free Range Eggs" [ref=e853] [cursor=pointer]:
+                  - /url: /products/free-range-eggs
+                  - generic [ref=e854]:
+                    - generic [ref=e856]: 13% OFF
+                    - button "Add to wishlist" [ref=e857]:
+                      - img [ref=e858]
+                    - img "Free Range Eggs" [ref=e860]
+                - generic [ref=e861]:
+                  - generic [ref=e863]: 1pack
+                  - link "Free Range Eggs" [ref=e864] [cursor=pointer]:
+                    - /url: /products/free-range-eggs
+                    - paragraph [ref=e865]: Free Range Eggs
+                  - paragraph [ref=e866]: ₹129/pack
+                  - generic [ref=e867]:
+                    - generic [ref=e868]:
+                      - paragraph [ref=e869]: ₹129
+                      - paragraph [ref=e870]: ₹149
+                    - generic [ref=e872]: Save ₹20
+                    - button "Add Free Range Eggs to cart" [ref=e873] [cursor=pointer]:
+                      - img [ref=e874]
+                      - text: Add
+              - article [ref=e879]:
+                - link "13% OFF Add to wishlist Butter Croissant Pack" [ref=e880] [cursor=pointer]:
+                  - /url: /products/butter-croissant-pack
+                  - generic [ref=e881]:
+                    - generic [ref=e883]: 13% OFF
+                    - button "Add to wishlist" [ref=e884]:
+                      - img [ref=e885]
+                    - img "Butter Croissant Pack" [ref=e887]
+                - generic [ref=e888]:
+                  - generic [ref=e890]: 1pack
+                  - link "Butter Croissant Pack" [ref=e891] [cursor=pointer]:
+                    - /url: /products/butter-croissant-pack
+                    - paragraph [ref=e892]: Butter Croissant Pack
+                  - paragraph [ref=e893]: ₹139/pack
+                  - generic [ref=e894]:
+                    - generic [ref=e895]:
+                      - paragraph [ref=e896]: ₹139
+                      - paragraph [ref=e897]: ₹159
+                    - generic [ref=e899]: Save ₹20
+                    - button "Add Butter Croissant Pack to cart" [ref=e900] [cursor=pointer]:
+                      - img [ref=e901]
+                      - text: Add
+              - article [ref=e906]:
+                - link "8% OFF Add to wishlist Farm Fresh Cow Milk" [ref=e907] [cursor=pointer]:
+                  - /url: /products/farm-fresh-cow-milk
+                  - generic [ref=e908]:
+                    - generic [ref=e910]: 8% OFF
+                    - button "Add to wishlist" [ref=e911]:
+                      - img [ref=e912]
+                    - img "Farm Fresh Cow Milk" [ref=e914]
+                - generic [ref=e915]:
+                  - generic [ref=e917]: 1L
+                  - link "Farm Fresh Cow Milk" [ref=e918] [cursor=pointer]:
+                    - /url: /products/farm-fresh-cow-milk
+                    - paragraph [ref=e919]: Farm Fresh Cow Milk
+                  - paragraph [ref=e920]: ₹68/L
+                  - generic [ref=e921]:
+                    - generic [ref=e922]:
+                      - paragraph [ref=e923]: ₹68
+                      - paragraph [ref=e924]: ₹74
+                    - generic [ref=e926]: Save ₹6
+                    - button "Add Farm Fresh Cow Milk to cart" [ref=e927] [cursor=pointer]:
+                      - img [ref=e928]
+                      - text: Add
+              - article [ref=e933]:
+                - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e934] [cursor=pointer]:
+                  - /url: /products/alphonso-mangoes
+                  - generic [ref=e935]:
+                    - generic [ref=e937]: 14% OFF
+                    - button "Add to wishlist" [ref=e938]:
+                      - img [ref=e939]
+                    - img "Alphonso Mangoes" [ref=e941]
+                - generic [ref=e942]:
+                  - generic [ref=e944]: 1kg
+                  - link "Alphonso Mangoes" [ref=e945] [cursor=pointer]:
+                    - /url: /products/alphonso-mangoes
+                    - paragraph [ref=e946]: Alphonso Mangoes
+                  - paragraph [ref=e947]: ₹299/kg
+                  - generic [ref=e948]:
+                    - generic [ref=e949]:
+                      - paragraph [ref=e950]: ₹299
+                      - paragraph [ref=e951]: ₹349
+                    - generic [ref=e953]: Save ₹50
+                    - button "Add Alphonso Mangoes to cart" [ref=e954] [cursor=pointer]:
+                      - img [ref=e955]
+                      - text: Add
+              - article [ref=e960]:
+                - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e961] [cursor=pointer]:
+                  - /url: /products/premium-avocado-duo
+                  - generic [ref=e962]:
+                    - generic [ref=e964]: 15% OFF
+                    - button "Add to wishlist" [ref=e965]:
+                      - img [ref=e966]
+                    - img "Premium Avocado Duo" [ref=e968]
+                - generic [ref=e969]:
+                  - generic [ref=e971]: 1pack
+                  - link "Premium Avocado Duo" [ref=e972] [cursor=pointer]:
+                    - /url: /products/premium-avocado-duo
+                    - paragraph [ref=e973]: Premium Avocado Duo
+                  - paragraph [ref=e974]: ₹169/pack
+                  - generic [ref=e975]:
+                    - generic [ref=e976]:
+                      - paragraph [ref=e977]: ₹169
+                      - paragraph [ref=e978]: ₹199
+                    - generic [ref=e980]: Save ₹30
+                    - button "Add Premium Avocado Duo to cart" [ref=e981] [cursor=pointer]:
+                      - img [ref=e982]
+                      - text: Add
+              - link "See more in Quick Breakfast" [ref=e986] [cursor=pointer]:
+                - /url: /search?q=breakfast
+                - img [ref=e987]
+                - generic [ref=e989]: More
+          - link "Rise & Shine Mornings Morning Specials Rise & Shine Mornings Fresh eggs, golden toast, warm chai — everything for a perfect Indian breakfast, delivered by 8 AM. Shop Breakfast" [ref=e992] [cursor=pointer]:
+            - /url: /search?q=breakfast
+            - generic [ref=e993]:
+              - img "Rise & Shine Mornings" [ref=e994]
+              - generic [ref=e996]:
+                - generic [ref=e997]:
+                  - img [ref=e998]
+                  - text: Morning Specials
+                - heading "Rise & Shine Mornings" [level=3] [ref=e1001]
+                - paragraph [ref=e1002]: Fresh eggs, golden toast, warm chai — everything for a perfect Indian breakfast, delivered by 8 AM.
+                - generic [ref=e1004]:
+                  - text: Shop Breakfast
+                  - img [ref=e1005]
+          - generic [ref=e1008]:
+            - generic [ref=e1009]:
+              - generic [ref=e1012]:
+                - generic [ref=e1013]: DINNER
+                - heading "Tonight's Dinner" [level=2] [ref=e1014]
+                - paragraph [ref=e1015]: Dinner-building essentials that help a shopper move from idea to basket fast.
+              - link "See all" [ref=e1016] [cursor=pointer]:
+                - /url: /search?q=dinner
+                - generic [ref=e1017]: See all
+                - img [ref=e1018]
+            - generic [ref=e1021]:
+              - link "Explore Tonight's Dinner" [ref=e1022] [cursor=pointer]:
+                - /url: /search?q=dinner
+                - generic [ref=e1023]:
+                  - generic [ref=e1024]:
+                    - paragraph [ref=e1025]: DINNER
+                    - heading "Tonight's Dinner" [level=3] [ref=e1026]
+                  - generic [ref=e1027]:
+                    - generic [ref=e1028]: Explore
+                    - img [ref=e1029]
+              - article [ref=e1032]:
+                - link "16% OFF Add to wishlist Vine Tomatoes" [ref=e1033] [cursor=pointer]:
+                  - /url: /products/vine-tomatoes
+                  - generic [ref=e1034]:
+                    - generic [ref=e1036]: 16% OFF
+                    - button "Add to wishlist" [ref=e1037]:
+                      - img [ref=e1038]
+                    - img "Vine Tomatoes" [ref=e1040]
+                - generic [ref=e1041]:
+                  - generic [ref=e1043]: 500g
+                  - link "Vine Tomatoes" [ref=e1044] [cursor=pointer]:
+                    - /url: /products/vine-tomatoes
+                    - paragraph [ref=e1045]: Vine Tomatoes
+                  - paragraph [ref=e1046]: ₹10/100g
+                  - generic [ref=e1047]:
+                    - generic [ref=e1048]:
+                      - paragraph [ref=e1049]: ₹49
+                      - paragraph [ref=e1050]: ₹58
+                    - generic [ref=e1052]: Save ₹9
+                    - button "Add Vine Tomatoes to cart" [ref=e1053] [cursor=pointer]:
+                      - img [ref=e1054]
+                      - text: Add
+              - article [ref=e1059]:
+                - link "10% OFF Add to wishlist Extra Virgin Olive Oil" [ref=e1060] [cursor=pointer]:
+                  - /url: /products/extra-virgin-olive-oil
+                  - generic [ref=e1061]:
+                    - generic [ref=e1063]: 10% OFF
+                    - button "Add to wishlist" [ref=e1064]:
+                      - img [ref=e1065]
+                    - img "Extra Virgin Olive Oil" [ref=e1067]
+                - generic [ref=e1068]:
+                  - generic [ref=e1070]: 1L
+                  - link "Extra Virgin Olive Oil" [ref=e1071] [cursor=pointer]:
+                    - /url: /products/extra-virgin-olive-oil
+                    - paragraph [ref=e1072]: Extra Virgin Olive Oil
+                  - paragraph [ref=e1073]: ₹629/L
+                  - generic [ref=e1074]:
+                    - generic [ref=e1075]:
+                      - paragraph [ref=e1076]: ₹629
+                      - paragraph [ref=e1077]: ₹699
+                    - generic [ref=e1079]: Save ₹70
+                    - button "Add Extra Virgin Olive Oil to cart" [ref=e1080] [cursor=pointer]:
+                      - img [ref=e1081]
+                      - text: Add
+              - article [ref=e1086]:
+                - link "22% OFF Add to wishlist Organic Baby Spinach" [ref=e1087] [cursor=pointer]:
+                  - /url: /products/organic-baby-spinach
+                  - generic [ref=e1088]:
+                    - generic [ref=e1090]: 22% OFF
+                    - button "Add to wishlist" [ref=e1091]:
+                      - img [ref=e1092]
+                    - img "Organic Baby Spinach" [ref=e1094]
+                - generic [ref=e1095]:
+                  - generic [ref=e1097]: 1pack
+                  - link "Organic Baby Spinach" [ref=e1098] [cursor=pointer]:
+                    - /url: /products/organic-baby-spinach
+                    - paragraph [ref=e1099]: Organic Baby Spinach
+                  - paragraph [ref=e1100]: ₹69/pack
+                  - generic [ref=e1101]:
+                    - generic [ref=e1102]:
+                      - paragraph [ref=e1103]: ₹69
+                      - paragraph [ref=e1104]: ₹89
+                    - generic [ref=e1106]: Save ₹20
+                    - button "Add Organic Baby Spinach to cart" [ref=e1107] [cursor=pointer]:
+                      - img [ref=e1108]
+                      - text: Add
+              - article [ref=e1113]:
+                - link "10% OFF Add to wishlist Aged Basmati Rice" [ref=e1114] [cursor=pointer]:
+                  - /url: /products/aged-basmati-rice
+                  - generic [ref=e1115]:
+                    - generic [ref=e1117]: 10% OFF
+                    - button "Add to wishlist" [ref=e1118]:
+                      - img [ref=e1119]
+                    - img "Aged Basmati Rice" [ref=e1121]
+                - generic [ref=e1122]:
+                  - generic [ref=e1124]: 1kg
+                  - link "Aged Basmati Rice" [ref=e1125] [cursor=pointer]:
+                    - /url: /products/aged-basmati-rice
+                    - paragraph [ref=e1126]: Aged Basmati Rice
+                  - paragraph [ref=e1127]: ₹429/kg
+                  - generic [ref=e1128]:
+                    - generic [ref=e1129]:
+                      - paragraph [ref=e1130]: ₹429
+                      - paragraph [ref=e1131]: ₹479
+                    - generic [ref=e1133]: Save ₹50
+                    - button "Add Aged Basmati Rice to cart" [ref=e1134] [cursor=pointer]:
+                      - img [ref=e1135]
+                      - text: Add
+              - article [ref=e1140]:
+                - link "8% OFF Add to wishlist Farm Fresh Cow Milk" [ref=e1141] [cursor=pointer]:
+                  - /url: /products/farm-fresh-cow-milk
+                  - generic [ref=e1142]:
+                    - generic [ref=e1144]: 8% OFF
+                    - button "Add to wishlist" [ref=e1145]:
+                      - img [ref=e1146]
+                    - img "Farm Fresh Cow Milk" [ref=e1148]
+                - generic [ref=e1149]:
+                  - generic [ref=e1151]: 1L
+                  - link "Farm Fresh Cow Milk" [ref=e1152] [cursor=pointer]:
+                    - /url: /products/farm-fresh-cow-milk
+                    - paragraph [ref=e1153]: Farm Fresh Cow Milk
+                  - paragraph [ref=e1154]: ₹68/L
+                  - generic [ref=e1155]:
+                    - generic [ref=e1156]:
+                      - paragraph [ref=e1157]: ₹68
+                      - paragraph [ref=e1158]: ₹74
+                    - generic [ref=e1160]: Save ₹6
+                    - button "Add Farm Fresh Cow Milk to cart" [ref=e1161] [cursor=pointer]:
+                      - img [ref=e1162]
+                      - text: Add
+              - article [ref=e1167]:
+                - link "14% OFF Add to wishlist Roasted Almonds" [ref=e1168] [cursor=pointer]:
+                  - /url: /products/roasted-almonds
+                  - generic [ref=e1169]:
+                    - generic [ref=e1171]: 14% OFF
+                    - button "Add to wishlist" [ref=e1172]:
+                      - img [ref=e1173]
+                    - img "Roasted Almonds" [ref=e1175]
+                - generic [ref=e1176]:
+                  - generic [ref=e1178]: 500g
+                  - link "Roasted Almonds" [ref=e1179] [cursor=pointer]:
+                    - /url: /products/roasted-almonds
+                    - paragraph [ref=e1180]: Roasted Almonds
+                  - paragraph [ref=e1181]: ₹46/100g
+                  - generic [ref=e1182]:
+                    - generic [ref=e1183]:
+                      - paragraph [ref=e1184]: ₹229
+                      - paragraph [ref=e1185]: ₹265
+                    - generic [ref=e1187]: Save ₹36
+                    - button "Add Roasted Almonds to cart" [ref=e1188] [cursor=pointer]:
+                      - img [ref=e1189]
+                      - text: Add
+              - article [ref=e1194]:
+                - link "20% OFF Add to wishlist Sea Salt Kettle Chips" [ref=e1195] [cursor=pointer]:
+                  - /url: /products/sea-salt-kettle-chips
+                  - generic [ref=e1196]:
+                    - generic [ref=e1198]: 20% OFF
+                    - button "Add to wishlist" [ref=e1199]:
+                      - img [ref=e1200]
+                    - img "Sea Salt Kettle Chips" [ref=e1202]
+                - generic [ref=e1203]:
+                  - generic [ref=e1205]: 1pack
+                  - link "Sea Salt Kettle Chips" [ref=e1206] [cursor=pointer]:
+                    - /url: /products/sea-salt-kettle-chips
+                    - paragraph [ref=e1207]: Sea Salt Kettle Chips
+                  - paragraph [ref=e1208]: ₹79/pack
+                  - generic [ref=e1209]:
+                    - generic [ref=e1210]:
+                      - paragraph [ref=e1211]: ₹79
+                      - paragraph [ref=e1212]: ₹99
+                    - generic [ref=e1214]: Save ₹20
+                    - button "Add Sea Salt Kettle Chips to cart" [ref=e1215] [cursor=pointer]:
+                      - img [ref=e1216]
+                      - text: Add
+              - article [ref=e1221]:
+                - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e1222] [cursor=pointer]:
+                  - /url: /products/greek-yogurt-cup
+                  - generic [ref=e1223]:
+                    - generic [ref=e1225]: 13% OFF
+                    - button "Add to wishlist" [ref=e1226]:
+                      - img [ref=e1227]
+                    - img "Greek Yogurt Cup" [ref=e1229]
+                - generic [ref=e1230]:
+                  - generic [ref=e1232]: 500g
+                  - link "Greek Yogurt Cup" [ref=e1233] [cursor=pointer]:
+                    - /url: /products/greek-yogurt-cup
+                    - paragraph [ref=e1234]: Greek Yogurt Cup
+                  - paragraph [ref=e1235]: ₹22/100g
+                  - generic [ref=e1236]:
+                    - generic [ref=e1237]:
+                      - paragraph [ref=e1238]: ₹109
+                      - paragraph [ref=e1239]: ₹125
+                    - generic [ref=e1241]: Save ₹16
+                    - button "Add Greek Yogurt Cup to cart" [ref=e1242] [cursor=pointer]:
+                      - img [ref=e1243]
+                      - text: Add
+              - link "See more in Tonight's Dinner" [ref=e1247] [cursor=pointer]:
+                - /url: /search?q=dinner
+                - img [ref=e1248]
+                - generic [ref=e1250]: More
+          - link "Tonight's Feast Awaits Evening Picks Tonight's Feast Awaits From aromatic spices to farm-fresh paneer — build your perfect dinner basket in minutes. Plan Dinner" [ref=e1253] [cursor=pointer]:
+            - /url: /search?q=dinner
+            - generic [ref=e1254]:
+              - img "Tonight's Feast Awaits" [ref=e1255]
+              - generic [ref=e1257]:
+                - generic [ref=e1258]:
+                  - img [ref=e1259]
+                  - text: Evening Picks
+                - heading "Tonight's Feast Awaits" [level=3] [ref=e1262]
+                - paragraph [ref=e1263]: From aromatic spices to farm-fresh paneer — build your perfect dinner basket in minutes.
+                - generic [ref=e1265]:
+                  - text: Plan Dinner
+                  - img [ref=e1266]
+        - region "Kolkata's favourite grocery app — brand story" [ref=e1270]:
+          - generic [ref=e1273]:
+            - generic [ref=e1274]:
+              - generic [ref=e1276]:
+                - img [ref=e1277]
+                - generic [ref=e1282]: Kolkata's Favourite Grocery App
+              - heading "Kolkata's freshest groceries, delivered to your door in 30 minutes." [level=2] [ref=e1283]:
+                - generic [ref=e1284]: Kolkata's
+                - generic [ref=e1285]: freshest
+                - generic [ref=e1286]: groceries,
+                - generic [ref=e1287]: delivered
+                - generic [ref=e1288]: to
+                - generic [ref=e1289]: your
+                - generic [ref=e1290]: door
+                - generic [ref=e1291]: in 30 minutes.
+              - paragraph [ref=e1292]: From farm-fresh produce to pantry staples — everything you need, curated for the way Kolkata cooks. Zero compromises. Zero middlemen.
+              - generic [ref=e1293]:
+                - link "Start Shopping" [ref=e1294] [cursor=pointer]:
+                  - /url: /products
+                  - generic [ref=e1295]:
+                    - text: Start Shopping
+                    - img [ref=e1296]
+                - link "View Today's Deals" [ref=e1298] [cursor=pointer]:
+                  - /url: /products?sort=deals
+                  - generic [ref=e1299]: View Today's Deals
+              - generic [ref=e1302]:
+                - generic [ref=e1303]: Scroll to explore
+                - img [ref=e1305]
+            - generic [ref=e1307]:
+              - generic [ref=e1308]: The Grolin Promise
+              - generic [ref=e1309]:
+                - generic [ref=e1312]:
+                  - generic [ref=e1313]:
+                    - img [ref=e1315]
+                    - generic [ref=e1319]: 0min
+                  - heading "Delivery Promise" [level=4] [ref=e1320]
+                  - paragraph [ref=e1321]: From our dark store to your door in 30 minutes or less.
+                - generic [ref=e1324]:
+                  - generic [ref=e1325]:
+                    - img [ref=e1327]
+                    - generic [ref=e1331]: 0%
+                  - heading "Farm Fresh" [level=4] [ref=e1332]
+                  - paragraph [ref=e1333]: Every item inspected by our quality team before packing.
+                - generic [ref=e1336]:
+                  - generic [ref=e1337]:
+                    - img [ref=e1339]
+                    - generic [ref=e1343]: ₹0
+                  - heading "No-Question Refund" [level=4] [ref=e1344]
+                  - paragraph [ref=e1345]: Not happy? Full refund — no calls, no returns needed.
+                - generic [ref=e1348]:
+                  - generic [ref=e1349]:
+                    - img [ref=e1351]
+                    - generic [ref=e1354]: 0★
+                  - heading "Kolkata Loves Us" [level=4] [ref=e1355]
+                  - paragraph [ref=e1356]: Rated by 12,000+ families across South Kolkata.
+            - generic [ref=e1357]:
+              - generic [ref=e1358]:
+                - img "Premium grocery spread — fresh vegetables, fruits, and spices on dark wood" [ref=e1359]
+                - generic [ref=e1361]: Farm-to-Table
+                - generic [ref=e1363]: "01"
+              - generic [ref=e1364]:
+                - img "Happy customer unboxing Grolin grocery delivery" [ref=e1365]
+                - generic [ref=e1367]: Doorstep Joy
+                - generic [ref=e1369]: "02"
+              - generic [ref=e1370]:
+                - img "Extreme close-up of fresh produce with dewdrops" [ref=e1371]
+                - generic [ref=e1373]: 100% Fresh
+                - generic [ref=e1375]: "03"
+        - generic [ref=e1378]:
+          - generic [ref=e1379]:
+            - generic [ref=e1380]:
+              - generic [ref=e1383]:
+                - generic [ref=e1384]: HEALTHY
+                - heading "Healthy Week" [level=2] [ref=e1385]
+                - paragraph [ref=e1386]: Light, clean, repeatable picks for fruit, greens, oats, yogurt, and balance-led baskets.
+              - link "See all" [ref=e1387] [cursor=pointer]:
+                - /url: /search?q=healthy
+                - generic [ref=e1388]: See all
+                - img [ref=e1389]
+            - generic [ref=e1392]:
+              - link "Explore Healthy Week" [ref=e1393] [cursor=pointer]:
+                - /url: /search?q=healthy
+                - generic [ref=e1394]:
+                  - generic [ref=e1395]:
+                    - paragraph [ref=e1396]: HEALTHY
+                    - heading "Healthy Week" [level=3] [ref=e1397]
+                  - generic [ref=e1398]:
+                    - generic [ref=e1399]: Explore
+                    - img [ref=e1400]
+              - article [ref=e1403]:
+                - link "22% OFF Add to wishlist Organic Baby Spinach" [ref=e1404] [cursor=pointer]:
+                  - /url: /products/organic-baby-spinach
+                  - generic [ref=e1405]:
+                    - generic [ref=e1407]: 22% OFF
+                    - button "Add to wishlist" [ref=e1408]:
+                      - img [ref=e1409]
+                    - img "Organic Baby Spinach" [ref=e1411]
+                - generic [ref=e1412]:
+                  - generic [ref=e1414]: 1pack
+                  - link "Organic Baby Spinach" [ref=e1415] [cursor=pointer]:
+                    - /url: /products/organic-baby-spinach
+                    - paragraph [ref=e1416]: Organic Baby Spinach
+                  - paragraph [ref=e1417]: ₹69/pack
+                  - generic [ref=e1418]:
+                    - generic [ref=e1419]:
+                      - paragraph [ref=e1420]: ₹69
+                      - paragraph [ref=e1421]: ₹89
+                    - generic [ref=e1423]: Save ₹20
+                    - button "Add Organic Baby Spinach to cart" [ref=e1424] [cursor=pointer]:
+                      - img [ref=e1425]
+                      - text: Add
+              - article [ref=e1430]:
+                - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e1431] [cursor=pointer]:
+                  - /url: /products/premium-avocado-duo
+                  - generic [ref=e1432]:
+                    - generic [ref=e1434]: 15% OFF
+                    - button "Add to wishlist" [ref=e1435]:
+                      - img [ref=e1436]
+                    - img "Premium Avocado Duo" [ref=e1438]
+                - generic [ref=e1439]:
+                  - generic [ref=e1441]: 1pack
+                  - link "Premium Avocado Duo" [ref=e1442] [cursor=pointer]:
+                    - /url: /products/premium-avocado-duo
+                    - paragraph [ref=e1443]: Premium Avocado Duo
+                  - paragraph [ref=e1444]: ₹169/pack
+                  - generic [ref=e1445]:
+                    - generic [ref=e1446]:
+                      - paragraph [ref=e1447]: ₹169
+                      - paragraph [ref=e1448]: ₹199
+                    - generic [ref=e1450]: Save ₹30
+                    - button "Add Premium Avocado Duo to cart" [ref=e1451] [cursor=pointer]:
+                      - img [ref=e1452]
+                      - text: Add
+              - article [ref=e1457]:
+                - link "16% OFF Add to wishlist Vine Tomatoes" [ref=e1458] [cursor=pointer]:
+                  - /url: /products/vine-tomatoes
+                  - generic [ref=e1459]:
+                    - generic [ref=e1461]: 16% OFF
+                    - button "Add to wishlist" [ref=e1462]:
+                      - img [ref=e1463]
+                    - img "Vine Tomatoes" [ref=e1465]
+                - generic [ref=e1466]:
+                  - generic [ref=e1468]: 500g
+                  - link "Vine Tomatoes" [ref=e1469] [cursor=pointer]:
+                    - /url: /products/vine-tomatoes
+                    - paragraph [ref=e1470]: Vine Tomatoes
+                  - paragraph [ref=e1471]: ₹10/100g
+                  - generic [ref=e1472]:
+                    - generic [ref=e1473]:
+                      - paragraph [ref=e1474]: ₹49
+                      - paragraph [ref=e1475]: ₹58
+                    - generic [ref=e1477]: Save ₹9
+                    - button "Add Vine Tomatoes to cart" [ref=e1478] [cursor=pointer]:
+                      - img [ref=e1479]
+                      - text: Add
+              - article [ref=e1484]:
+                - link "8% OFF Add to wishlist Farm Fresh Cow Milk" [ref=e1485] [cursor=pointer]:
+                  - /url: /products/farm-fresh-cow-milk
+                  - generic [ref=e1486]:
+                    - generic [ref=e1488]: 8% OFF
+                    - button "Add to wishlist" [ref=e1489]:
+                      - img [ref=e1490]
+                    - img "Farm Fresh Cow Milk" [ref=e1492]
+                - generic [ref=e1493]:
+                  - generic [ref=e1495]: 1L
+                  - link "Farm Fresh Cow Milk" [ref=e1496] [cursor=pointer]:
+                    - /url: /products/farm-fresh-cow-milk
+                    - paragraph [ref=e1497]: Farm Fresh Cow Milk
+                  - paragraph [ref=e1498]: ₹68/L
+                  - generic [ref=e1499]:
+                    - generic [ref=e1500]:
+                      - paragraph [ref=e1501]: ₹68
+                      - paragraph [ref=e1502]: ₹74
+                    - generic [ref=e1504]: Save ₹6
+                    - button "Add Farm Fresh Cow Milk to cart" [ref=e1505] [cursor=pointer]:
+                      - img [ref=e1506]
+                      - text: Add
+              - article [ref=e1511]:
+                - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e1512] [cursor=pointer]:
+                  - /url: /products/alphonso-mangoes
+                  - generic [ref=e1513]:
+                    - generic [ref=e1515]: 14% OFF
+                    - button "Add to wishlist" [ref=e1516]:
+                      - img [ref=e1517]
+                    - img "Alphonso Mangoes" [ref=e1519]
+                - generic [ref=e1520]:
+                  - generic [ref=e1522]: 1kg
+                  - link "Alphonso Mangoes" [ref=e1523] [cursor=pointer]:
+                    - /url: /products/alphonso-mangoes
+                    - paragraph [ref=e1524]: Alphonso Mangoes
+                  - paragraph [ref=e1525]: ₹299/kg
+                  - generic [ref=e1526]:
+                    - generic [ref=e1527]:
+                      - paragraph [ref=e1528]: ₹299
+                      - paragraph [ref=e1529]: ₹349
+                    - generic [ref=e1531]: Save ₹50
+                    - button "Add Alphonso Mangoes to cart" [ref=e1532] [cursor=pointer]:
+                      - img [ref=e1533]
+                      - text: Add
+              - article [ref=e1538]:
+                - link "Fruit Add to wishlist Sweet Banana Bunch" [ref=e1539] [cursor=pointer]:
+                  - /url: /products/sweet-banana-bunch
+                  - generic [ref=e1540]:
+                    - generic [ref=e1542]: Fruit
+                    - button "Add to wishlist" [ref=e1543]:
+                      - img [ref=e1544]
+                    - img "Sweet Banana Bunch" [ref=e1546]
+                - generic [ref=e1547]:
+                  - generic [ref=e1549]: 1pack
+                  - link "Sweet Banana Bunch" [ref=e1550] [cursor=pointer]:
+                    - /url: /products/sweet-banana-bunch
+                    - paragraph [ref=e1551]: Sweet Banana Bunch
+                  - paragraph [ref=e1552]: ₹72/pack
+                  - generic [ref=e1553]:
+                    - paragraph [ref=e1555]: ₹72
+                    - button "Add Sweet Banana Bunch to cart" [ref=e1556] [cursor=pointer]:
+                      - img [ref=e1557]
+                      - text: Add
+              - article [ref=e1562]:
+                - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e1563] [cursor=pointer]:
+                  - /url: /products/greek-yogurt-cup
+                  - generic [ref=e1564]:
+                    - generic [ref=e1566]: 13% OFF
+                    - button "Add to wishlist" [ref=e1567]:
+                      - img [ref=e1568]
+                    - img "Greek Yogurt Cup" [ref=e1570]
+                - generic [ref=e1571]:
+                  - generic [ref=e1573]: 500g
+                  - link "Greek Yogurt Cup" [ref=e1574] [cursor=pointer]:
+                    - /url: /products/greek-yogurt-cup
+                    - paragraph [ref=e1575]: Greek Yogurt Cup
+                  - paragraph [ref=e1576]: ₹22/100g
+                  - generic [ref=e1577]:
+                    - generic [ref=e1578]:
+                      - paragraph [ref=e1579]: ₹109
+                      - paragraph [ref=e1580]: ₹125
+                    - generic [ref=e1582]: Save ₹16
+                    - button "Add Greek Yogurt Cup to cart" [ref=e1583] [cursor=pointer]:
+                      - img [ref=e1584]
+                      - text: Add
+              - article [ref=e1589]:
+                - link "🔥 Popular Add to wishlist Multigrain Sourdough Bread" [ref=e1590] [cursor=pointer]:
+                  - /url: /products/multigrain-sourdough-bread
+                  - generic [ref=e1591]:
+                    - generic [ref=e1593]: 🔥 Popular
+                    - button "Add to wishlist" [ref=e1594]:
+                      - img [ref=e1595]
+                    - img "Multigrain Sourdough Bread" [ref=e1597]
+                - generic [ref=e1598]:
+                  - generic [ref=e1600]: 1pack
+                  - link "Multigrain Sourdough Bread" [ref=e1601] [cursor=pointer]:
+                    - /url: /products/multigrain-sourdough-bread
+                    - paragraph [ref=e1602]: Multigrain Sourdough Bread
+                  - paragraph [ref=e1603]: ₹169/pack
+                  - generic [ref=e1604]:
+                    - paragraph [ref=e1606]: ₹169
+                    - button "Add Multigrain Sourdough Bread to cart" [ref=e1607] [cursor=pointer]:
+                      - img [ref=e1608]
+                      - text: Add
+              - link "See more in Healthy Week" [ref=e1612] [cursor=pointer]:
+                - /url: /search?q=healthy
+                - img [ref=e1613]
+                - generic [ref=e1615]: More
+          - generic [ref=e1617]:
+            - link "Eat Clean, Feel Great Wellness Week Eat Clean, Feel Great Organic greens, superfoods, and wholesome pantry staples for a balanced, energetic week. Shop Healthy" [ref=e1618] [cursor=pointer]:
+              - /url: /search?q=healthy
+              - generic [ref=e1619]:
+                - img "Eat Clean, Feel Great" [ref=e1620]
+                - generic [ref=e1622]:
+                  - generic [ref=e1623]:
+                    - img [ref=e1624]
+                    - text: Wellness Week
+                  - heading "Eat Clean, Feel Great" [level=3] [ref=e1627]
+                  - paragraph [ref=e1628]: Organic greens, superfoods, and wholesome pantry staples for a balanced, energetic week.
+                  - generic [ref=e1630]:
+                    - text: Shop Healthy
+                    - img [ref=e1631]
+            - link "Weekend Indulgence Weekend Vibes Weekend Indulgence Chocolates, ice cream, artisan snacks & festive drinks — because weekends deserve to be delicious. Explore Treats" [ref=e1634] [cursor=pointer]:
+              - /url: /search?q=treats
+              - generic [ref=e1635]:
+                - img "Weekend Indulgence" [ref=e1636]
+                - generic [ref=e1638]:
+                  - generic [ref=e1639]:
+                    - img [ref=e1640]
+                    - text: Weekend Vibes
+                  - heading "Weekend Indulgence" [level=3] [ref=e1644]
+                  - paragraph [ref=e1645]: Chocolates, ice cream, artisan snacks & festive drinks — because weekends deserve to be delicious.
+                  - generic [ref=e1647]:
+                    - text: Explore Treats
+                    - img [ref=e1648]
+        - generic [ref=e1653]:
+          - generic [ref=e1654]:
+            - generic [ref=e1655]:
+              - generic [ref=e1658]:
+                - generic [ref=e1659]: TREATS
+                - heading "Weekend Treats" [level=2] [ref=e1660]
+                - paragraph [ref=e1661]: Snacks, sweets, drinks, and indulgent picks that make the weekend feel worth planning.
+              - link "See all" [ref=e1662] [cursor=pointer]:
+                - /url: /search?q=treats
+                - generic [ref=e1663]: See all
+                - img [ref=e1664]
+            - generic [ref=e1667]:
+              - link "Explore Weekend Treats" [ref=e1668] [cursor=pointer]:
+                - /url: /search?q=treats
+                - generic [ref=e1669]:
+                  - generic [ref=e1670]:
+                    - paragraph [ref=e1671]: TREATS
+                    - heading "Weekend Treats" [level=3] [ref=e1672]
+                  - generic [ref=e1673]:
+                    - generic [ref=e1674]: Explore
+                    - img [ref=e1675]
+              - article [ref=e1678]:
+                - link "20% OFF Add to wishlist Sea Salt Kettle Chips" [ref=e1679] [cursor=pointer]:
+                  - /url: /products/sea-salt-kettle-chips
+                  - generic [ref=e1680]:
+                    - generic [ref=e1682]: 20% OFF
+                    - button "Add to wishlist" [ref=e1683]:
+                      - img [ref=e1684]
+                    - img "Sea Salt Kettle Chips" [ref=e1686]
+                - generic [ref=e1687]:
+                  - generic [ref=e1689]: 1pack
+                  - link "Sea Salt Kettle Chips" [ref=e1690] [cursor=pointer]:
+                    - /url: /products/sea-salt-kettle-chips
+                    - paragraph [ref=e1691]: Sea Salt Kettle Chips
+                  - paragraph [ref=e1692]: ₹79/pack
+                  - generic [ref=e1693]:
+                    - generic [ref=e1694]:
+                      - paragraph [ref=e1695]: ₹79
+                      - paragraph [ref=e1696]: ₹99
+                    - generic [ref=e1698]: Save ₹20
+                    - button "Add Sea Salt Kettle Chips to cart" [ref=e1699] [cursor=pointer]:
+                      - img [ref=e1700]
+                      - text: Add
+              - article [ref=e1705]:
+                - link "14% OFF Add to wishlist Roasted Almonds" [ref=e1706] [cursor=pointer]:
+                  - /url: /products/roasted-almonds
+                  - generic [ref=e1707]:
+                    - generic [ref=e1709]: 14% OFF
+                    - button "Add to wishlist" [ref=e1710]:
+                      - img [ref=e1711]
+                    - img "Roasted Almonds" [ref=e1713]
+                - generic [ref=e1714]:
+                  - generic [ref=e1716]: 500g
+                  - link "Roasted Almonds" [ref=e1717] [cursor=pointer]:
+                    - /url: /products/roasted-almonds
+                    - paragraph [ref=e1718]: Roasted Almonds
+                  - paragraph [ref=e1719]: ₹46/100g
+                  - generic [ref=e1720]:
+                    - generic [ref=e1721]:
+                      - paragraph [ref=e1722]: ₹229
+                      - paragraph [ref=e1723]: ₹265
+                    - generic [ref=e1725]: Save ₹36
+                    - button "Add Roasted Almonds to cart" [ref=e1726] [cursor=pointer]:
+                      - img [ref=e1727]
+                      - text: Add
+              - article [ref=e1732]:
+                - link "Fruit Add to wishlist Sweet Banana Bunch" [ref=e1733] [cursor=pointer]:
+                  - /url: /products/sweet-banana-bunch
+                  - generic [ref=e1734]:
+                    - generic [ref=e1736]: Fruit
+                    - button "Add to wishlist" [ref=e1737]:
+                      - img [ref=e1738]
+                    - img "Sweet Banana Bunch" [ref=e1740]
+                - generic [ref=e1741]:
+                  - generic [ref=e1743]: 1pack
+                  - link "Sweet Banana Bunch" [ref=e1744] [cursor=pointer]:
+                    - /url: /products/sweet-banana-bunch
+                    - paragraph [ref=e1745]: Sweet Banana Bunch
+                  - paragraph [ref=e1746]: ₹72/pack
+                  - generic [ref=e1747]:
+                    - paragraph [ref=e1749]: ₹72
+                    - button "Add Sweet Banana Bunch to cart" [ref=e1750] [cursor=pointer]:
+                      - img [ref=e1751]
+                      - text: Add
+              - article [ref=e1756]:
+                - link "8% OFF Add to wishlist Farm Fresh Cow Milk" [ref=e1757] [cursor=pointer]:
+                  - /url: /products/farm-fresh-cow-milk
+                  - generic [ref=e1758]:
+                    - generic [ref=e1760]: 8% OFF
+                    - button "Add to wishlist" [ref=e1761]:
+                      - img [ref=e1762]
+                    - img "Farm Fresh Cow Milk" [ref=e1764]
+                - generic [ref=e1765]:
+                  - generic [ref=e1767]: 1L
+                  - link "Farm Fresh Cow Milk" [ref=e1768] [cursor=pointer]:
+                    - /url: /products/farm-fresh-cow-milk
+                    - paragraph [ref=e1769]: Farm Fresh Cow Milk
+                  - paragraph [ref=e1770]: ₹68/L
+                  - generic [ref=e1771]:
+                    - generic [ref=e1772]:
+                      - paragraph [ref=e1773]: ₹68
+                      - paragraph [ref=e1774]: ₹74
+                    - generic [ref=e1776]: Save ₹6
+                    - button "Add Farm Fresh Cow Milk to cart" [ref=e1777] [cursor=pointer]:
+                      - img [ref=e1778]
+                      - text: Add
+              - article [ref=e1783]:
+                - link "13% OFF Add to wishlist Cold Brew Coffee" [ref=e1784] [cursor=pointer]:
+                  - /url: /products/cold-brew-coffee
+                  - generic [ref=e1785]:
+                    - generic [ref=e1787]: 13% OFF
+                    - button "Add to wishlist" [ref=e1788]:
+                      - img [ref=e1789]
+                    - img "Cold Brew Coffee" [ref=e1791]
+                - generic [ref=e1792]:
+                  - generic [ref=e1794]: 500ml
+                  - link "Cold Brew Coffee" [ref=e1795] [cursor=pointer]:
+                    - /url: /products/cold-brew-coffee
+                    - paragraph [ref=e1796]: Cold Brew Coffee
+                  - paragraph [ref=e1797]: ₹26/100ml
+                  - generic [ref=e1798]:
+                    - generic [ref=e1799]:
+                      - paragraph [ref=e1800]: ₹129
+                      - paragraph [ref=e1801]: ₹149
+                    - generic [ref=e1803]: Save ₹20
+                    - button "Add Cold Brew Coffee to cart" [ref=e1804] [cursor=pointer]:
+                      - img [ref=e1805]
+                      - text: Add
+              - article [ref=e1810]:
+                - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e1811] [cursor=pointer]:
+                  - /url: /products/greek-yogurt-cup
+                  - generic [ref=e1812]:
+                    - generic [ref=e1814]: 13% OFF
+                    - button "Add to wishlist" [ref=e1815]:
+                      - img [ref=e1816]
+                    - img "Greek Yogurt Cup" [ref=e1818]
+                - generic [ref=e1819]:
+                  - generic [ref=e1821]: 500g
+                  - link "Greek Yogurt Cup" [ref=e1822] [cursor=pointer]:
+                    - /url: /products/greek-yogurt-cup
+                    - paragraph [ref=e1823]: Greek Yogurt Cup
+                  - paragraph [ref=e1824]: ₹22/100g
+                  - generic [ref=e1825]:
+                    - generic [ref=e1826]:
+                      - paragraph [ref=e1827]: ₹109
+                      - paragraph [ref=e1828]: ₹125
+                    - generic [ref=e1830]: Save ₹16
+                    - button "Add Greek Yogurt Cup to cart" [ref=e1831] [cursor=pointer]:
+                      - img [ref=e1832]
+                      - text: Add
+              - article [ref=e1837]:
+                - link "13% OFF Add to wishlist Free Range Eggs" [ref=e1838] [cursor=pointer]:
+                  - /url: /products/free-range-eggs
+                  - generic [ref=e1839]:
+                    - generic [ref=e1841]: 13% OFF
+                    - button "Add to wishlist" [ref=e1842]:
+                      - img [ref=e1843]
+                    - img "Free Range Eggs" [ref=e1845]
+                - generic [ref=e1846]:
+                  - generic [ref=e1848]: 1pack
+                  - link "Free Range Eggs" [ref=e1849] [cursor=pointer]:
+                    - /url: /products/free-range-eggs
+                    - paragraph [ref=e1850]: Free Range Eggs
+                  - paragraph [ref=e1851]: ₹129/pack
+                  - generic [ref=e1852]:
+                    - generic [ref=e1853]:
+                      - paragraph [ref=e1854]: ₹129
+                      - paragraph [ref=e1855]: ₹149
+                    - generic [ref=e1857]: Save ₹20
+                    - button "Add Free Range Eggs to cart" [ref=e1858] [cursor=pointer]:
+                      - img [ref=e1859]
+                      - text: Add
+              - article [ref=e1864]:
+                - link "Beverage Add to wishlist Ginger Kombucha" [ref=e1865] [cursor=pointer]:
+                  - /url: /products/ginger-kombucha
+                  - generic [ref=e1866]:
+                    - generic [ref=e1868]: Beverage
+                    - button "Add to wishlist" [ref=e1869]:
+                      - img [ref=e1870]
+                    - img "Ginger Kombucha" [ref=e1872]
+                - generic [ref=e1873]:
+                  - generic [ref=e1875]: 500ml
+                  - link "Ginger Kombucha" [ref=e1876] [cursor=pointer]:
+                    - /url: /products/ginger-kombucha
+                    - paragraph [ref=e1877]: Ginger Kombucha
+                  - paragraph [ref=e1878]: ₹27/100ml
+                  - generic [ref=e1879]:
+                    - paragraph [ref=e1881]: ₹135
+                    - button "Add Ginger Kombucha to cart" [ref=e1882] [cursor=pointer]:
+                      - img [ref=e1883]
+                      - text: Add
+              - link "See more in Weekend Treats" [ref=e1887] [cursor=pointer]:
+                - /url: /search?q=treats
+                - img [ref=e1888]
+                - generic [ref=e1890]: More
+          - generic [ref=e1891]:
+            - generic [ref=e1892]:
+              - generic [ref=e1895]:
+                - generic [ref=e1896]: ESSENTIALS
+                - heading "Home Essentials" [level=2] [ref=e1897]
+                - paragraph [ref=e1898]: Utility-led products for the home layer of grocery shopping, not just the kitchen layer.
+              - link "See all" [ref=e1899] [cursor=pointer]:
+                - /url: /search?q=essentials
+                - generic [ref=e1900]: See all
+                - img [ref=e1901]
+            - generic [ref=e1904]:
+              - link "Explore Home Essentials" [ref=e1905] [cursor=pointer]:
+                - /url: /search?q=essentials
+                - generic [ref=e1906]:
+                  - generic [ref=e1907]:
+                    - paragraph [ref=e1908]: ESSENTIALS
+                    - heading "Home Essentials" [level=3] [ref=e1909]
+                  - generic [ref=e1910]:
+                    - generic [ref=e1911]: Explore
+                    - img [ref=e1912]
+              - article [ref=e1915]:
+                - link "13% OFF Add to wishlist Botanical Hand Wash" [ref=e1916] [cursor=pointer]:
+                  - /url: /products/botanical-hand-wash
+                  - generic [ref=e1917]:
+                    - generic [ref=e1919]: 13% OFF
+                    - button "Add to wishlist" [ref=e1920]:
+                      - img [ref=e1921]
+                    - img "Botanical Hand Wash" [ref=e1923]
+                - generic [ref=e1924]:
+                  - generic [ref=e1926]: 500ml
+                  - link "Botanical Hand Wash" [ref=e1927] [cursor=pointer]:
+                    - /url: /products/botanical-hand-wash
+                    - paragraph [ref=e1928]: Botanical Hand Wash
+                  - paragraph [ref=e1929]: ₹26/100ml
+                  - generic [ref=e1930]:
+                    - generic [ref=e1931]:
+                      - paragraph [ref=e1932]: ₹129
+                      - paragraph [ref=e1933]: ₹149
+                    - generic [ref=e1935]: Save ₹20
+                    - button "Add Botanical Hand Wash to cart" [ref=e1936] [cursor=pointer]:
+                      - img [ref=e1937]
+                      - text: Add
+              - article [ref=e1942]:
+                - link "9% OFF Add to wishlist Soft Care Baby Diapers" [ref=e1943] [cursor=pointer]:
+                  - /url: /products/soft-care-baby-diapers
+                  - generic [ref=e1944]:
+                    - generic [ref=e1946]: 9% OFF
+                    - button "Add to wishlist" [ref=e1947]:
+                      - img [ref=e1948]
+                    - img "Soft Care Baby Diapers" [ref=e1950]
+                - generic [ref=e1951]:
+                  - generic [ref=e1953]: 1pack
+                  - link "Soft Care Baby Diapers" [ref=e1954] [cursor=pointer]:
+                    - /url: /products/soft-care-baby-diapers
+                    - paragraph [ref=e1955]: Soft Care Baby Diapers
+                  - paragraph [ref=e1956]: ₹499/pack
+                  - generic [ref=e1957]:
+                    - generic [ref=e1958]:
+                      - paragraph [ref=e1959]: ₹499
+                      - paragraph [ref=e1960]: ₹549
+                    - generic [ref=e1962]: Save ₹50
+                    - button "Add Soft Care Baby Diapers to cart" [ref=e1963] [cursor=pointer]:
+                      - img [ref=e1964]
+                      - text: Add
+              - article [ref=e1969]:
+                - link "22% OFF Add to wishlist Organic Baby Spinach" [ref=e1970] [cursor=pointer]:
+                  - /url: /products/organic-baby-spinach
+                  - generic [ref=e1971]:
+                    - generic [ref=e1973]: 22% OFF
+                    - button "Add to wishlist" [ref=e1974]:
+                      - img [ref=e1975]
+                    - img "Organic Baby Spinach" [ref=e1977]
+                - generic [ref=e1978]:
+                  - generic [ref=e1980]: 1pack
+                  - link "Organic Baby Spinach" [ref=e1981] [cursor=pointer]:
+                    - /url: /products/organic-baby-spinach
+                    - paragraph [ref=e1982]: Organic Baby Spinach
+                  - paragraph [ref=e1983]: ₹69/pack
+                  - generic [ref=e1984]:
+                    - generic [ref=e1985]:
+                      - paragraph [ref=e1986]: ₹69
+                      - paragraph [ref=e1987]: ₹89
+                    - generic [ref=e1989]: Save ₹20
+                    - button "Add Organic Baby Spinach to cart" [ref=e1990] [cursor=pointer]:
+                      - img [ref=e1991]
+                      - text: Add
+              - article [ref=e1996]:
+                - link "8% OFF Add to wishlist Farm Fresh Cow Milk" [ref=e1997] [cursor=pointer]:
+                  - /url: /products/farm-fresh-cow-milk
+                  - generic [ref=e1998]:
+                    - generic [ref=e2000]: 8% OFF
+                    - button "Add to wishlist" [ref=e2001]:
+                      - img [ref=e2002]
+                    - img "Farm Fresh Cow Milk" [ref=e2004]
+                - generic [ref=e2005]:
+                  - generic [ref=e2007]: 1L
+                  - link "Farm Fresh Cow Milk" [ref=e2008] [cursor=pointer]:
+                    - /url: /products/farm-fresh-cow-milk
+                    - paragraph [ref=e2009]: Farm Fresh Cow Milk
+                  - paragraph [ref=e2010]: ₹68/L
+                  - generic [ref=e2011]:
+                    - generic [ref=e2012]:
+                      - paragraph [ref=e2013]: ₹68
+                      - paragraph [ref=e2014]: ₹74
+                    - generic [ref=e2016]: Save ₹6
+                    - button "Add Farm Fresh Cow Milk to cart" [ref=e2017] [cursor=pointer]:
+                      - img [ref=e2018]
+                      - text: Add
+              - article [ref=e2023]:
+                - link "16% OFF Add to wishlist Vine Tomatoes" [ref=e2024] [cursor=pointer]:
+                  - /url: /products/vine-tomatoes
+                  - generic [ref=e2025]:
+                    - generic [ref=e2027]: 16% OFF
+                    - button "Add to wishlist" [ref=e2028]:
+                      - img [ref=e2029]
+                    - img "Vine Tomatoes" [ref=e2031]
+                - generic [ref=e2032]:
+                  - generic [ref=e2034]: 500g
+                  - link "Vine Tomatoes" [ref=e2035] [cursor=pointer]:
+                    - /url: /products/vine-tomatoes
+                    - paragraph [ref=e2036]: Vine Tomatoes
+                  - paragraph [ref=e2037]: ₹10/100g
+                  - generic [ref=e2038]:
+                    - generic [ref=e2039]:
+                      - paragraph [ref=e2040]: ₹49
+                      - paragraph [ref=e2041]: ₹58
+                    - generic [ref=e2043]: Save ₹9
+                    - button "Add Vine Tomatoes to cart" [ref=e2044] [cursor=pointer]:
+                      - img [ref=e2045]
+                      - text: Add
+              - article [ref=e2050]:
+                - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e2051] [cursor=pointer]:
+                  - /url: /products/alphonso-mangoes
+                  - generic [ref=e2052]:
+                    - generic [ref=e2054]: 14% OFF
+                    - button "Add to wishlist" [ref=e2055]:
+                      - img [ref=e2056]
+                    - img "Alphonso Mangoes" [ref=e2058]
+                - generic [ref=e2059]:
+                  - generic [ref=e2061]: 1kg
+                  - link "Alphonso Mangoes" [ref=e2062] [cursor=pointer]:
+                    - /url: /products/alphonso-mangoes
+                    - paragraph [ref=e2063]: Alphonso Mangoes
+                  - paragraph [ref=e2064]: ₹299/kg
+                  - generic [ref=e2065]:
+                    - generic [ref=e2066]:
+                      - paragraph [ref=e2067]: ₹299
+                      - paragraph [ref=e2068]: ₹349
+                    - generic [ref=e2070]: Save ₹50
+                    - button "Add Alphonso Mangoes to cart" [ref=e2071] [cursor=pointer]:
+                      - img [ref=e2072]
+                      - text: Add
+              - article [ref=e2077]:
+                - link "13% OFF Add to wishlist Cold Brew Coffee" [ref=e2078] [cursor=pointer]:
+                  - /url: /products/cold-brew-coffee
+                  - generic [ref=e2079]:
+                    - generic [ref=e2081]: 13% OFF
+                    - button "Add to wishlist" [ref=e2082]:
+                      - img [ref=e2083]
+                    - img "Cold Brew Coffee" [ref=e2085]
+                - generic [ref=e2086]:
+                  - generic [ref=e2088]: 500ml
+                  - link "Cold Brew Coffee" [ref=e2089] [cursor=pointer]:
+                    - /url: /products/cold-brew-coffee
+                    - paragraph [ref=e2090]: Cold Brew Coffee
+                  - paragraph [ref=e2091]: ₹26/100ml
+                  - generic [ref=e2092]:
+                    - generic [ref=e2093]:
+                      - paragraph [ref=e2094]: ₹129
+                      - paragraph [ref=e2095]: ₹149
+                    - generic [ref=e2097]: Save ₹20
+                    - button "Add Cold Brew Coffee to cart" [ref=e2098] [cursor=pointer]:
+                      - img [ref=e2099]
+                      - text: Add
+              - article [ref=e2104]:
+                - link "10% OFF Add to wishlist Aged Basmati Rice" [ref=e2105] [cursor=pointer]:
+                  - /url: /products/aged-basmati-rice
+                  - generic [ref=e2106]:
+                    - generic [ref=e2108]: 10% OFF
+                    - button "Add to wishlist" [ref=e2109]:
+                      - img [ref=e2110]
+                    - img "Aged Basmati Rice" [ref=e2112]
+                - generic [ref=e2113]:
+                  - generic [ref=e2115]: 1kg
+                  - link "Aged Basmati Rice" [ref=e2116] [cursor=pointer]:
+                    - /url: /products/aged-basmati-rice
+                    - paragraph [ref=e2117]: Aged Basmati Rice
+                  - paragraph [ref=e2118]: ₹429/kg
+                  - generic [ref=e2119]:
+                    - generic [ref=e2120]:
+                      - paragraph [ref=e2121]: ₹429
+                      - paragraph [ref=e2122]: ₹479
+                    - generic [ref=e2124]: Save ₹50
+                    - button "Add Aged Basmati Rice to cart" [ref=e2125] [cursor=pointer]:
+                      - img [ref=e2126]
+                      - text: Add
+              - link "See more in Home Essentials" [ref=e2130] [cursor=pointer]:
+                - /url: /search?q=essentials
+                - img [ref=e2131]
+                - generic [ref=e2133]: More
+          - generic [ref=e2134]:
+            - generic [ref=e2135]:
+              - generic [ref=e2138]:
+                - generic [ref=e2139]: FAMILY
+                - heading "Family Favourites" [level=2] [ref=e2140]
+                - paragraph [ref=e2141]: Friendly staples for bigger households, repeat orders, and kid-safe crowd-pleasers.
+              - link "See all" [ref=e2142] [cursor=pointer]:
+                - /url: /search?q=family
+                - generic [ref=e2143]: See all
+                - img [ref=e2144]
+            - generic [ref=e2147]:
+              - link "Explore Family Favourites" [ref=e2148] [cursor=pointer]:
+                - /url: /search?q=family
+                - generic [ref=e2149]:
+                  - generic [ref=e2150]:
+                    - paragraph [ref=e2151]: FAMILY
+                    - heading "Family Favourites" [level=3] [ref=e2152]
+                  - generic [ref=e2153]:
+                    - generic [ref=e2154]: Explore
+                    - img [ref=e2155]
+              - article [ref=e2158]:
+                - link "8% OFF Add to wishlist Farm Fresh Cow Milk" [ref=e2159] [cursor=pointer]:
+                  - /url: /products/farm-fresh-cow-milk
+                  - generic [ref=e2160]:
+                    - generic [ref=e2162]: 8% OFF
+                    - button "Add to wishlist" [ref=e2163]:
+                      - img [ref=e2164]
+                    - img "Farm Fresh Cow Milk" [ref=e2166]
+                - generic [ref=e2167]:
+                  - generic [ref=e2169]: 1L
+                  - link "Farm Fresh Cow Milk" [ref=e2170] [cursor=pointer]:
+                    - /url: /products/farm-fresh-cow-milk
+                    - paragraph [ref=e2171]: Farm Fresh Cow Milk
+                  - paragraph [ref=e2172]: ₹68/L
+                  - generic [ref=e2173]:
+                    - generic [ref=e2174]:
+                      - paragraph [ref=e2175]: ₹68
+                      - paragraph [ref=e2176]: ₹74
+                    - generic [ref=e2178]: Save ₹6
+                    - button "Add Farm Fresh Cow Milk to cart" [ref=e2179] [cursor=pointer]:
+                      - img [ref=e2180]
+                      - text: Add
+              - article [ref=e2185]:
+                - link "14% OFF Add to wishlist Roasted Almonds" [ref=e2186] [cursor=pointer]:
+                  - /url: /products/roasted-almonds
+                  - generic [ref=e2187]:
+                    - generic [ref=e2189]: 14% OFF
+                    - button "Add to wishlist" [ref=e2190]:
+                      - img [ref=e2191]
+                    - img "Roasted Almonds" [ref=e2193]
+                - generic [ref=e2194]:
+                  - generic [ref=e2196]: 500g
+                  - link "Roasted Almonds" [ref=e2197] [cursor=pointer]:
+                    - /url: /products/roasted-almonds
+                    - paragraph [ref=e2198]: Roasted Almonds
+                  - paragraph [ref=e2199]: ₹46/100g
+                  - generic [ref=e2200]:
+                    - generic [ref=e2201]:
+                      - paragraph [ref=e2202]: ₹229
+                      - paragraph [ref=e2203]: ₹265
+                    - generic [ref=e2205]: Save ₹36
+                    - button "Add Roasted Almonds to cart" [ref=e2206] [cursor=pointer]:
+                      - img [ref=e2207]
+                      - text: Add
+              - article [ref=e2212]:
+                - link "20% OFF Add to wishlist Sea Salt Kettle Chips" [ref=e2213] [cursor=pointer]:
+                  - /url: /products/sea-salt-kettle-chips
+                  - generic [ref=e2214]:
+                    - generic [ref=e2216]: 20% OFF
+                    - button "Add to wishlist" [ref=e2217]:
+                      - img [ref=e2218]
+                    - img "Sea Salt Kettle Chips" [ref=e2220]
+                - generic [ref=e2221]:
+                  - generic [ref=e2223]: 1pack
+                  - link "Sea Salt Kettle Chips" [ref=e2224] [cursor=pointer]:
+                    - /url: /products/sea-salt-kettle-chips
+                    - paragraph [ref=e2225]: Sea Salt Kettle Chips
+                  - paragraph [ref=e2226]: ₹79/pack
+                  - generic [ref=e2227]:
+                    - generic [ref=e2228]:
+                      - paragraph [ref=e2229]: ₹79
+                      - paragraph [ref=e2230]: ₹99
+                    - generic [ref=e2232]: Save ₹20
+                    - button "Add Sea Salt Kettle Chips to cart" [ref=e2233] [cursor=pointer]:
+                      - img [ref=e2234]
+                      - text: Add
+              - article [ref=e2239]:
+                - link "Fruit Add to wishlist Sweet Banana Bunch" [ref=e2240] [cursor=pointer]:
+                  - /url: /products/sweet-banana-bunch
+                  - generic [ref=e2241]:
+                    - generic [ref=e2243]: Fruit
+                    - button "Add to wishlist" [ref=e2244]:
+                      - img [ref=e2245]
+                    - img "Sweet Banana Bunch" [ref=e2247]
+                - generic [ref=e2248]:
+                  - generic [ref=e2250]: 1pack
+                  - link "Sweet Banana Bunch" [ref=e2251] [cursor=pointer]:
+                    - /url: /products/sweet-banana-bunch
+                    - paragraph [ref=e2252]: Sweet Banana Bunch
+                  - paragraph [ref=e2253]: ₹72/pack
+                  - generic [ref=e2254]:
+                    - paragraph [ref=e2256]: ₹72
+                    - button "Add Sweet Banana Bunch to cart" [ref=e2257] [cursor=pointer]:
+                      - img [ref=e2258]
+                      - text: Add
+              - article [ref=e2263]:
+                - link "22% OFF Add to wishlist Organic Baby Spinach" [ref=e2264] [cursor=pointer]:
+                  - /url: /products/organic-baby-spinach
+                  - generic [ref=e2265]:
+                    - generic [ref=e2267]: 22% OFF
+                    - button "Add to wishlist" [ref=e2268]:
+                      - img [ref=e2269]
+                    - img "Organic Baby Spinach" [ref=e2271]
+                - generic [ref=e2272]:
+                  - generic [ref=e2274]: 1pack
+                  - link "Organic Baby Spinach" [ref=e2275] [cursor=pointer]:
+                    - /url: /products/organic-baby-spinach
+                    - paragraph [ref=e2276]: Organic Baby Spinach
+                  - paragraph [ref=e2277]: ₹69/pack
+                  - generic [ref=e2278]:
+                    - generic [ref=e2279]:
+                      - paragraph [ref=e2280]: ₹69
+                      - paragraph [ref=e2281]: ₹89
+                    - generic [ref=e2283]: Save ₹20
+                    - button "Add Organic Baby Spinach to cart" [ref=e2284] [cursor=pointer]:
+                      - img [ref=e2285]
+                      - text: Add
+              - article [ref=e2290]:
+                - link "13% OFF Add to wishlist Cold Brew Coffee" [ref=e2291] [cursor=pointer]:
+                  - /url: /products/cold-brew-coffee
+                  - generic [ref=e2292]:
+                    - generic [ref=e2294]: 13% OFF
+                    - button "Add to wishlist" [ref=e2295]:
+                      - img [ref=e2296]
+                    - img "Cold Brew Coffee" [ref=e2298]
+                - generic [ref=e2299]:
+                  - generic [ref=e2301]: 500ml
+                  - link "Cold Brew Coffee" [ref=e2302] [cursor=pointer]:
+                    - /url: /products/cold-brew-coffee
+                    - paragraph [ref=e2303]: Cold Brew Coffee
+                  - paragraph [ref=e2304]: ₹26/100ml
+                  - generic [ref=e2305]:
+                    - generic [ref=e2306]:
+                      - paragraph [ref=e2307]: ₹129
+                      - paragraph [ref=e2308]: ₹149
+                    - generic [ref=e2310]: Save ₹20
+                    - button "Add Cold Brew Coffee to cart" [ref=e2311] [cursor=pointer]:
+                      - img [ref=e2312]
+                      - text: Add
+              - article [ref=e2317]:
+                - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e2318] [cursor=pointer]:
+                  - /url: /products/greek-yogurt-cup
+                  - generic [ref=e2319]:
+                    - generic [ref=e2321]: 13% OFF
+                    - button "Add to wishlist" [ref=e2322]:
+                      - img [ref=e2323]
+                    - img "Greek Yogurt Cup" [ref=e2325]
+                - generic [ref=e2326]:
+                  - generic [ref=e2328]: 500g
+                  - link "Greek Yogurt Cup" [ref=e2329] [cursor=pointer]:
+                    - /url: /products/greek-yogurt-cup
+                    - paragraph [ref=e2330]: Greek Yogurt Cup
+                  - paragraph [ref=e2331]: ₹22/100g
+                  - generic [ref=e2332]:
+                    - generic [ref=e2333]:
+                      - paragraph [ref=e2334]: ₹109
+                      - paragraph [ref=e2335]: ₹125
+                    - generic [ref=e2337]: Save ₹16
+                    - button "Add Greek Yogurt Cup to cart" [ref=e2338] [cursor=pointer]:
+                      - img [ref=e2339]
+                      - text: Add
+              - article [ref=e2344]:
+                - link "13% OFF Add to wishlist Free Range Eggs" [ref=e2345] [cursor=pointer]:
+                  - /url: /products/free-range-eggs
+                  - generic [ref=e2346]:
+                    - generic [ref=e2348]: 13% OFF
+                    - button "Add to wishlist" [ref=e2349]:
+                      - img [ref=e2350]
+                    - img "Free Range Eggs" [ref=e2352]
+                - generic [ref=e2353]:
+                  - generic [ref=e2355]: 1pack
+                  - link "Free Range Eggs" [ref=e2356] [cursor=pointer]:
+                    - /url: /products/free-range-eggs
+                    - paragraph [ref=e2357]: Free Range Eggs
+                  - paragraph [ref=e2358]: ₹129/pack
+                  - generic [ref=e2359]:
+                    - generic [ref=e2360]:
+                      - paragraph [ref=e2361]: ₹129
+                      - paragraph [ref=e2362]: ₹149
+                    - generic [ref=e2364]: Save ₹20
+                    - button "Add Free Range Eggs to cart" [ref=e2365] [cursor=pointer]:
+                      - img [ref=e2366]
+                      - text: Add
+              - link "See more in Family Favourites" [ref=e2370] [cursor=pointer]:
+                - /url: /search?q=family
+                - img [ref=e2371]
+                - generic [ref=e2373]: More
+          - generic [ref=e2375]:
+            - link "Home Essentials Always Stocked Home Essentials Detergents, tissues, soaps & everything your home needs — always stocked, always fresh. Stock Up" [ref=e2376] [cursor=pointer]:
+              - /url: /search?q=essentials
+              - generic [ref=e2377]:
+                - img "Home Essentials" [ref=e2378]
+                - generic [ref=e2380]:
+                  - generic [ref=e2381]:
+                    - img [ref=e2382]
+                    - text: Always Stocked
+                  - heading "Home Essentials" [level=3] [ref=e2387]
+                  - paragraph [ref=e2388]: Detergents, tissues, soaps & everything your home needs — always stocked, always fresh.
+                  - generic [ref=e2390]:
+                    - text: Stock Up
+                    - img [ref=e2391]
+            - link "Family Favourites Family Pack Family Favourites Kid-safe snacks, family-size packs & crowd-pleasers that everyone loves. Shop Family" [ref=e2394] [cursor=pointer]:
+              - /url: /search?q=family
+              - generic [ref=e2395]:
+                - img "Family Favourites" [ref=e2396]
+                - generic [ref=e2398]:
+                  - generic [ref=e2399]:
+                    - img [ref=e2400]
+                    - text: Family Pack
+                  - heading "Family Favourites" [level=3] [ref=e2403]
+                  - paragraph [ref=e2404]: Kid-safe snacks, family-size packs & crowd-pleasers that everyone loves.
+                  - generic [ref=e2406]:
+                    - text: Shop Family
+                    - img [ref=e2407]
+        - generic [ref=e2417]:
+          - generic [ref=e2418]:
+            - generic [ref=e2419]:
+              - generic [ref=e2420]: Live rankings
+              - heading "What Kolkata is adding first today." [level=2] [ref=e2421]
+              - paragraph [ref=e2422]: Pantry winners, fruit basket regulars, and snack shelf leaders pulled from live customer carts across South Kolkata.
+            - generic [ref=e2423]:
+              - generic [ref=e2425]:
+                - img [ref=e2427]
+                - generic [ref=e2430]:
+                  - paragraph [ref=e2431]: Baskets today
+                  - paragraph [ref=e2432]: 1320+
+                  - paragraph [ref=e2433]: Top mover in repeat household orders.
+              - generic [ref=e2435]:
+                - img [ref=e2437]
+                - generic [ref=e2440]:
+                  - paragraph [ref=e2441]: Refresh window
+                  - paragraph [ref=e2442]: Hourly
+                  - paragraph [ref=e2443]: Board updates through the day as carts move.
+              - generic [ref=e2445]:
+                - img [ref=e2447]
+                - generic [ref=e2450]:
+                  - paragraph [ref=e2451]: Freshness score
+                  - paragraph [ref=e2452]: 94%
+                  - paragraph [ref=e2453]: Strong repeat rate with healthy stock rotation.
+          - generic [ref=e2454]:
+            - 'button "Rank #1 Farm Fresh Cow Milk" [ref=e2455] [cursor=pointer]':
+              - generic [ref=e2456]: "Rank #1"
+              - generic [ref=e2457]: Farm Fresh Cow Milk
+            - 'button "Rank #2 Vine Tomatoes" [ref=e2458] [cursor=pointer]':
+              - generic [ref=e2459]: "Rank #2"
+              - generic [ref=e2460]: Vine Tomatoes
+            - 'button "Rank #3 Organic Baby Spinach" [ref=e2461] [cursor=pointer]':
+              - generic [ref=e2462]: "Rank #3"
+              - generic [ref=e2463]: Organic Baby Spinach
+          - generic [ref=e2464]:
+            - generic [ref=e2465]:
+              - generic [ref=e2466]:
+                - img [ref=e2467]
+                - paragraph [ref=e2470]: Leaderboard
+              - button "1 Farm Fresh Cow Milk Farm Fresh Cow Milk 1320 carts today Live ₹68 ₹74 96% demand" [ref=e2471] [cursor=pointer]:
+                - generic [ref=e2472]:
+                  - generic [ref=e2473]: "1"
+                  - img "Farm Fresh Cow Milk" [ref=e2475]
+                  - generic [ref=e2476]:
+                    - generic [ref=e2477]:
+                      - generic [ref=e2478]:
+                        - paragraph [ref=e2479]: Farm Fresh Cow Milk
+                        - paragraph [ref=e2480]: 1320 carts today
+                      - generic [ref=e2481]: Live
+                    - generic [ref=e2482]:
+                      - generic [ref=e2483]:
+                        - generic [ref=e2484]: ₹68
+                        - generic [ref=e2485]: ₹74
+                      - generic [ref=e2486]: 96% demand
+              - button "2 Vine Tomatoes Vine Tomatoes 1320 carts today ₹49 ₹58 96% demand" [ref=e2488] [cursor=pointer]:
+                - generic [ref=e2489]:
+                  - generic [ref=e2490]: "2"
+                  - img "Vine Tomatoes" [ref=e2492]
+                  - generic [ref=e2493]:
+                    - generic [ref=e2495]:
+                      - paragraph [ref=e2496]: Vine Tomatoes
+                      - paragraph [ref=e2497]: 1320 carts today
+                    - generic [ref=e2498]:
+                      - generic [ref=e2499]:
+                        - generic [ref=e2500]: ₹49
+                        - generic [ref=e2501]: ₹58
+                      - generic [ref=e2502]: 96% demand
+              - button "3 Organic Baby Spinach Organic Baby Spinach 1152 carts today ₹69 ₹89 96% demand" [ref=e2504] [cursor=pointer]:
+                - generic [ref=e2505]:
+                  - generic [ref=e2506]: "3"
+                  - img "Organic Baby Spinach" [ref=e2508]
+                  - generic [ref=e2509]:
+                    - generic [ref=e2511]:
+                      - paragraph [ref=e2512]: Organic Baby Spinach
+                      - paragraph [ref=e2513]: 1152 carts today
+                    - generic [ref=e2514]:
+                      - generic [ref=e2515]:
+                        - generic [ref=e2516]: ₹69
+                        - generic [ref=e2517]: ₹89
+                      - generic [ref=e2518]: 96% demand
+            - generic [ref=e2523]:
+              - generic [ref=e2524]:
+                - generic [ref=e2525]:
+                  - generic [ref=e2526]:
+                    - generic [ref=e2527]: "Rank #1"
+                    - generic [ref=e2528]: "Market pulse: live"
+                  - button [ref=e2529] [cursor=pointer]:
+                    - img [ref=e2530]
+                - generic [ref=e2532]:
+                  - img "Farm Fresh Cow Milk" [ref=e2534]
+                  - generic [ref=e2535]:
+                    - img [ref=e2536]
+                    - text: 8% off today
+                - generic [ref=e2538]:
+                  - generic [ref=e2539]:
+                    - paragraph [ref=e2540]: Orders today
+                    - paragraph [ref=e2541]: 1,320+
+                  - generic [ref=e2542]:
+                    - paragraph [ref=e2543]: Repeat score
+                    - paragraph [ref=e2544]: 94%
+              - generic [ref=e2545]:
+                - generic [ref=e2546]:
+                  - generic [ref=e2547]: Dairy & Eggs
+                  - generic [ref=e2548]: Best in repeat carts
+                - heading "Farm Fresh Cow Milk" [level=3] [ref=e2549]
+                - generic [ref=e2550]:
+                  - generic [ref=e2551]:
+                    - generic [ref=e2552]:
+                      - img [ref=e2553]
+                      - img [ref=e2555]
+                      - img [ref=e2557]
+                      - img [ref=e2559]
+                      - img [ref=e2561]
+                    - generic [ref=e2563]: "4.9"
+                  - generic [ref=e2564]: 1320 households bought this today
+                - generic [ref=e2565]:
+                  - generic [ref=e2566]: ₹68
+                  - generic [ref=e2567]: ₹74
+                - paragraph [ref=e2568]: Pasteurized full-cream milk sourced daily and chilled for doorstep delivery.
+                - generic [ref=e2569]:
+                  - generic [ref=e2570]:
+                    - paragraph [ref=e2571]: Shelf pressure
+                    - progressbar [ref=e2572]
+                    - paragraph [ref=e2574]: 44 units left in the current stock window.
+                  - generic [ref=e2575]:
+                    - paragraph [ref=e2576]: Demand mix
+                    - generic [ref=e2577]:
+                      - generic [ref=e2578]: 96%
+                      - img [ref=e2579]
+                    - paragraph [ref=e2582]: High share of reorder volume across pantry and daily-use baskets.
+                - generic [ref=e2583]:
+                  - button "Add to cart" [ref=e2584] [cursor=pointer]:
+                    - img
+                    - text: Add to cart
+                  - link "View product" [ref=e2585] [cursor=pointer]:
+                    - /url: /products/farm-fresh-cow-milk
+                    - text: View product
+                    - img
+            - generic [ref=e2586]:
+              - generic [ref=e2587]:
+                - img [ref=e2588]
+                - paragraph [ref=e2590]: More movers
+              - link "#4 Alphonso Mangoes Alphonso Mangoes 936 repeat orders ₹299 ₹349 96% share" [ref=e2592] [cursor=pointer]:
+                - /url: /products/alphonso-mangoes
+                - generic [ref=e2593]:
+                  - generic [ref=e2594]:
+                    - generic [ref=e2595]: "#4"
+                    - img "Alphonso Mangoes" [ref=e2596]
+                  - generic [ref=e2597]:
+                    - generic [ref=e2598]:
+                      - generic [ref=e2599]:
+                        - paragraph [ref=e2600]: Alphonso Mangoes
+                        - paragraph [ref=e2601]: 936 repeat orders
+                      - img [ref=e2602]
+                    - generic [ref=e2604]:
+                      - generic [ref=e2605]:
+                        - generic [ref=e2606]: ₹299
+                        - generic [ref=e2607]: ₹349
+                      - generic [ref=e2608]: 96% share
+              - link "#5 Cold Brew Coffee Cold Brew Coffee 756 repeat orders ₹129 ₹149 96% share" [ref=e2610] [cursor=pointer]:
+                - /url: /products/cold-brew-coffee
+                - generic [ref=e2611]:
+                  - generic [ref=e2612]:
+                    - generic [ref=e2613]: "#5"
+                    - img "Cold Brew Coffee" [ref=e2614]
+                  - generic [ref=e2615]:
+                    - generic [ref=e2616]:
+                      - generic [ref=e2617]:
+                        - paragraph [ref=e2618]: Cold Brew Coffee
+                        - paragraph [ref=e2619]: 756 repeat orders
+                      - img [ref=e2620]
+                    - generic [ref=e2622]:
+                      - generic [ref=e2623]:
+                        - generic [ref=e2624]: ₹129
+                        - generic [ref=e2625]: ₹149
+                      - generic [ref=e2626]: 96% share
+              - link "#6 Aged Basmati Rice Aged Basmati Rice 684 repeat orders ₹429 ₹479 96% share" [ref=e2628] [cursor=pointer]:
+                - /url: /products/aged-basmati-rice
+                - generic [ref=e2629]:
+                  - generic [ref=e2630]:
+                    - generic [ref=e2631]: "#6"
+                    - img "Aged Basmati Rice" [ref=e2632]
+                  - generic [ref=e2633]:
+                    - generic [ref=e2634]:
+                      - generic [ref=e2635]:
+                        - paragraph [ref=e2636]: Aged Basmati Rice
+                        - paragraph [ref=e2637]: 684 repeat orders
+                      - img [ref=e2638]
+                    - generic [ref=e2640]:
+                      - generic [ref=e2641]:
+                        - generic [ref=e2642]: ₹429
+                        - generic [ref=e2643]: ₹479
+                      - generic [ref=e2644]: 96% share
+              - link "#7 Multigrain Sourdough Bread Multigrain Sourdough Bread 648 repeat orders ₹169 96% share" [ref=e2646] [cursor=pointer]:
+                - /url: /products/multigrain-sourdough-bread
+                - generic [ref=e2647]:
+                  - generic [ref=e2648]:
+                    - generic [ref=e2649]: "#7"
+                    - img "Multigrain Sourdough Bread" [ref=e2650]
+                  - generic [ref=e2651]:
+                    - generic [ref=e2652]:
+                      - generic [ref=e2653]:
+                        - paragraph [ref=e2654]: Multigrain Sourdough Bread
+                        - paragraph [ref=e2655]: 648 repeat orders
+                      - img [ref=e2656]
+                    - generic [ref=e2658]:
+                      - generic [ref=e2660]: ₹169
+                      - generic [ref=e2661]: 96% share
+          - generic [ref=e2662]:
+            - generic [ref=e2664]:
+              - img [ref=e2666]
+              - generic [ref=e2669]:
+                - paragraph [ref=e2670]: Pulled from live baskets
+                - paragraph [ref=e2671]: This board updates from recent order movement instead of static merchandising.
+            - generic [ref=e2673]:
+              - img [ref=e2675]
+              - generic [ref=e2680]:
+                - paragraph [ref=e2681]: Built around repeat buying
+                - paragraph [ref=e2682]: Favourites stay here because customers come back for them, not because of decorative scoring.
+            - generic [ref=e2684]:
+              - img [ref=e2686]
+              - generic [ref=e2689]:
+                - paragraph [ref=e2690]: Sharper grocery signal
+                - paragraph [ref=e2691]: Pantry staples, produce winners, and quick-refill items get priority over generic catalog noise.
+        - generic [ref=e2693]:
+          - generic [ref=e2694]:
+            - generic [ref=e2695]:
+              - generic [ref=e2698]:
+                - generic [ref=e2699]: Trending
+                - heading "What Others Are Buying" [level=2] [ref=e2700]
+                - paragraph [ref=e2701]: Live demand signals from the products customers are adding fastest.
+              - link "See all" [ref=e2703] [cursor=pointer]:
+                - /url: /products
+                - generic [ref=e2704]: See all
+                - img [ref=e2705]
+            - generic [ref=e2707]:
+              - article [ref=e2709]:
+                - link "20% OFF Add to wishlist Sea Salt Kettle Chips" [ref=e2710] [cursor=pointer]:
+                  - /url: /products/sea-salt-kettle-chips
+                  - generic [ref=e2711]:
+                    - generic [ref=e2713]: 20% OFF
+                    - button "Add to wishlist" [ref=e2714]:
+                      - img [ref=e2715]
+                    - img "Sea Salt Kettle Chips" [ref=e2717]
+                - generic [ref=e2718]:
+                  - generic [ref=e2720]: 1pack
+                  - link "Sea Salt Kettle Chips" [ref=e2721] [cursor=pointer]:
+                    - /url: /products/sea-salt-kettle-chips
+                    - paragraph [ref=e2722]: Sea Salt Kettle Chips
+                  - paragraph [ref=e2723]: ₹79/pack
+                  - generic [ref=e2724]:
+                    - generic [ref=e2725]:
+                      - paragraph [ref=e2726]: ₹79
+                      - paragraph [ref=e2727]: ₹99
+                    - generic [ref=e2729]: Save ₹20
+                    - button "Add Sea Salt Kettle Chips to cart" [ref=e2730] [cursor=pointer]:
+                      - img [ref=e2731]
+                      - text: Add
+              - article [ref=e2736]:
+                - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e2737] [cursor=pointer]:
+                  - /url: /products/greek-yogurt-cup
+                  - generic [ref=e2738]:
+                    - generic [ref=e2740]: 13% OFF
+                    - button "Add to wishlist" [ref=e2741]:
+                      - img [ref=e2742]
+                    - img "Greek Yogurt Cup" [ref=e2744]
+                - generic [ref=e2745]:
+                  - generic [ref=e2747]: 500g
+                  - link "Greek Yogurt Cup" [ref=e2748] [cursor=pointer]:
+                    - /url: /products/greek-yogurt-cup
+                    - paragraph [ref=e2749]: Greek Yogurt Cup
+                  - paragraph [ref=e2750]: ₹22/100g
+                  - generic [ref=e2751]:
+                    - generic [ref=e2752]:
+                      - paragraph [ref=e2753]: ₹109
+                      - paragraph [ref=e2754]: ₹125
+                    - generic [ref=e2756]: Save ₹16
+                    - button "Add Greek Yogurt Cup to cart" [ref=e2757] [cursor=pointer]:
+                      - img [ref=e2758]
+                      - text: Add
+              - article [ref=e2763]:
+                - link "13% OFF Add to wishlist Free Range Eggs" [ref=e2764] [cursor=pointer]:
+                  - /url: /products/free-range-eggs
+                  - generic [ref=e2765]:
+                    - generic [ref=e2767]: 13% OFF
+                    - button "Add to wishlist" [ref=e2768]:
+                      - img [ref=e2769]
+                    - img "Free Range Eggs" [ref=e2771]
+                - generic [ref=e2772]:
+                  - generic [ref=e2774]: 1pack
+                  - link "Free Range Eggs" [ref=e2775] [cursor=pointer]:
+                    - /url: /products/free-range-eggs
+                    - paragraph [ref=e2776]: Free Range Eggs
+                  - paragraph [ref=e2777]: ₹129/pack
+                  - generic [ref=e2778]:
+                    - generic [ref=e2779]:
+                      - paragraph [ref=e2780]: ₹129
+                      - paragraph [ref=e2781]: ₹149
+                    - generic [ref=e2783]: Save ₹20
+                    - button "Add Free Range Eggs to cart" [ref=e2784] [cursor=pointer]:
+                      - img [ref=e2785]
+                      - text: Add
+              - article [ref=e2790]:
+                - link "🔥 Popular Add to wishlist Multigrain Sourdough Bread" [ref=e2791] [cursor=pointer]:
+                  - /url: /products/multigrain-sourdough-bread
+                  - generic [ref=e2792]:
+                    - generic [ref=e2794]: 🔥 Popular
+                    - button "Add to wishlist" [ref=e2795]:
+                      - img [ref=e2796]
+                    - img "Multigrain Sourdough Bread" [ref=e2798]
+                - generic [ref=e2799]:
+                  - generic [ref=e2801]: 1pack
+                  - link "Multigrain Sourdough Bread" [ref=e2802] [cursor=pointer]:
+                    - /url: /products/multigrain-sourdough-bread
+                    - paragraph [ref=e2803]: Multigrain Sourdough Bread
+                  - paragraph [ref=e2804]: ₹169/pack
+                  - generic [ref=e2805]:
+                    - paragraph [ref=e2807]: ₹169
+                    - button "Add Multigrain Sourdough Bread to cart" [ref=e2808] [cursor=pointer]:
+                      - img [ref=e2809]
+                      - text: Add
+              - article [ref=e2814]:
+                - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e2815] [cursor=pointer]:
+                  - /url: /products/premium-avocado-duo
+                  - generic [ref=e2816]:
+                    - generic [ref=e2818]: 15% OFF
+                    - button "Add to wishlist" [ref=e2819]:
+                      - img [ref=e2820]
+                    - img "Premium Avocado Duo" [ref=e2822]
+                - generic [ref=e2823]:
+                  - generic [ref=e2825]: 1pack
+                  - link "Premium Avocado Duo" [ref=e2826] [cursor=pointer]:
+                    - /url: /products/premium-avocado-duo
+                    - paragraph [ref=e2827]: Premium Avocado Duo
+                  - paragraph [ref=e2828]: ₹169/pack
+                  - generic [ref=e2829]:
+                    - generic [ref=e2830]:
+                      - paragraph [ref=e2831]: ₹169
+                      - paragraph [ref=e2832]: ₹199
+                    - generic [ref=e2834]: Save ₹30
+                    - button "Add Premium Avocado Duo to cart" [ref=e2835] [cursor=pointer]:
+                      - img [ref=e2836]
+                      - text: Add
+              - article [ref=e2841]:
+                - link "14% OFF Add to wishlist Roasted Almonds" [ref=e2842] [cursor=pointer]:
+                  - /url: /products/roasted-almonds
+                  - generic [ref=e2843]:
+                    - generic [ref=e2845]: 14% OFF
+                    - button "Add to wishlist" [ref=e2846]:
+                      - img [ref=e2847]
+                    - img "Roasted Almonds" [ref=e2849]
+                - generic [ref=e2850]:
+                  - generic [ref=e2852]: 500g
+                  - link "Roasted Almonds" [ref=e2853] [cursor=pointer]:
+                    - /url: /products/roasted-almonds
+                    - paragraph [ref=e2854]: Roasted Almonds
+                  - paragraph [ref=e2855]: ₹46/100g
+                  - generic [ref=e2856]:
+                    - generic [ref=e2857]:
+                      - paragraph [ref=e2858]: ₹229
+                      - paragraph [ref=e2859]: ₹265
+                    - generic [ref=e2861]: Save ₹36
+                    - button "Add Roasted Almonds to cart" [ref=e2862] [cursor=pointer]:
+                      - img [ref=e2863]
+                      - text: Add
+              - article [ref=e2868]:
+                - link "13% OFF Add to wishlist Butter Croissant Pack" [ref=e2869] [cursor=pointer]:
+                  - /url: /products/butter-croissant-pack
+                  - generic [ref=e2870]:
+                    - generic [ref=e2872]: 13% OFF
+                    - button "Add to wishlist" [ref=e2873]:
+                      - img [ref=e2874]
+                    - img "Butter Croissant Pack" [ref=e2876]
+                - generic [ref=e2877]:
+                  - generic [ref=e2879]: 1pack
+                  - link "Butter Croissant Pack" [ref=e2880] [cursor=pointer]:
+                    - /url: /products/butter-croissant-pack
+                    - paragraph [ref=e2881]: Butter Croissant Pack
+                  - paragraph [ref=e2882]: ₹139/pack
+                  - generic [ref=e2883]:
+                    - generic [ref=e2884]:
+                      - paragraph [ref=e2885]: ₹139
+                      - paragraph [ref=e2886]: ₹159
+                    - generic [ref=e2888]: Save ₹20
+                    - button "Add Butter Croissant Pack to cart" [ref=e2889] [cursor=pointer]:
+                      - img [ref=e2890]
+                      - text: Add
+              - article [ref=e2895]:
+                - link "11% OFF Add to wishlist Organic Wildflower Honey" [ref=e2896] [cursor=pointer]:
+                  - /url: /products/organic-wildflower-honey
+                  - generic [ref=e2897]:
+                    - generic [ref=e2899]: 11% OFF
+                    - button "Add to wishlist" [ref=e2900]:
+                      - img [ref=e2901]
+                    - img "Organic Wildflower Honey" [ref=e2903]
+                - generic [ref=e2904]:
+                  - generic [ref=e2906]: 500g
+                  - link "Organic Wildflower Honey" [ref=e2907] [cursor=pointer]:
+                    - /url: /products/organic-wildflower-honey
+                    - paragraph [ref=e2908]: Organic Wildflower Honey
+                  - paragraph [ref=e2909]: ₹58/100g
+                  - generic [ref=e2910]:
+                    - generic [ref=e2911]:
+                      - paragraph [ref=e2912]: ₹289
+                      - paragraph [ref=e2913]: ₹325
+                    - generic [ref=e2915]: Save ₹36
+                    - button "Add Organic Wildflower Honey to cart" [ref=e2916] [cursor=pointer]:
+                      - img [ref=e2917]
+                      - text: Add
+              - article [ref=e2922]:
+                - link "10% OFF Add to wishlist Extra Virgin Olive Oil" [ref=e2923] [cursor=pointer]:
+                  - /url: /products/extra-virgin-olive-oil
+                  - generic [ref=e2924]:
+                    - generic [ref=e2926]: 10% OFF
+                    - button "Add to wishlist" [ref=e2927]:
+                      - img [ref=e2928]
+                    - img "Extra Virgin Olive Oil" [ref=e2930]
+                - generic [ref=e2931]:
+                  - generic [ref=e2933]: 1L
+                  - link "Extra Virgin Olive Oil" [ref=e2934] [cursor=pointer]:
+                    - /url: /products/extra-virgin-olive-oil
+                    - paragraph [ref=e2935]: Extra Virgin Olive Oil
+                  - paragraph [ref=e2936]: ₹629/L
+                  - generic [ref=e2937]:
+                    - generic [ref=e2938]:
+                      - paragraph [ref=e2939]: ₹629
+                      - paragraph [ref=e2940]: ₹699
+                    - generic [ref=e2942]: Save ₹70
+                    - button "Add Extra Virgin Olive Oil to cart" [ref=e2943] [cursor=pointer]:
+                      - img [ref=e2944]
+                      - text: Add
+              - article [ref=e2949]:
+                - link "9% OFF Add to wishlist Soft Care Baby Diapers" [ref=e2950] [cursor=pointer]:
+                  - /url: /products/soft-care-baby-diapers
+                  - generic [ref=e2951]:
+                    - generic [ref=e2953]: 9% OFF
+                    - button "Add to wishlist" [ref=e2954]:
+                      - img [ref=e2955]
+                    - img "Soft Care Baby Diapers" [ref=e2957]
+                - generic [ref=e2958]:
+                  - generic [ref=e2960]: 1pack
+                  - link "Soft Care Baby Diapers" [ref=e2961] [cursor=pointer]:
+                    - /url: /products/soft-care-baby-diapers
+                    - paragraph [ref=e2962]: Soft Care Baby Diapers
+                  - paragraph [ref=e2963]: ₹499/pack
+                  - generic [ref=e2964]:
+                    - generic [ref=e2965]:
+                      - paragraph [ref=e2966]: ₹499
+                      - paragraph [ref=e2967]: ₹549
+                    - generic [ref=e2969]: Save ₹50
+                    - button "Add Soft Care Baby Diapers to cart" [ref=e2970] [cursor=pointer]:
+                      - img [ref=e2971]
+                      - text: Add
+              - article [ref=e2976]:
+                - link "Beverage Add to wishlist Ginger Kombucha" [ref=e2977] [cursor=pointer]:
+                  - /url: /products/ginger-kombucha
+                  - generic [ref=e2978]:
+                    - generic [ref=e2980]: Beverage
+                    - button "Add to wishlist" [ref=e2981]:
+                      - img [ref=e2982]
+                    - img "Ginger Kombucha" [ref=e2984]
+                - generic [ref=e2985]:
+                  - generic [ref=e2987]: 500ml
+                  - link "Ginger Kombucha" [ref=e2988] [cursor=pointer]:
+                    - /url: /products/ginger-kombucha
+                    - paragraph [ref=e2989]: Ginger Kombucha
+                  - paragraph [ref=e2990]: ₹27/100ml
+                  - generic [ref=e2991]:
+                    - paragraph [ref=e2993]: ₹135
+                    - button "Add Ginger Kombucha to cart" [ref=e2994] [cursor=pointer]:
+                      - img [ref=e2995]
+                      - text: Add
+              - article [ref=e3000]:
+                - link "13% OFF Add to wishlist Botanical Hand Wash" [ref=e3001] [cursor=pointer]:
+                  - /url: /products/botanical-hand-wash
+                  - generic [ref=e3002]:
+                    - generic [ref=e3004]: 13% OFF
+                    - button "Add to wishlist" [ref=e3005]:
+                      - img [ref=e3006]
+                    - img "Botanical Hand Wash" [ref=e3008]
+                - generic [ref=e3009]:
+                  - generic [ref=e3011]: 500ml
+                  - link "Botanical Hand Wash" [ref=e3012] [cursor=pointer]:
+                    - /url: /products/botanical-hand-wash
+                    - paragraph [ref=e3013]: Botanical Hand Wash
+                  - paragraph [ref=e3014]: ₹26/100ml
+                  - generic [ref=e3015]:
+                    - generic [ref=e3016]:
+                      - paragraph [ref=e3017]: ₹129
+                      - paragraph [ref=e3018]: ₹149
+                    - generic [ref=e3020]: Save ₹20
+                    - button "Add Botanical Hand Wash to cart" [ref=e3021] [cursor=pointer]:
+                      - img [ref=e3022]
+                      - text: Add
+          - link "Free Delivery on ₹299+ Free Delivery Free Delivery on ₹299+ No delivery charges on orders above ₹299. Shop now and save on every delivery. Start Shopping" [ref=e3028] [cursor=pointer]:
+            - /url: /products
+            - generic [ref=e3029]:
+              - img "Free Delivery on ₹299+" [ref=e3030]
+              - generic [ref=e3032]:
+                - generic [ref=e3033]:
+                  - img [ref=e3034]
+                  - text: Free Delivery
+                - heading "Free Delivery on ₹299+" [level=3] [ref=e3039]
+                - paragraph [ref=e3040]: No delivery charges on orders above ₹299. Shop now and save on every delivery.
+                - generic [ref=e3042]:
+                  - text: Start Shopping
+                  - img [ref=e3043]
+          - region "Today's Fresh Picks" [ref=e3046]:
+            - generic [ref=e3047]:
+              - generic [ref=e3048]:
+                - generic [ref=e3049]:
+                  - generic [ref=e3050]:
+                    - img [ref=e3051]
+                    - text: Fresh today
+                  - heading "Today's Fresh Picks" [level=2] [ref=e3054]
+                  - paragraph [ref=e3055]: Hand-picked new arrivals and repeat-order favourites, arranged for quick browsing.
+                - link "See all new arrivals" [ref=e3057] [cursor=pointer]:
+                  - /url: /products?sort=new
+                  - text: Browse all
+                  - img [ref=e3058]
+              - generic [ref=e3062]:
+                - generic [ref=e3063]:
+                  - article [ref=e3065]:
+                    - link "10% OFF Add to wishlist Extra Virgin Olive Oil" [ref=e3066] [cursor=pointer]:
+                      - /url: /products/extra-virgin-olive-oil
+                      - generic [ref=e3067]:
+                        - generic [ref=e3069]: 10% OFF
+                        - button "Add to wishlist" [ref=e3070]:
+                          - img [ref=e3071]
+                        - img "Extra Virgin Olive Oil" [ref=e3073]
+                    - generic [ref=e3074]:
+                      - generic [ref=e3076]: 1L
+                      - link "Extra Virgin Olive Oil" [ref=e3077] [cursor=pointer]:
+                        - /url: /products/extra-virgin-olive-oil
+                        - paragraph [ref=e3078]: Extra Virgin Olive Oil
+                      - paragraph [ref=e3079]: ₹629/L
+                      - generic [ref=e3080]:
+                        - generic [ref=e3081]:
+                          - paragraph [ref=e3082]: ₹629
+                          - paragraph [ref=e3083]: ₹699
+                        - generic [ref=e3085]: Save ₹70
+                        - button "Add Extra Virgin Olive Oil to cart" [ref=e3086] [cursor=pointer]:
+                          - img [ref=e3087]
+                          - text: Add
+                  - article [ref=e3092]:
+                    - link "13% OFF Add to wishlist Cold Brew Coffee" [ref=e3093] [cursor=pointer]:
+                      - /url: /products/cold-brew-coffee
+                      - generic [ref=e3094]:
+                        - generic [ref=e3096]: 13% OFF
+                        - button "Add to wishlist" [ref=e3097]:
+                          - img [ref=e3098]
+                        - img "Cold Brew Coffee" [ref=e3100]
+                    - generic [ref=e3101]:
+                      - generic [ref=e3103]: 500ml
+                      - link "Cold Brew Coffee" [ref=e3104] [cursor=pointer]:
+                        - /url: /products/cold-brew-coffee
+                        - paragraph [ref=e3105]: Cold Brew Coffee
+                      - paragraph [ref=e3106]: ₹26/100ml
+                      - generic [ref=e3107]:
+                        - generic [ref=e3108]:
+                          - paragraph [ref=e3109]: ₹129
+                          - paragraph [ref=e3110]: ₹149
+                        - generic [ref=e3112]: Save ₹20
+                        - button "Add Cold Brew Coffee to cart" [ref=e3113] [cursor=pointer]:
+                          - img [ref=e3114]
+                          - text: Add
+                  - article [ref=e3119]:
+                    - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e3120] [cursor=pointer]:
+                      - /url: /products/alphonso-mangoes
+                      - generic [ref=e3121]:
+                        - generic [ref=e3123]: 14% OFF
+                        - button "Add to wishlist" [ref=e3124]:
+                          - img [ref=e3125]
+                        - img "Alphonso Mangoes" [ref=e3127]
+                    - generic [ref=e3128]:
+                      - generic [ref=e3130]: 1kg
+                      - link "Alphonso Mangoes" [ref=e3131] [cursor=pointer]:
+                        - /url: /products/alphonso-mangoes
+                        - paragraph [ref=e3132]: Alphonso Mangoes
+                      - paragraph [ref=e3133]: ₹299/kg
+                      - generic [ref=e3134]:
+                        - generic [ref=e3135]:
+                          - paragraph [ref=e3136]: ₹299
+                          - paragraph [ref=e3137]: ₹349
+                        - generic [ref=e3139]: Save ₹50
+                        - button "Add Alphonso Mangoes to cart" [ref=e3140] [cursor=pointer]:
+                          - img [ref=e3141]
+                          - text: Add
+                  - article [ref=e3146]:
+                    - link "13% OFF Add to wishlist Butter Croissant Pack" [ref=e3147] [cursor=pointer]:
+                      - /url: /products/butter-croissant-pack
+                      - generic [ref=e3148]:
+                        - generic [ref=e3150]: 13% OFF
+                        - button "Add to wishlist" [ref=e3151]:
+                          - img [ref=e3152]
+                        - img "Butter Croissant Pack" [ref=e3154]
+                    - generic [ref=e3155]:
+                      - generic [ref=e3157]: 1pack
+                      - link "Butter Croissant Pack" [ref=e3158] [cursor=pointer]:
+                        - /url: /products/butter-croissant-pack
+                        - paragraph [ref=e3159]: Butter Croissant Pack
+                      - paragraph [ref=e3160]: ₹139/pack
+                      - generic [ref=e3161]:
+                        - generic [ref=e3162]:
+                          - paragraph [ref=e3163]: ₹139
+                          - paragraph [ref=e3164]: ₹159
+                        - generic [ref=e3166]: Save ₹20
+                        - button "Add Butter Croissant Pack to cart" [ref=e3167] [cursor=pointer]:
+                          - img [ref=e3168]
+                          - text: Add
+                  - article [ref=e3173]:
+                    - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e3174] [cursor=pointer]:
+                      - /url: /products/premium-avocado-duo
+                      - generic [ref=e3175]:
+                        - generic [ref=e3177]: 15% OFF
+                        - button "Add to wishlist" [ref=e3178]:
+                          - img [ref=e3179]
+                        - img "Premium Avocado Duo" [ref=e3181]
+                    - generic [ref=e3182]:
+                      - generic [ref=e3184]: 1pack
+                      - link "Premium Avocado Duo" [ref=e3185] [cursor=pointer]:
+                        - /url: /products/premium-avocado-duo
+                        - paragraph [ref=e3186]: Premium Avocado Duo
+                      - paragraph [ref=e3187]: ₹169/pack
+                      - generic [ref=e3188]:
+                        - generic [ref=e3189]:
+                          - paragraph [ref=e3190]: ₹169
+                          - paragraph [ref=e3191]: ₹199
+                        - generic [ref=e3193]: Save ₹30
+                        - button "Add Premium Avocado Duo to cart" [ref=e3194] [cursor=pointer]:
+                          - img [ref=e3195]
+                          - text: Add
+                  - article [ref=e3200]:
+                    - link "New Add to wishlist Ginger Kombucha" [ref=e3201] [cursor=pointer]:
+                      - /url: /products/ginger-kombucha
+                      - generic [ref=e3202]:
+                        - generic [ref=e3204]: New
+                        - button "Add to wishlist" [ref=e3205]:
+                          - img [ref=e3206]
+                        - img "Ginger Kombucha" [ref=e3208]
+                    - generic [ref=e3209]:
+                      - generic [ref=e3211]: 500ml
+                      - link "Ginger Kombucha" [ref=e3212] [cursor=pointer]:
+                        - /url: /products/ginger-kombucha
+                        - paragraph [ref=e3213]: Ginger Kombucha
+                      - paragraph [ref=e3214]: ₹27/100ml
+                      - generic [ref=e3215]:
+                        - paragraph [ref=e3217]: ₹135
+                        - button "Add Ginger Kombucha to cart" [ref=e3218] [cursor=pointer]:
+                          - img [ref=e3219]
+                          - text: Add
+                  - article [ref=e3224]:
+                    - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e3225] [cursor=pointer]:
+                      - /url: /products/greek-yogurt-cup
+                      - generic [ref=e3226]:
+                        - generic [ref=e3228]: 13% OFF
+                        - button "Add to wishlist" [ref=e3229]:
+                          - img [ref=e3230]
+                        - img "Greek Yogurt Cup" [ref=e3232]
+                    - generic [ref=e3233]:
+                      - generic [ref=e3235]: 500g
+                      - link "Greek Yogurt Cup" [ref=e3236] [cursor=pointer]:
+                        - /url: /products/greek-yogurt-cup
+                        - paragraph [ref=e3237]: Greek Yogurt Cup
+                      - paragraph [ref=e3238]: ₹22/100g
+                      - generic [ref=e3239]:
+                        - generic [ref=e3240]:
+                          - paragraph [ref=e3241]: ₹109
+                          - paragraph [ref=e3242]: ₹125
+                        - generic [ref=e3244]: Save ₹16
+                        - button "Add Greek Yogurt Cup to cart" [ref=e3245] [cursor=pointer]:
+                          - img [ref=e3246]
+                          - text: Add
+                  - article [ref=e3251]:
+                    - link "20% OFF Add to wishlist Sea Salt Kettle Chips" [ref=e3252] [cursor=pointer]:
+                      - /url: /products/sea-salt-kettle-chips
+                      - generic [ref=e3253]:
+                        - generic [ref=e3255]: 20% OFF
+                        - button "Add to wishlist" [ref=e3256]:
+                          - img [ref=e3257]
+                        - img "Sea Salt Kettle Chips" [ref=e3259]
+                    - generic [ref=e3260]:
+                      - generic [ref=e3262]: 1pack
+                      - link "Sea Salt Kettle Chips" [ref=e3263] [cursor=pointer]:
+                        - /url: /products/sea-salt-kettle-chips
+                        - paragraph [ref=e3264]: Sea Salt Kettle Chips
+                      - paragraph [ref=e3265]: ₹79/pack
+                      - generic [ref=e3266]:
+                        - generic [ref=e3267]:
+                          - paragraph [ref=e3268]: ₹79
+                          - paragraph [ref=e3269]: ₹99
+                        - generic [ref=e3271]: Save ₹20
+                        - button "Add Sea Salt Kettle Chips to cart" [ref=e3272] [cursor=pointer]:
+                          - img [ref=e3273]
+                          - text: Add
+                - generic [ref=e3277]:
+                  - article [ref=e3279]:
+                    - link "10% OFF Add to wishlist Extra Virgin Olive Oil" [ref=e3280] [cursor=pointer]:
+                      - /url: /products/extra-virgin-olive-oil
+                      - generic [ref=e3281]:
+                        - generic [ref=e3283]: 10% OFF
+                        - button "Add to wishlist" [ref=e3284]:
+                          - img [ref=e3285]
+                        - img "Extra Virgin Olive Oil" [ref=e3287]
+                    - generic [ref=e3288]:
+                      - generic [ref=e3290]: 1L
+                      - link "Extra Virgin Olive Oil" [ref=e3291] [cursor=pointer]:
+                        - /url: /products/extra-virgin-olive-oil
+                        - paragraph [ref=e3292]: Extra Virgin Olive Oil
+                      - paragraph [ref=e3293]: ₹629/L
+                      - generic [ref=e3294]:
+                        - generic [ref=e3295]:
+                          - paragraph [ref=e3296]: ₹629
+                          - paragraph [ref=e3297]: ₹699
+                        - generic [ref=e3299]: Save ₹70
+                        - button "Add Extra Virgin Olive Oil to cart" [ref=e3300] [cursor=pointer]:
+                          - img [ref=e3301]
+                          - text: Add
+                  - article [ref=e3306]:
+                    - link "13% OFF Add to wishlist Cold Brew Coffee" [ref=e3307] [cursor=pointer]:
+                      - /url: /products/cold-brew-coffee
+                      - generic [ref=e3308]:
+                        - generic [ref=e3310]: 13% OFF
+                        - button "Add to wishlist" [ref=e3311]:
+                          - img [ref=e3312]
+                        - img "Cold Brew Coffee" [ref=e3314]
+                    - generic [ref=e3315]:
+                      - generic [ref=e3317]: 500ml
+                      - link "Cold Brew Coffee" [ref=e3318] [cursor=pointer]:
+                        - /url: /products/cold-brew-coffee
+                        - paragraph [ref=e3319]: Cold Brew Coffee
+                      - paragraph [ref=e3320]: ₹26/100ml
+                      - generic [ref=e3321]:
+                        - generic [ref=e3322]:
+                          - paragraph [ref=e3323]: ₹129
+                          - paragraph [ref=e3324]: ₹149
+                        - generic [ref=e3326]: Save ₹20
+                        - button "Add Cold Brew Coffee to cart" [ref=e3327] [cursor=pointer]:
+                          - img [ref=e3328]
+                          - text: Add
+                  - article [ref=e3333]:
+                    - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e3334] [cursor=pointer]:
+                      - /url: /products/alphonso-mangoes
+                      - generic [ref=e3335]:
+                        - generic [ref=e3337]: 14% OFF
+                        - button "Add to wishlist" [ref=e3338]:
+                          - img [ref=e3339]
+                        - img "Alphonso Mangoes" [ref=e3341]
+                    - generic [ref=e3342]:
+                      - generic [ref=e3344]: 1kg
+                      - link "Alphonso Mangoes" [ref=e3345] [cursor=pointer]:
+                        - /url: /products/alphonso-mangoes
+                        - paragraph [ref=e3346]: Alphonso Mangoes
+                      - paragraph [ref=e3347]: ₹299/kg
+                      - generic [ref=e3348]:
+                        - generic [ref=e3349]:
+                          - paragraph [ref=e3350]: ₹299
+                          - paragraph [ref=e3351]: ₹349
+                        - generic [ref=e3353]: Save ₹50
+                        - button "Add Alphonso Mangoes to cart" [ref=e3354] [cursor=pointer]:
+                          - img [ref=e3355]
+                          - text: Add
+                  - article [ref=e3360]:
+                    - link "13% OFF Add to wishlist Butter Croissant Pack" [ref=e3361] [cursor=pointer]:
+                      - /url: /products/butter-croissant-pack
+                      - generic [ref=e3362]:
+                        - generic [ref=e3364]: 13% OFF
+                        - button "Add to wishlist" [ref=e3365]:
+                          - img [ref=e3366]
+                        - img "Butter Croissant Pack" [ref=e3368]
+                    - generic [ref=e3369]:
+                      - generic [ref=e3371]: 1pack
+                      - link "Butter Croissant Pack" [ref=e3372] [cursor=pointer]:
+                        - /url: /products/butter-croissant-pack
+                        - paragraph [ref=e3373]: Butter Croissant Pack
+                      - paragraph [ref=e3374]: ₹139/pack
+                      - generic [ref=e3375]:
+                        - generic [ref=e3376]:
+                          - paragraph [ref=e3377]: ₹139
+                          - paragraph [ref=e3378]: ₹159
+                        - generic [ref=e3380]: Save ₹20
+                        - button "Add Butter Croissant Pack to cart" [ref=e3381] [cursor=pointer]:
+                          - img [ref=e3382]
+                          - text: Add
+                  - article [ref=e3387]:
+                    - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e3388] [cursor=pointer]:
+                      - /url: /products/premium-avocado-duo
+                      - generic [ref=e3389]:
+                        - generic [ref=e3391]: 15% OFF
+                        - button "Add to wishlist" [ref=e3392]:
+                          - img [ref=e3393]
+                        - img "Premium Avocado Duo" [ref=e3395]
+                    - generic [ref=e3396]:
+                      - generic [ref=e3398]: 1pack
+                      - link "Premium Avocado Duo" [ref=e3399] [cursor=pointer]:
+                        - /url: /products/premium-avocado-duo
+                        - paragraph [ref=e3400]: Premium Avocado Duo
+                      - paragraph [ref=e3401]: ₹169/pack
+                      - generic [ref=e3402]:
+                        - generic [ref=e3403]:
+                          - paragraph [ref=e3404]: ₹169
+                          - paragraph [ref=e3405]: ₹199
+                        - generic [ref=e3407]: Save ₹30
+                        - button "Add Premium Avocado Duo to cart" [ref=e3408] [cursor=pointer]:
+                          - img [ref=e3409]
+                          - text: Add
+                  - article [ref=e3414]:
+                    - link "New Add to wishlist Ginger Kombucha" [ref=e3415] [cursor=pointer]:
+                      - /url: /products/ginger-kombucha
+                      - generic [ref=e3416]:
+                        - generic [ref=e3418]: New
+                        - button "Add to wishlist" [ref=e3419]:
+                          - img [ref=e3420]
+                        - img "Ginger Kombucha" [ref=e3422]
+                    - generic [ref=e3423]:
+                      - generic [ref=e3425]: 500ml
+                      - link "Ginger Kombucha" [ref=e3426] [cursor=pointer]:
+                        - /url: /products/ginger-kombucha
+                        - paragraph [ref=e3427]: Ginger Kombucha
+                      - paragraph [ref=e3428]: ₹27/100ml
+                      - generic [ref=e3429]:
+                        - paragraph [ref=e3431]: ₹135
+                        - button "Add Ginger Kombucha to cart" [ref=e3432] [cursor=pointer]:
+                          - img [ref=e3433]
+                          - text: Add
+                  - article [ref=e3438]:
+                    - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e3439] [cursor=pointer]:
+                      - /url: /products/greek-yogurt-cup
+                      - generic [ref=e3440]:
+                        - generic [ref=e3442]: 13% OFF
+                        - button "Add to wishlist" [ref=e3443]:
+                          - img [ref=e3444]
+                        - img "Greek Yogurt Cup" [ref=e3446]
+                    - generic [ref=e3447]:
+                      - generic [ref=e3449]: 500g
+                      - link "Greek Yogurt Cup" [ref=e3450] [cursor=pointer]:
+                        - /url: /products/greek-yogurt-cup
+                        - paragraph [ref=e3451]: Greek Yogurt Cup
+                      - paragraph [ref=e3452]: ₹22/100g
+                      - generic [ref=e3453]:
+                        - generic [ref=e3454]:
+                          - paragraph [ref=e3455]: ₹109
+                          - paragraph [ref=e3456]: ₹125
+                        - generic [ref=e3458]: Save ₹16
+                        - button "Add Greek Yogurt Cup to cart" [ref=e3459] [cursor=pointer]:
+                          - img [ref=e3460]
+                          - text: Add
+                  - article [ref=e3465]:
+                    - link "20% OFF Add to wishlist Sea Salt Kettle Chips" [ref=e3466] [cursor=pointer]:
+                      - /url: /products/sea-salt-kettle-chips
+                      - generic [ref=e3467]:
+                        - generic [ref=e3469]: 20% OFF
+                        - button "Add to wishlist" [ref=e3470]:
+                          - img [ref=e3471]
+                        - img "Sea Salt Kettle Chips" [ref=e3473]
+                    - generic [ref=e3474]:
+                      - generic [ref=e3476]: 1pack
+                      - link "Sea Salt Kettle Chips" [ref=e3477] [cursor=pointer]:
+                        - /url: /products/sea-salt-kettle-chips
+                        - paragraph [ref=e3478]: Sea Salt Kettle Chips
+                      - paragraph [ref=e3479]: ₹79/pack
+                      - generic [ref=e3480]:
+                        - generic [ref=e3481]:
+                          - paragraph [ref=e3482]: ₹79
+                          - paragraph [ref=e3483]: ₹99
+                        - generic [ref=e3485]: Save ₹20
+                        - button "Add Sea Salt Kettle Chips to cart" [ref=e3486] [cursor=pointer]:
+                          - img [ref=e3487]
+                          - text: Add
+                - generic [ref=e3491]:
+                  - article [ref=e3493]:
+                    - link "10% OFF Add to wishlist Extra Virgin Olive Oil" [ref=e3494] [cursor=pointer]:
+                      - /url: /products/extra-virgin-olive-oil
+                      - generic [ref=e3495]:
+                        - generic [ref=e3497]: 10% OFF
+                        - button "Add to wishlist" [ref=e3498]:
+                          - img [ref=e3499]
+                        - img "Extra Virgin Olive Oil" [ref=e3501]
+                    - generic [ref=e3502]:
+                      - generic [ref=e3504]: 1L
+                      - link "Extra Virgin Olive Oil" [ref=e3505] [cursor=pointer]:
+                        - /url: /products/extra-virgin-olive-oil
+                        - paragraph [ref=e3506]: Extra Virgin Olive Oil
+                      - paragraph [ref=e3507]: ₹629/L
+                      - generic [ref=e3508]:
+                        - generic [ref=e3509]:
+                          - paragraph [ref=e3510]: ₹629
+                          - paragraph [ref=e3511]: ₹699
+                        - generic [ref=e3513]: Save ₹70
+                        - button "Add Extra Virgin Olive Oil to cart" [ref=e3514] [cursor=pointer]:
+                          - img [ref=e3515]
+                          - text: Add
+                  - article [ref=e3520]:
+                    - link "13% OFF Add to wishlist Cold Brew Coffee" [ref=e3521] [cursor=pointer]:
+                      - /url: /products/cold-brew-coffee
+                      - generic [ref=e3522]:
+                        - generic [ref=e3524]: 13% OFF
+                        - button "Add to wishlist" [ref=e3525]:
+                          - img [ref=e3526]
+                        - img "Cold Brew Coffee" [ref=e3528]
+                    - generic [ref=e3529]:
+                      - generic [ref=e3531]: 500ml
+                      - link "Cold Brew Coffee" [ref=e3532] [cursor=pointer]:
+                        - /url: /products/cold-brew-coffee
+                        - paragraph [ref=e3533]: Cold Brew Coffee
+                      - paragraph [ref=e3534]: ₹26/100ml
+                      - generic [ref=e3535]:
+                        - generic [ref=e3536]:
+                          - paragraph [ref=e3537]: ₹129
+                          - paragraph [ref=e3538]: ₹149
+                        - generic [ref=e3540]: Save ₹20
+                        - button "Add Cold Brew Coffee to cart" [ref=e3541] [cursor=pointer]:
+                          - img [ref=e3542]
+                          - text: Add
+                  - article [ref=e3547]:
+                    - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e3548] [cursor=pointer]:
+                      - /url: /products/alphonso-mangoes
+                      - generic [ref=e3549]:
+                        - generic [ref=e3551]: 14% OFF
+                        - button "Add to wishlist" [ref=e3552]:
+                          - img [ref=e3553]
+                        - img "Alphonso Mangoes" [ref=e3555]
+                    - generic [ref=e3556]:
+                      - generic [ref=e3558]: 1kg
+                      - link "Alphonso Mangoes" [ref=e3559] [cursor=pointer]:
+                        - /url: /products/alphonso-mangoes
+                        - paragraph [ref=e3560]: Alphonso Mangoes
+                      - paragraph [ref=e3561]: ₹299/kg
+                      - generic [ref=e3562]:
+                        - generic [ref=e3563]:
+                          - paragraph [ref=e3564]: ₹299
+                          - paragraph [ref=e3565]: ₹349
+                        - generic [ref=e3567]: Save ₹50
+                        - button "Add Alphonso Mangoes to cart" [ref=e3568] [cursor=pointer]:
+                          - img [ref=e3569]
+                          - text: Add
+                  - article [ref=e3574]:
+                    - link "13% OFF Add to wishlist Butter Croissant Pack" [ref=e3575] [cursor=pointer]:
+                      - /url: /products/butter-croissant-pack
+                      - generic [ref=e3576]:
+                        - generic [ref=e3578]: 13% OFF
+                        - button "Add to wishlist" [ref=e3579]:
+                          - img [ref=e3580]
+                        - img "Butter Croissant Pack" [ref=e3582]
+                    - generic [ref=e3583]:
+                      - generic [ref=e3585]: 1pack
+                      - link "Butter Croissant Pack" [ref=e3586] [cursor=pointer]:
+                        - /url: /products/butter-croissant-pack
+                        - paragraph [ref=e3587]: Butter Croissant Pack
+                      - paragraph [ref=e3588]: ₹139/pack
+                      - generic [ref=e3589]:
+                        - generic [ref=e3590]:
+                          - paragraph [ref=e3591]: ₹139
+                          - paragraph [ref=e3592]: ₹159
+                        - generic [ref=e3594]: Save ₹20
+                        - button "Add Butter Croissant Pack to cart" [ref=e3595] [cursor=pointer]:
+                          - img [ref=e3596]
+                          - text: Add
+                  - article [ref=e3601]:
+                    - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e3602] [cursor=pointer]:
+                      - /url: /products/premium-avocado-duo
+                      - generic [ref=e3603]:
+                        - generic [ref=e3605]: 15% OFF
+                        - button "Add to wishlist" [ref=e3606]:
+                          - img [ref=e3607]
+                        - img "Premium Avocado Duo" [ref=e3609]
+                    - generic [ref=e3610]:
+                      - generic [ref=e3612]: 1pack
+                      - link "Premium Avocado Duo" [ref=e3613] [cursor=pointer]:
+                        - /url: /products/premium-avocado-duo
+                        - paragraph [ref=e3614]: Premium Avocado Duo
+                      - paragraph [ref=e3615]: ₹169/pack
+                      - generic [ref=e3616]:
+                        - generic [ref=e3617]:
+                          - paragraph [ref=e3618]: ₹169
+                          - paragraph [ref=e3619]: ₹199
+                        - generic [ref=e3621]: Save ₹30
+                        - button "Add Premium Avocado Duo to cart" [ref=e3622] [cursor=pointer]:
+                          - img [ref=e3623]
+                          - text: Add
+                  - article [ref=e3628]:
+                    - link "New Add to wishlist Ginger Kombucha" [ref=e3629] [cursor=pointer]:
+                      - /url: /products/ginger-kombucha
+                      - generic [ref=e3630]:
+                        - generic [ref=e3632]: New
+                        - button "Add to wishlist" [ref=e3633]:
+                          - img [ref=e3634]
+                        - img "Ginger Kombucha" [ref=e3636]
+                    - generic [ref=e3637]:
+                      - generic [ref=e3639]: 500ml
+                      - link "Ginger Kombucha" [ref=e3640] [cursor=pointer]:
+                        - /url: /products/ginger-kombucha
+                        - paragraph [ref=e3641]: Ginger Kombucha
+                      - paragraph [ref=e3642]: ₹27/100ml
+                      - generic [ref=e3643]:
+                        - paragraph [ref=e3645]: ₹135
+                        - button "Add Ginger Kombucha to cart" [ref=e3646] [cursor=pointer]:
+                          - img [ref=e3647]
+                          - text: Add
+                  - article [ref=e3652]:
+                    - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e3653] [cursor=pointer]:
+                      - /url: /products/greek-yogurt-cup
+                      - generic [ref=e3654]:
+                        - generic [ref=e3656]: 13% OFF
+                        - button "Add to wishlist" [ref=e3657]:
+                          - img [ref=e3658]
+                        - img "Greek Yogurt Cup" [ref=e3660]
+                    - generic [ref=e3661]:
+                      - generic [ref=e3663]: 500g
+                      - link "Greek Yogurt Cup" [ref=e3664] [cursor=pointer]:
+                        - /url: /products/greek-yogurt-cup
+                        - paragraph [ref=e3665]: Greek Yogurt Cup
+                      - paragraph [ref=e3666]: ₹22/100g
+                      - generic [ref=e3667]:
+                        - generic [ref=e3668]:
+                          - paragraph [ref=e3669]: ₹109
+                          - paragraph [ref=e3670]: ₹125
+                        - generic [ref=e3672]: Save ₹16
+                        - button "Add Greek Yogurt Cup to cart" [ref=e3673] [cursor=pointer]:
+                          - img [ref=e3674]
+                          - text: Add
+                  - article [ref=e3679]:
+                    - link "20% OFF Add to wishlist Sea Salt Kettle Chips" [ref=e3680] [cursor=pointer]:
+                      - /url: /products/sea-salt-kettle-chips
+                      - generic [ref=e3681]:
+                        - generic [ref=e3683]: 20% OFF
+                        - button "Add to wishlist" [ref=e3684]:
+                          - img [ref=e3685]
+                        - img "Sea Salt Kettle Chips" [ref=e3687]
+                    - generic [ref=e3688]:
+                      - generic [ref=e3690]: 1pack
+                      - link "Sea Salt Kettle Chips" [ref=e3691] [cursor=pointer]:
+                        - /url: /products/sea-salt-kettle-chips
+                        - paragraph [ref=e3692]: Sea Salt Kettle Chips
+                      - paragraph [ref=e3693]: ₹79/pack
+                      - generic [ref=e3694]:
+                        - generic [ref=e3695]:
+                          - paragraph [ref=e3696]: ₹79
+                          - paragraph [ref=e3697]: ₹99
+                        - generic [ref=e3699]: Save ₹20
+                        - button "Add Sea Salt Kettle Chips to cart" [ref=e3700] [cursor=pointer]:
+                          - img [ref=e3701]
+                          - text: Add
+                - generic [ref=e3705]:
+                  - article [ref=e3707]:
+                    - link "10% OFF Add to wishlist Extra Virgin Olive Oil" [ref=e3708] [cursor=pointer]:
+                      - /url: /products/extra-virgin-olive-oil
+                      - generic [ref=e3709]:
+                        - generic [ref=e3711]: 10% OFF
+                        - button "Add to wishlist" [ref=e3712]:
+                          - img [ref=e3713]
+                        - img "Extra Virgin Olive Oil" [ref=e3715]
+                    - generic [ref=e3716]:
+                      - generic [ref=e3718]: 1L
+                      - link "Extra Virgin Olive Oil" [ref=e3719] [cursor=pointer]:
+                        - /url: /products/extra-virgin-olive-oil
+                        - paragraph [ref=e3720]: Extra Virgin Olive Oil
+                      - paragraph [ref=e3721]: ₹629/L
+                      - generic [ref=e3722]:
+                        - generic [ref=e3723]:
+                          - paragraph [ref=e3724]: ₹629
+                          - paragraph [ref=e3725]: ₹699
+                        - generic [ref=e3727]: Save ₹70
+                        - button "Add Extra Virgin Olive Oil to cart" [ref=e3728] [cursor=pointer]:
+                          - img [ref=e3729]
+                          - text: Add
+                  - article [ref=e3734]:
+                    - link "13% OFF Add to wishlist Cold Brew Coffee" [ref=e3735] [cursor=pointer]:
+                      - /url: /products/cold-brew-coffee
+                      - generic [ref=e3736]:
+                        - generic [ref=e3738]: 13% OFF
+                        - button "Add to wishlist" [ref=e3739]:
+                          - img [ref=e3740]
+                        - img "Cold Brew Coffee" [ref=e3742]
+                    - generic [ref=e3743]:
+                      - generic [ref=e3745]: 500ml
+                      - link "Cold Brew Coffee" [ref=e3746] [cursor=pointer]:
+                        - /url: /products/cold-brew-coffee
+                        - paragraph [ref=e3747]: Cold Brew Coffee
+                      - paragraph [ref=e3748]: ₹26/100ml
+                      - generic [ref=e3749]:
+                        - generic [ref=e3750]:
+                          - paragraph [ref=e3751]: ₹129
+                          - paragraph [ref=e3752]: ₹149
+                        - generic [ref=e3754]: Save ₹20
+                        - button "Add Cold Brew Coffee to cart" [ref=e3755] [cursor=pointer]:
+                          - img [ref=e3756]
+                          - text: Add
+                  - article [ref=e3761]:
+                    - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e3762] [cursor=pointer]:
+                      - /url: /products/alphonso-mangoes
+                      - generic [ref=e3763]:
+                        - generic [ref=e3765]: 14% OFF
+                        - button "Add to wishlist" [ref=e3766]:
+                          - img [ref=e3767]
+                        - img "Alphonso Mangoes" [ref=e3769]
+                    - generic [ref=e3770]:
+                      - generic [ref=e3772]: 1kg
+                      - link "Alphonso Mangoes" [ref=e3773] [cursor=pointer]:
+                        - /url: /products/alphonso-mangoes
+                        - paragraph [ref=e3774]: Alphonso Mangoes
+                      - paragraph [ref=e3775]: ₹299/kg
+                      - generic [ref=e3776]:
+                        - generic [ref=e3777]:
+                          - paragraph [ref=e3778]: ₹299
+                          - paragraph [ref=e3779]: ₹349
+                        - generic [ref=e3781]: Save ₹50
+                        - button "Add Alphonso Mangoes to cart" [ref=e3782] [cursor=pointer]:
+                          - img [ref=e3783]
+                          - text: Add
+                  - article [ref=e3788]:
+                    - link "13% OFF Add to wishlist Butter Croissant Pack" [ref=e3789] [cursor=pointer]:
+                      - /url: /products/butter-croissant-pack
+                      - generic [ref=e3790]:
+                        - generic [ref=e3792]: 13% OFF
+                        - button "Add to wishlist" [ref=e3793]:
+                          - img [ref=e3794]
+                        - img "Butter Croissant Pack" [ref=e3796]
+                    - generic [ref=e3797]:
+                      - generic [ref=e3799]: 1pack
+                      - link "Butter Croissant Pack" [ref=e3800] [cursor=pointer]:
+                        - /url: /products/butter-croissant-pack
+                        - paragraph [ref=e3801]: Butter Croissant Pack
+                      - paragraph [ref=e3802]: ₹139/pack
+                      - generic [ref=e3803]:
+                        - generic [ref=e3804]:
+                          - paragraph [ref=e3805]: ₹139
+                          - paragraph [ref=e3806]: ₹159
+                        - generic [ref=e3808]: Save ₹20
+                        - button "Add Butter Croissant Pack to cart" [ref=e3809] [cursor=pointer]:
+                          - img [ref=e3810]
+                          - text: Add
+                  - article [ref=e3815]:
+                    - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e3816] [cursor=pointer]:
+                      - /url: /products/premium-avocado-duo
+                      - generic [ref=e3817]:
+                        - generic [ref=e3819]: 15% OFF
+                        - button "Add to wishlist" [ref=e3820]:
+                          - img [ref=e3821]
+                        - img "Premium Avocado Duo" [ref=e3823]
+                    - generic [ref=e3824]:
+                      - generic [ref=e3826]: 1pack
+                      - link "Premium Avocado Duo" [ref=e3827] [cursor=pointer]:
+                        - /url: /products/premium-avocado-duo
+                        - paragraph [ref=e3828]: Premium Avocado Duo
+                      - paragraph [ref=e3829]: ₹169/pack
+                      - generic [ref=e3830]:
+                        - generic [ref=e3831]:
+                          - paragraph [ref=e3832]: ₹169
+                          - paragraph [ref=e3833]: ₹199
+                        - generic [ref=e3835]: Save ₹30
+                        - button "Add Premium Avocado Duo to cart" [ref=e3836] [cursor=pointer]:
+                          - img [ref=e3837]
+                          - text: Add
+                  - article [ref=e3842]:
+                    - link "New Add to wishlist Ginger Kombucha" [ref=e3843] [cursor=pointer]:
+                      - /url: /products/ginger-kombucha
+                      - generic [ref=e3844]:
+                        - generic [ref=e3846]: New
+                        - button "Add to wishlist" [ref=e3847]:
+                          - img [ref=e3848]
+                        - img "Ginger Kombucha" [ref=e3850]
+                    - generic [ref=e3851]:
+                      - generic [ref=e3853]: 500ml
+                      - link "Ginger Kombucha" [ref=e3854] [cursor=pointer]:
+                        - /url: /products/ginger-kombucha
+                        - paragraph [ref=e3855]: Ginger Kombucha
+                      - paragraph [ref=e3856]: ₹27/100ml
+                      - generic [ref=e3857]:
+                        - paragraph [ref=e3859]: ₹135
+                        - button "Add Ginger Kombucha to cart" [ref=e3860] [cursor=pointer]:
+                          - img [ref=e3861]
+                          - text: Add
+                  - article [ref=e3866]:
+                    - link "13% OFF Add to wishlist Greek Yogurt Cup" [ref=e3867] [cursor=pointer]:
+                      - /url: /products/greek-yogurt-cup
+                      - generic [ref=e3868]:
+                        - generic [ref=e3870]: 13% OFF
+                        - button "Add to wishlist" [ref=e3871]:
+                          - img [ref=e3872]
+                        - img "Greek Yogurt Cup" [ref=e3874]
+                    - generic [ref=e3875]:
+                      - generic [ref=e3877]: 500g
+                      - link "Greek Yogurt Cup" [ref=e3878] [cursor=pointer]:
+                        - /url: /products/greek-yogurt-cup
+                        - paragraph [ref=e3879]: Greek Yogurt Cup
+                      - paragraph [ref=e3880]: ₹22/100g
+                      - generic [ref=e3881]:
+                        - generic [ref=e3882]:
+                          - paragraph [ref=e3883]: ₹109
+                          - paragraph [ref=e3884]: ₹125
+                        - generic [ref=e3886]: Save ₹16
+                        - button "Add Greek Yogurt Cup to cart" [ref=e3887] [cursor=pointer]:
+                          - img [ref=e3888]
+                          - text: Add
+                  - article [ref=e3893]:
+                    - link "20% OFF Add to wishlist Sea Salt Kettle Chips" [ref=e3894] [cursor=pointer]:
+                      - /url: /products/sea-salt-kettle-chips
+                      - generic [ref=e3895]:
+                        - generic [ref=e3897]: 20% OFF
+                        - button "Add to wishlist" [ref=e3898]:
+                          - img [ref=e3899]
+                        - img "Sea Salt Kettle Chips" [ref=e3901]
+                    - generic [ref=e3902]:
+                      - generic [ref=e3904]: 1pack
+                      - link "Sea Salt Kettle Chips" [ref=e3905] [cursor=pointer]:
+                        - /url: /products/sea-salt-kettle-chips
+                        - paragraph [ref=e3906]: Sea Salt Kettle Chips
+                      - paragraph [ref=e3907]: ₹79/pack
+                      - generic [ref=e3908]:
+                        - generic [ref=e3909]:
+                          - paragraph [ref=e3910]: ₹79
+                          - paragraph [ref=e3911]: ₹99
+                        - generic [ref=e3913]: Save ₹20
+                        - button "Add Sea Salt Kettle Chips to cart" [ref=e3914] [cursor=pointer]:
+                          - img [ref=e3915]
+                          - text: Add
+          - region "Weekly Picks" [ref=e3919]:
+            - generic [ref=e3922]:
+              - generic [ref=e3923]:
+                - generic [ref=e3924]:
+                  - generic [ref=e3925]:
+                    - img [ref=e3926]
+                    - text: Hot Deals
+                  - heading "Weekly Picks" [level=2] [ref=e3931]:
+                    - text: Weekly
+                    - generic [ref=e3932]: Picks
+                  - paragraph [ref=e3934]: Best-value deals handpicked from this week's freshest drops — shop early for the best picks.
+                  - generic [ref=e3935]:
+                    - generic [ref=e3936]: Save up to
+                    - generic [ref=e3937]: ₹70
+                    - generic [ref=e3938]: this week
+                - generic [ref=e3939]:
+                  - link "View All Deals" [ref=e3940] [cursor=pointer]:
+                    - /url: /products
+                    - text: View All Deals
+                    - img [ref=e3941]
+                  - generic [ref=e3943]:
+                    - img [ref=e3944]
+                    - text: Deals refresh weekly
+              - generic [ref=e3947]:
+                - article [ref=e3950]:
+                  - link "10% OFF Add to wishlist Extra Virgin Olive Oil" [ref=e3951] [cursor=pointer]:
+                    - /url: /products/extra-virgin-olive-oil
+                    - generic [ref=e3952]:
+                      - generic [ref=e3954]: 10% OFF
+                      - button "Add to wishlist" [ref=e3955]:
+                        - img [ref=e3956]
+                      - img "Extra Virgin Olive Oil" [ref=e3958]
+                  - generic [ref=e3959]:
+                    - generic [ref=e3961]: 1L
+                    - link "Extra Virgin Olive Oil" [ref=e3962] [cursor=pointer]:
+                      - /url: /products/extra-virgin-olive-oil
+                      - paragraph [ref=e3963]: Extra Virgin Olive Oil
+                    - paragraph [ref=e3964]: ₹629/L
+                    - generic [ref=e3965]:
+                      - generic [ref=e3966]:
+                        - paragraph [ref=e3967]: ₹629
+                        - paragraph [ref=e3968]: ₹699
+                      - generic [ref=e3970]: Save ₹70
+                      - button "Add Extra Virgin Olive Oil to cart" [ref=e3971] [cursor=pointer]:
+                        - img [ref=e3972]
+                        - text: Add
+                - article [ref=e3977]:
+                  - link "14% OFF Add to wishlist Alphonso Mangoes" [ref=e3978] [cursor=pointer]:
+                    - /url: /products/alphonso-mangoes
+                    - generic [ref=e3979]:
+                      - generic [ref=e3981]: 14% OFF
+                      - button "Add to wishlist" [ref=e3982]:
+                        - img [ref=e3983]
+                      - img "Alphonso Mangoes" [ref=e3985]
+                  - generic [ref=e3986]:
+                    - generic [ref=e3988]: 1kg
+                    - link "Alphonso Mangoes" [ref=e3989] [cursor=pointer]:
+                      - /url: /products/alphonso-mangoes
+                      - paragraph [ref=e3990]: Alphonso Mangoes
+                    - paragraph [ref=e3991]: ₹299/kg
+                    - generic [ref=e3992]:
+                      - generic [ref=e3993]:
+                        - paragraph [ref=e3994]: ₹299
+                        - paragraph [ref=e3995]: ₹349
+                      - generic [ref=e3997]: Save ₹50
+                      - button "Add Alphonso Mangoes to cart" [ref=e3998] [cursor=pointer]:
+                        - img [ref=e3999]
+                        - text: Add
+                - article [ref=e4004]:
+                  - link "10% OFF Add to wishlist Aged Basmati Rice" [ref=e4005] [cursor=pointer]:
+                    - /url: /products/aged-basmati-rice
+                    - generic [ref=e4006]:
+                      - generic [ref=e4008]: 10% OFF
+                      - button "Add to wishlist" [ref=e4009]:
+                        - img [ref=e4010]
+                      - img "Aged Basmati Rice" [ref=e4012]
+                  - generic [ref=e4013]:
+                    - generic [ref=e4015]: 1kg
+                    - link "Aged Basmati Rice" [ref=e4016] [cursor=pointer]:
+                      - /url: /products/aged-basmati-rice
+                      - paragraph [ref=e4017]: Aged Basmati Rice
+                    - paragraph [ref=e4018]: ₹429/kg
+                    - generic [ref=e4019]:
+                      - generic [ref=e4020]:
+                        - paragraph [ref=e4021]: ₹429
+                        - paragraph [ref=e4022]: ₹479
+                      - generic [ref=e4024]: Save ₹50
+                      - button "Add Aged Basmati Rice to cart" [ref=e4025] [cursor=pointer]:
+                        - img [ref=e4026]
+                        - text: Add
+                - article [ref=e4031]:
+                  - link "9% OFF Add to wishlist Soft Care Baby Diapers" [ref=e4032] [cursor=pointer]:
+                    - /url: /products/soft-care-baby-diapers
+                    - generic [ref=e4033]:
+                      - generic [ref=e4035]: 9% OFF
+                      - button "Add to wishlist" [ref=e4036]:
+                        - img [ref=e4037]
+                      - img "Soft Care Baby Diapers" [ref=e4039]
+                  - generic [ref=e4040]:
+                    - generic [ref=e4042]: 1pack
+                    - link "Soft Care Baby Diapers" [ref=e4043] [cursor=pointer]:
+                      - /url: /products/soft-care-baby-diapers
+                      - paragraph [ref=e4044]: Soft Care Baby Diapers
+                    - paragraph [ref=e4045]: ₹499/pack
+                    - generic [ref=e4046]:
+                      - generic [ref=e4047]:
+                        - paragraph [ref=e4048]: ₹499
+                        - paragraph [ref=e4049]: ₹549
+                      - generic [ref=e4051]: Save ₹50
+                      - button "Add Soft Care Baby Diapers to cart" [ref=e4052] [cursor=pointer]:
+                        - img [ref=e4053]
+                        - text: Add
+                - article [ref=e4058]:
+                  - link "14% OFF Add to wishlist Roasted Almonds" [ref=e4059] [cursor=pointer]:
+                    - /url: /products/roasted-almonds
+                    - generic [ref=e4060]:
+                      - generic [ref=e4062]: 14% OFF
+                      - button "Add to wishlist" [ref=e4063]:
+                        - img [ref=e4064]
+                      - img "Roasted Almonds" [ref=e4066]
+                  - generic [ref=e4067]:
+                    - generic [ref=e4069]: 500g
+                    - link "Roasted Almonds" [ref=e4070] [cursor=pointer]:
+                      - /url: /products/roasted-almonds
+                      - paragraph [ref=e4071]: Roasted Almonds
+                    - paragraph [ref=e4072]: ₹46/100g
+                    - generic [ref=e4073]:
+                      - generic [ref=e4074]:
+                        - paragraph [ref=e4075]: ₹229
+                        - paragraph [ref=e4076]: ₹265
+                      - generic [ref=e4078]: Save ₹36
+                      - button "Add Roasted Almonds to cart" [ref=e4079] [cursor=pointer]:
+                        - img [ref=e4080]
+                        - text: Add
+                - article [ref=e4085]:
+                  - link "11% OFF Add to wishlist Organic Wildflower Honey" [ref=e4086] [cursor=pointer]:
+                    - /url: /products/organic-wildflower-honey
+                    - generic [ref=e4087]:
+                      - generic [ref=e4089]: 11% OFF
+                      - button "Add to wishlist" [ref=e4090]:
+                        - img [ref=e4091]
+                      - img "Organic Wildflower Honey" [ref=e4093]
+                  - generic [ref=e4094]:
+                    - generic [ref=e4096]: 500g
+                    - link "Organic Wildflower Honey" [ref=e4097] [cursor=pointer]:
+                      - /url: /products/organic-wildflower-honey
+                      - paragraph [ref=e4098]: Organic Wildflower Honey
+                    - paragraph [ref=e4099]: ₹58/100g
+                    - generic [ref=e4100]:
+                      - generic [ref=e4101]:
+                        - paragraph [ref=e4102]: ₹289
+                        - paragraph [ref=e4103]: ₹325
+                      - generic [ref=e4105]: Save ₹36
+                      - button "Add Organic Wildflower Honey to cart" [ref=e4106] [cursor=pointer]:
+                        - img [ref=e4107]
+                        - text: Add
+                - article [ref=e4112]:
+                  - link "15% OFF Add to wishlist Premium Avocado Duo" [ref=e4113] [cursor=pointer]:
+                    - /url: /products/premium-avocado-duo
+                    - generic [ref=e4114]:
+                      - generic [ref=e4116]: 15% OFF
+                      - button "Add to wishlist" [ref=e4117]:
+                        - img [ref=e4118]
+                      - img "Premium Avocado Duo" [ref=e4120]
+                  - generic [ref=e4121]:
+                    - generic [ref=e4123]: 1pack
+                    - link "Premium Avocado Duo" [ref=e4124] [cursor=pointer]:
+                      - /url: /products/premium-avocado-duo
+                      - paragraph [ref=e4125]: Premium Avocado Duo
+                    - paragraph [ref=e4126]: ₹169/pack
+                    - generic [ref=e4127]:
+                      - generic [ref=e4128]:
+                        - paragraph [ref=e4129]: ₹169
+                        - paragraph [ref=e4130]: ₹199
+                      - generic [ref=e4132]: Save ₹30
+                      - button "Add Premium Avocado Duo to cart" [ref=e4133] [cursor=pointer]:
+                        - img [ref=e4134]
+                        - text: Add
+              - generic [ref=e4138]:
+                - img [ref=e4139]
+                - paragraph [ref=e4142]: Deals refresh every week — shop early for the best picks
+                - link "Browse All" [ref=e4143] [cursor=pointer]:
+                  - /url: /products
+                  - text: Browse All
+                  - img [ref=e4144]
+    - contentinfo [ref=e4147]:
+      - generic [ref=e4148]:
+        - img "Fresh premium groceries — tomatoes, herbs, bread, avocados, olive oil on dark slate" [ref=e4150]
+        - generic [ref=e4153]:
+          - generic [ref=e4154]:
+            - img [ref=e4155]
+            - generic [ref=e4158]: Premium grocery commerce
+          - heading "Fresh to your door, every day." [level=2] [ref=e4159]
+          - paragraph [ref=e4160]: Curated produce, pantry essentials, and artisan goods delivered with care to Kolkata households.
+          - generic [ref=e4161]:
+            - link "Shop Now" [ref=e4162] [cursor=pointer]:
+              - /url: /products
+              - text: Shop Now
+              - img [ref=e4163]
+            - link "Browse categories" [ref=e4165] [cursor=pointer]:
+              - /url: /categories
+          - generic [ref=e4166]:
+            - paragraph [ref=e4167]: Stay in the loop
+            - generic [ref=e4168]:
+              - generic [ref=e4169]: Email address
+              - generic [ref=e4170]:
+                - img
+                - textbox "Email address" [ref=e4171]:
+                  - /placeholder: Enter your email address
+              - button "Join the Waitlist" [ref=e4172] [cursor=pointer]:
+                - text: Join the Waitlist
+                - img [ref=e4173]
+      - generic [ref=e4177]:
+        - generic [ref=e4178]:
+          - generic [ref=e4179]:
+            - heading "Grolin." [level=3] [ref=e4180]
+            - paragraph [ref=e4181]: Premium grocery commerce for households that care about quality, speed, and trust.
+          - generic [ref=e4182]:
+            - paragraph [ref=e4183]:
+              - img [ref=e4184]
+              - text: support@grolin.com
+            - paragraph [ref=e4187]:
+              - img [ref=e4188]
+              - text: +91 98765 43210
+            - paragraph [ref=e4190]:
+              - img [ref=e4191]
+              - text: Kolkata, India
+          - generic [ref=e4194]:
+            - link "Instagram" [ref=e4195] [cursor=pointer]:
+              - /url: https://instagram.com/grolin
+              - img [ref=e4196]
+            - link "Facebook" [ref=e4199] [cursor=pointer]:
+              - /url: https://facebook.com/grolin
+              - img [ref=e4200]
+            - link "Twitter" [ref=e4202] [cursor=pointer]:
+              - /url: https://twitter.com/grolin
+              - img [ref=e4203]
+            - link "YouTube" [ref=e4205] [cursor=pointer]:
+              - /url: https://youtube.com/@grolin
+              - img [ref=e4206]
+        - generic [ref=e4209]:
+          - generic [ref=e4210]:
+            - heading "About Us" [level=4] [ref=e4211]
+            - generic [ref=e4212]:
+              - link "Our Story" [ref=e4214] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e4215]: Our Story
+              - link "New Arrivals" [ref=e4217] [cursor=pointer]:
+                - /url: /products
+                - generic [ref=e4218]: New Arrivals
+              - link "Organic Picks" [ref=e4220] [cursor=pointer]:
+                - /url: /search?q=organic
+                - generic [ref=e4221]: Organic Picks
+              - link "Accessibility" [ref=e4223] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e4224]: Accessibility
+          - generic [ref=e4225]:
+            - heading "Customer Service" [level=4] [ref=e4226]
+            - generic [ref=e4227]:
+              - link "Contact Support" [ref=e4229] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e4230]: Contact Support
+              - link "Shipping Information" [ref=e4232] [cursor=pointer]:
+                - /url: /orders
+                - generic [ref=e4233]: Shipping Information
+              - link "Return & Refund Policy" [ref=e4235] [cursor=pointer]:
+                - /url: /orders
+                - generic [ref=e4236]: Return & Refund Policy
+              - link "Payment Methods" [ref=e4238] [cursor=pointer]:
+                - /url: /checkout
+                - generic [ref=e4239]: Payment Methods
+          - generic [ref=e4240]:
+            - heading "Shop by Category" [level=4] [ref=e4241]
+            - generic [ref=e4242]:
+              - link "Organic Produce" [ref=e4244] [cursor=pointer]:
+                - /url: /search?q=organic
+                - generic [ref=e4245]: Organic Produce
+              - link "Baby Care" [ref=e4247] [cursor=pointer]:
+                - /url: /search?q=baby
+                - generic [ref=e4248]: Baby Care
+              - link "Gourmet Goods" [ref=e4250] [cursor=pointer]:
+                - /url: /search?q=gourmet
+                - generic [ref=e4251]: Gourmet Goods
+              - link "Bulk Orders" [ref=e4253] [cursor=pointer]:
+                - /url: /categories
+                - generic [ref=e4254]: Bulk Orders
+          - generic [ref=e4255]:
+            - heading "Support & Legal" [level=4] [ref=e4256]
+            - generic [ref=e4257]:
+              - link "FAQs" [ref=e4259] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e4260]: FAQs
+              - link "Privacy Policy" [ref=e4262] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e4263]: Privacy Policy
+              - link "Terms of Service" [ref=e4265] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e4266]: Terms of Service
+              - link "Cookie Policy" [ref=e4268] [cursor=pointer]:
+                - /url: /profile
+                - generic [ref=e4269]: Cookie Policy
+      - generic [ref=e4271]:
+        - paragraph [ref=e4272]: © 2026 Grolin Grocery. All rights reserved.
+        - generic [ref=e4273]:
+          - generic [ref=e4274]: Visa·
+          - generic [ref=e4275]: Mastercard·
+          - generic [ref=e4276]: UPI·
+          - generic [ref=e4277]: Google Pay·
+          - generic [ref=e4278]: Apple Pay·
+          - generic [ref=e4279]: Razorpay
+        - paragraph [ref=e4280]:
+          - text: Made with
+          - img [ref=e4282]
+          - text: in Kolkata
+    - button "Back to top":
+      - img
+      - text: Back to top
+  - region "Notifications alt+T"
